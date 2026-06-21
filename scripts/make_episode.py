@@ -129,6 +129,27 @@ def synthesize(text, out_path, backend, api_key):
                     time.sleep(2 * attempt)
 
 
+def desc_from_notes(path):
+    """Build a show-notes description (summary + Sources list) from a notes file."""
+    summary, sources = "", []
+    for line in Path(path).read_text(encoding="utf-8").splitlines():
+        s = line.strip()
+        if s.upper().startswith("SUMMARY:"):
+            summary = s.split(":", 1)[1].strip()
+        elif s.upper().startswith("SOURCE:"):
+            sources.append(s.split(":", 1)[1].strip())
+    parts = [summary] if summary else []
+    if sources:
+        parts.append("\nSources:")
+        for s in sources:
+            if "|" in s:
+                t, u = [x.strip() for x in s.split("|", 1)]
+                parts.append(f"- {t}: {u}")
+            else:
+                parts.append(f"- {s}")
+    return "\n".join(parts)[:3500]
+
+
 def load_manifest():
     return json.loads(MANIFEST.read_text(encoding="utf-8")) if MANIFEST.exists() else []
 
@@ -212,7 +233,8 @@ def main():
     if not text:
         die("台本が空です。")
     title = opt("--title") or f"{CONFIG.get('episode_title_prefix', 'Daily Brief')} {date}"
-    desc = re.sub(r"\s+", " ", text)[:300]
+    notes_file = opt("--notes")
+    desc = desc_from_notes(notes_file) if notes_file and Path(notes_file).exists() else re.sub(r"\s+", " ", text)[:300]
 
     fname = f"{date}-{slug}.mp3" if slug else f"{date}.mp3"
     out = EP_DIR / fname
