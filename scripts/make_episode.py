@@ -200,14 +200,21 @@ def main():
         die("tts_backend=openai ですが OPENAI_API_KEY が未設定です。")
 
     args = sys.argv[2:]
-    date = args[args.index("--date") + 1] if "--date" in args else datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    def opt(name):
+        return args[args.index(name) + 1] if name in args else None
+    date = opt("--date") or datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    slug = opt("--slug")                      # e.g. "en" -> 2026-06-21-en.mp3
+    if opt("--voice"):                        # per-run voice override (e.g. English voice)
+        CONFIG["edge_voice"] = opt("--voice")
+    if opt("--rate"):
+        CONFIG["edge_rate"] = opt("--rate")
     text = Path(sys.argv[1]).read_text(encoding="utf-8").strip()
     if not text:
         die("台本が空です。")
-    title = args[args.index("--title") + 1] if "--title" in args else f"{CONFIG.get('episode_title_prefix', 'Daily Brief')} {date}"
+    title = opt("--title") or f"{CONFIG.get('episode_title_prefix', 'Daily Brief')} {date}"
     desc = re.sub(r"\s+", " ", text)[:300]
 
-    fname = f"{date}.mp3"
+    fname = f"{date}-{slug}.mp3" if slug else f"{date}.mp3"
     out = EP_DIR / fname
     print(f"Generating: {title}")
     synthesize(text, out, backend, api_key)
