@@ -1,0 +1,25 @@
+{
+  "podcast_title": "Kengo's Daily Brief",
+  "podcast_description": "論文・記事を毎日ダイジェスト音声でインプットするための自分専用ポッドキャスト（自動生成）。",
+  "author": "Kengo Nishikawa",
+  "category": "Education",
+  "language_code": "ja",
+  "base_url": "FILL_AFTER_REPO_CREATE",
+
+  "tts_backend": "edge",
+
+  "edge_voice": "ja-JP-NanamiNeural",
+  "edge_rate": "+30%",
+
+  "tts_model": "gpt-4o-mini-tts",
+  "voice": "nova",
+  "voice_instructions": "Speak in a clear, calm, friendly Japanese narrator tone at a natural, slightly brisk pace. Make it easy to listen to while commuting.",
+
+  "episode_title_prefix": "デイリーブリーフ",
+  "chars_per_sec": 7,
+
+  "topics": [
+    "IBS（過敏性腸症候群）の最新研究・治療・ガイドライン"
+  ],
+  "output_language": "ja"
+}
