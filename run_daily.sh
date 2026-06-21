@@ -3,6 +3,7 @@
 set -euo pipefail
 cd "$(dirname "$0")"
 
+PY="/usr/local/bin/python3.12"   # edge-tts requires modern Python
 DATE="$(date +%F)"
 SCRIPT="build/script-$DATE.md"
 mkdir -p build
@@ -17,8 +18,8 @@ claude -p "$(cat prompts/daily_brief.md)
 [ -s "$SCRIPT" ] || { echo "script not produced: $SCRIPT" >&2; exit 1; }
 
 # 2) Synthesize audio + rebuild feed
-echo "[2/3] Synthesizing audio with OpenAI TTS..."
-python3 scripts/make_episode.py "$SCRIPT" --date "$DATE"
+echo "[2/3] Synthesizing audio (TTS)..."
+"$PY" scripts/make_episode.py "$SCRIPT" --date "$DATE"
 
 # 3) Publish to GitHub Pages
 echo "[3/3] Publishing..."

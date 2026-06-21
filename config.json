@@ -16,7 +16,7 @@
   "voice_instructions": "Speak in a clear, calm, friendly Japanese narrator tone at a natural, slightly brisk pace. Make it easy to listen to while commuting.",
 
   "episode_title_prefix": "デイリーブリーフ",
-  "chars_per_sec": 7,
+  "chars_per_sec": 9,
 
   "topics": [
     "IBS（過敏性腸症候群）の最新研究・治療・ガイドライン"
