@@ -10,7 +10,7 @@
 
   "edge_voice": "ja-JP-NanamiNeural",
   "edge_voice_en": "en-US-GuyNeural",
-  "edge_rate": "+50%",
+  "edge_rate": "+0%",
 
   "tts_model": "gpt-4o-mini-tts",
   "voice": "nova",

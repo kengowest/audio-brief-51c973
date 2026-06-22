@@ -31,7 +31,7 @@ EN_VOICE="$("$PY" -c 'import json;print(json.load(open("config.json")).get("edge
   --title "デイリーブリーフ $DATE"
 if [ -s "$EN" ]; then
   "$PY" scripts/make_episode.py "$EN" --date "$DATE" --slug en --notes "$NOTES" \
-    --voice "$EN_VOICE" --rate "+20%" --title "Daily Brief $DATE (English)"
+    --voice "$EN_VOICE" --rate "+0%" --title "Daily Brief $DATE (English)"
 fi
 
 # 3) Log to Notion (skips quietly if NOTION_TOKEN/NOTION_DB_ID unset)
