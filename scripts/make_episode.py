@@ -101,7 +101,22 @@ def tts_openai(text, api_key):
         return r.read()
 
 
-def synthesize(text, out_path, backend, api_key):
+def apply_pronunciation(text, lang):
+    """Fix TTS misreadings via config.json `pronunciation` map before synthesis.
+    Map shape: {"common": {"所感":"しょかん"}, "ja": {...}, "en": {...}}.
+    `common` + the lang-specific table are applied (longest keys first so that
+    multi-word replacements win over partial ones)."""
+    p = CONFIG.get("pronunciation", {})
+    table = {}
+    table.update(p.get("common", {}))
+    table.update(p.get(lang, {}))
+    for src in sorted(table, key=len, reverse=True):
+        text = text.replace(src, table[src])
+    return text
+
+
+def synthesize(text, out_path, backend, api_key, lang="ja"):
+    text = apply_pronunciation(text, lang)
     if backend == "edge":
         print("  TTS backend: edge-tts (free)")
         tts_edge(text, out_path)
@@ -238,8 +253,9 @@ def main():
 
     fname = f"{date}-{slug}.mp3" if slug else f"{date}.mp3"
     out = EP_DIR / fname
+    lang = "en" if (slug or "").startswith("en") else "ja"
     print(f"Generating: {title}")
-    synthesize(text, out, backend, api_key)
+    synthesize(text, out, backend, api_key, lang=lang)
     nbytes = out.stat().st_size
 
     m = [e for e in load_manifest() if e["file"] != fname]
