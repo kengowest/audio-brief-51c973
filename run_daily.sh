@@ -36,10 +36,10 @@ fi
 
 # 3) Log to Notion (skips quietly if NOTION_TOKEN/NOTION_DB_ID unset)
 echo "[3/4] Notion..."
-"$PY" scripts/notion_log.py --date "$DATE" --lang JA --notes "$NOTES" \
+"$PY" scripts/notion_log.py --date "$DATE" --lang JA --type Daily --notes "$NOTES" \
   --title "デイリーブリーフ $DATE" --audio "$BASE_URL/episodes/$DATE.mp3"
 if [ -s "$EN" ]; then
-  "$PY" scripts/notion_log.py --date "$DATE" --lang EN --notes "$NOTES" \
+  "$PY" scripts/notion_log.py --date "$DATE" --lang EN --type Daily --notes "$NOTES" \
     --title "Daily Brief $DATE (English)" --audio "$BASE_URL/episodes/$DATE-en.mp3"
 fi
 

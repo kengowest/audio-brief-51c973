@@ -7,7 +7,7 @@ Reads NOTION_TOKEN and NOTION_DB_ID from the environment (load .env first).
 If either is missing, exits 0 quietly (so the audio pipeline still succeeds).
 
 Usage:
-  notion_log.py --title T --date YYYY-MM-DD --lang JA|EN --audio URL --notes build/notes-DATE.md
+  notion_log.py --title T --date YYYY-MM-DD --lang JA|EN --audio URL --notes build/notes-DATE.md [--type Daily|Special]
 
 notes file format (one per line):
   SUMMARY: <one paragraph>
@@ -58,10 +58,12 @@ def main():
     date = opt("--date")
     lang = opt("--lang") or "JA"
     audio = opt("--audio")
+    ep_type = opt("--type") or "Daily"   # Daily | Special
     summary, topics, sources = parse_notes(opt("--notes"))
 
     props = {"Name": {"title": [{"text": {"content": title[:2000]}}]},
-             "Language": {"select": {"name": lang}}}
+             "Language": {"select": {"name": lang}},
+             "Type": {"select": {"name": ep_type}}}
     if date:
         props["Date"] = {"date": {"start": date}}
     if audio:
