@@ -16,13 +16,20 @@ exec >>"build/cron-$DATE.log" 2>&1
 echo "===== run_daily $DATE $(date) ====="
 
 # 1) Research + write JA script, EN script, and notes (with sources)
+# Retry on transient API failures (e.g. "Connection closed mid-response")
 echo "[1/4] Claude Code research & write..."
-claude -p "$(cat prompts/daily_brief.md)
+PROMPT="$(cat prompts/daily_brief.md)
 
-今日の日付は $DATE です。build/script-$DATE.md（日本語）、build/script-$DATE-en.md（英語）、build/notes-$DATE.md（ショーノート）の3ファイルを書き出してください。" \
-  --allowedTools "WebSearch,WebFetch,Read,Write"
+今日の日付は $DATE です。build/script-$DATE.md（日本語）、build/script-$DATE-en.md（英語）、build/notes-$DATE.md（ショーノート）の3ファイルを書き出してください。"
+for attempt in 1 2 3 4 5; do
+  echo "  [1/4] attempt $attempt/5 @ $(date)"
+  claude -p "$PROMPT" --allowedTools "WebSearch,WebFetch,Read,Write"
+  [ -s "$JA" ] && { echo "  [1/4] OK on attempt $attempt"; break; }
+  echo "  [1/4] attempt $attempt failed ($JA not produced); retrying in 120s..."
+  sleep 120
+done
 
-[ -s "$JA" ] || { echo "FATAL: $JA not produced"; exit 1; }
+[ -s "$JA" ] || { echo "FATAL: $JA not produced after 5 attempts"; exit 1; }
 
 # 2) Synthesize audio (JA + EN) with show-notes description
 echo "[2/4] TTS..."
