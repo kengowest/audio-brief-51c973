@@ -12,8 +12,40 @@ DATE="$(date +%F)"
 BASE_URL="https://kengowest.github.io/audio-brief-51c973"
 JA="build/script-$DATE.md"; EN="build/script-$DATE-en.md"; NOTES="build/notes-$DATE.md"
 mkdir -p build
-exec >>"build/cron-$DATE.log" 2>&1
+LOG="build/cron-$DATE.log"
+exec >>"$LOG" 2>&1
 echo "===== run_daily $DATE $(date) ====="
+
+# --- Slack notification (chat.postMessage). Needs SLACK_BOT_TOKEN in .env. ---
+SLACK_NOTIFY_CHANNEL="${SLACK_NOTIFY_CHANNEL:-D0APBH10LSG}"
+notify_slack() {
+  # Prefer Incoming Webhook (simplest); fall back to Bot Token (chat.postMessage).
+  if [ -n "${SLACK_WEBHOOK_URL:-}" ]; then
+    local body
+    body="$(SLACK_TEXT="$1" "$PY" -c 'import json,os;print(json.dumps({"text":os.environ["SLACK_TEXT"]}))')"
+    curl -sS -X POST -H "Content-type: application/json" --data "$body" "$SLACK_WEBHOOK_URL" \
+      >/dev/null && echo "slack: sent (webhook)" || echo "slack: webhook failed"
+  elif [ -n "${SLACK_BOT_TOKEN:-}" ]; then
+    local payload
+    payload="$(SLACK_TEXT="$1" SLACK_CH="$SLACK_NOTIFY_CHANNEL" "$PY" -c \
+      'import json,os;print(json.dumps({"channel":os.environ["SLACK_CH"],"text":os.environ["SLACK_TEXT"],"unfurl_links":False,"unfurl_media":False}))')"
+    curl -sS -X POST https://slack.com/api/chat.postMessage \
+      -H "Authorization: Bearer $SLACK_BOT_TOKEN" \
+      -H "Content-type: application/json; charset=utf-8" \
+      --data "$payload" | grep -q '"ok":true' && echo "slack: sent (bot)" || echo "slack: post failed"
+  else
+    echo "slack: no SLACK_WEBHOOK_URL / SLACK_BOT_TOKEN, skip"
+  fi
+}
+
+# On any unexpected/early exit, alert with the tail of today's log.
+SUCCESS=0
+on_exit() {
+  [ "$SUCCESS" = "1" ] && return 0
+  notify_slack "$(printf '🚨 デイリーブリーフ %s 生成失敗\n%s\nlog: %s' \
+    "$DATE" "$(tail -n 6 "$LOG" 2>/dev/null)" "$LOG")"
+}
+trap on_exit EXIT
 
 # 1) Research + write JA script, EN script, and notes (with sources)
 # Retry on transient API failures (e.g. "Connection closed mid-response")
@@ -53,6 +85,15 @@ fi
 # 4) Publish
 echo "[4/4] Publish..."
 git add -A
-git -c user.email="info@emptea.co" -c user.name="kengowest" commit -q -m "episode $DATE (JA+EN)" || { echo "nothing to commit"; exit 0; }
-GIT_TERMINAL_PROMPT=0 git push origin master
+if git -c user.email="info@emptea.co" -c user.name="kengowest" commit -q -m "episode $DATE (JA+EN)"; then
+  GIT_TERMINAL_PROMPT=0 git push origin master
+else
+  echo "nothing to commit"
+fi
 echo "DONE $DATE"
+
+# --- Success: notify with audio links (JA + EN) ---
+SUCCESS=1
+MSG="$(printf '✅ デイリーブリーフ %s 公開完了\nJA: %s/episodes/%s.mp3' "$DATE" "$BASE_URL" "$DATE")"
+[ -s "$EN" ] && MSG="$(printf '%s\nEN: %s/episodes/%s-en.mp3' "$MSG" "$BASE_URL" "$DATE")"
+notify_slack "$MSG"

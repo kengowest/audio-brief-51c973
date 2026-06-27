@@ -32,7 +32,37 @@ NOTES="build/notes-$DATE-special.md"
 [ -s "$JA" ]    || { echo "FATAL: $JA not found (write the JA script first)"; exit 1; }
 [ -s "$NOTES" ] || { echo "WARN: $NOTES not found — show notes / Notion will be sparse"; }
 
+LOG="build/cron-$DATE-special.log"
+exec > >(tee -a "$LOG") 2>&1
 echo "===== run_special $DATE \"$TOPIC\" $(date) ====="
+
+# --- Slack notification (mirrors run_daily.sh). Webhook preferred, Bot Token fallback. ---
+SLACK_NOTIFY_CHANNEL="${SLACK_NOTIFY_CHANNEL:-D0APBH10LSG}"
+notify_slack() {
+  if [ -n "${SLACK_WEBHOOK_URL:-}" ]; then
+    local body
+    body="$(SLACK_TEXT="$1" "$PY" -c 'import json,os;print(json.dumps({"text":os.environ["SLACK_TEXT"]}))')"
+    curl -sS -X POST -H "Content-type: application/json" --data "$body" "$SLACK_WEBHOOK_URL" \
+      >/dev/null && echo "slack: sent (webhook)" || echo "slack: webhook failed"
+  elif [ -n "${SLACK_BOT_TOKEN:-}" ]; then
+    local payload
+    payload="$(SLACK_TEXT="$1" SLACK_CH="$SLACK_NOTIFY_CHANNEL" "$PY" -c \
+      'import json,os;print(json.dumps({"channel":os.environ["SLACK_CH"],"text":os.environ["SLACK_TEXT"],"unfurl_links":False,"unfurl_media":False}))')"
+    curl -sS -X POST https://slack.com/api/chat.postMessage \
+      -H "Authorization: Bearer $SLACK_BOT_TOKEN" \
+      -H "Content-type: application/json; charset=utf-8" \
+      --data "$payload" | grep -q '"ok":true' && echo "slack: sent (bot)" || echo "slack: post failed"
+  else
+    echo "slack: no SLACK_WEBHOOK_URL / SLACK_BOT_TOKEN, skip"
+  fi
+}
+SUCCESS=0
+on_exit() {
+  [ "$SUCCESS" = "1" ] && return 0
+  notify_slack "$(printf '🚨 特別回 %s「%s」生成失敗\n%s\nlog: %s' \
+    "$DATE" "$TOPIC" "$(tail -n 6 "$LOG" 2>/dev/null)" "$LOG")"
+}
+trap on_exit EXIT
 
 # 1) TTS (JA + EN)
 echo "[1/3] TTS..."
@@ -56,6 +86,15 @@ fi
 # 3) Publish
 echo "[3/3] Publish..."
 git add -A
-git -c user.email="info@emptea.co" -c user.name="kengowest" commit -q -m "special episode $DATE: $TOPIC (JA+EN)" || { echo "nothing to commit"; exit 0; }
-GIT_TERMINAL_PROMPT=0 git push origin master
+if git -c user.email="info@emptea.co" -c user.name="kengowest" commit -q -m "special episode $DATE: $TOPIC (JA+EN)"; then
+  GIT_TERMINAL_PROMPT=0 git push origin master
+else
+  echo "nothing to commit"
+fi
 echo "DONE special $DATE"
+
+# --- Success: notify with audio links (JA + EN) ---
+SUCCESS=1
+MSG="$(printf '✅ 特別回 公開完了：%s（%s）\nJA: %s/episodes/%s-special.mp3' "$TOPIC" "$DATE" "$BASE_URL" "$DATE")"
+[ -s "$EN" ] && MSG="$(printf '%s\nEN: %s/episodes/%s-en-special.mp3' "$MSG" "$BASE_URL" "$DATE")"
+notify_slack "$MSG"
