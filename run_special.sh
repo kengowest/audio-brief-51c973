@@ -93,8 +93,32 @@ else
 fi
 echo "DONE special $DATE"
 
+# 3b) Verify deploy (GitHub Pages legacy build can stall -> new mp3 404s despite a good push).
+# Poll the JA special URL; if it never goes live, nudge a fresh Pages build and re-poll.
+REPO_SLUG="kengowest/audio-brief-51c973"
+verify_live() {
+  local url="$BASE_URL/episodes/$DATE-special.mp3" code=""
+  for _ in $(seq 1 9); do
+    code="$(curl -s -o /dev/null -w '%{http_code}' -I "$url")"
+    [ "$code" = "200" ] && { echo "verify: live ($url)"; return 0; }
+    sleep 20
+  done
+  echo "verify: still $code after 3min -> requesting Pages rebuild"
+  gh api -X POST "repos/$REPO_SLUG/pages/builds" >/dev/null 2>&1 \
+    && echo "verify: rebuild requested" || echo "verify: rebuild request failed (gh unavailable headless?)"
+  for _ in $(seq 1 9); do
+    code="$(curl -s -o /dev/null -w '%{http_code}' -I "$url")"
+    [ "$code" = "200" ] && { echo "verify: live after rebuild ($url)"; return 0; }
+    sleep 20
+  done
+  echo "verify: STILL NOT LIVE ($code)"
+  return 1
+}
+if verify_live; then LIVE_NOTE=""; else LIVE_NOTE=$'\n⚠️ サイト未反映: GitHub Pages ビルド確認要'; fi
+
 # --- Success: notify with audio links (JA + EN) ---
 SUCCESS=1
 MSG="$(printf '✅ 特別回 公開完了：%s（%s）\nJA: %s/episodes/%s-special.mp3' "$TOPIC" "$DATE" "$BASE_URL" "$DATE")"
 [ -s "$EN" ] && MSG="$(printf '%s\nEN: %s/episodes/%s-en-special.mp3' "$MSG" "$BASE_URL" "$DATE")"
+MSG="$MSG$LIVE_NOTE"
 notify_slack "$MSG"
