@@ -84,6 +84,9 @@ fi
 
 # 4) Publish
 echo "[4/4] Publish..."
+# Prune old daily audio first so the Pages build stays small/fast (specials kept;
+# pruned mp3s remain in git history = recoverable; Notion log is untouched).
+"$PY" scripts/prune_episodes.py || echo "prune: skipped (non-fatal)"
 git add -A
 if git -c user.email="info@emptea.co" -c user.name="kengowest" commit -q -m "episode $DATE (JA+EN)"; then
   GIT_TERMINAL_PROMPT=0 git push origin master
@@ -92,8 +95,33 @@ else
 fi
 echo "DONE $DATE"
 
+# 4b) Verify the site actually deployed. GitHub Pages' legacy build can get stuck
+# (status "building" for hours) so a successful push still 404s the new mp3.
+# Poll the JA episode URL; if it never goes live, nudge a fresh Pages build and re-poll.
+REPO_SLUG="kengowest/audio-brief-51c973"
+verify_live() {
+  local url="$BASE_URL/episodes/$DATE.mp3" code=""
+  for _ in $(seq 1 9); do                     # ~3 min
+    code="$(curl -s -o /dev/null -w '%{http_code}' -I "$url")"
+    [ "$code" = "200" ] && { echo "verify: live ($url)"; return 0; }
+    sleep 20
+  done
+  echo "verify: still $code after 3min -> requesting Pages rebuild"
+  gh api -X POST "repos/$REPO_SLUG/pages/builds" >/dev/null 2>&1 \
+    && echo "verify: rebuild requested" || echo "verify: rebuild request failed (gh unavailable headless?)"
+  for _ in $(seq 1 9); do                     # another ~3 min
+    code="$(curl -s -o /dev/null -w '%{http_code}' -I "$url")"
+    [ "$code" = "200" ] && { echo "verify: live after rebuild ($url)"; return 0; }
+    sleep 20
+  done
+  echo "verify: STILL NOT LIVE ($code)"
+  return 1
+}
+if verify_live; then LIVE_NOTE=""; else LIVE_NOTE=$'\n⚠️ サイト未反映: GitHub Pages ビルド確認要 (gh api repos/'"$REPO_SLUG"'/pages/builds/latest)'; fi
+
 # --- Success: notify with audio links (JA + EN) ---
 SUCCESS=1
 MSG="$(printf '✅ デイリーブリーフ %s 公開完了\nJA: %s/episodes/%s.mp3' "$DATE" "$BASE_URL" "$DATE")"
 [ -s "$EN" ] && MSG="$(printf '%s\nEN: %s/episodes/%s-en.mp3' "$MSG" "$BASE_URL" "$DATE")"
+MSG="$MSG$LIVE_NOTE"
 notify_slack "$MSG"
