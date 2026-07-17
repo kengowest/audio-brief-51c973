@@ -10,6 +10,56 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
     <item>
+      <title>デイリーブリーフ 2026-07-18</title>
+      <description>今日の主役は「腸と睡眠・体内時計」という新しい切り口。腸内細菌そのものが24時間リズムで増減し、睡眠と同期するという見取り図を紹介。総説(Brain and Behavior 2026年6月)は腸-睡眠は双方向で、短鎖脂肪酸(酪酸)・トリプトファン由来物質・GABAが媒介、睡眠障害ではビフィズス菌/フェカリバクテリウム低下パターンだが人によりばらつく、と整理。一次研究としてスイス乳児162人を3/6/12か月追跡(Scientific Reports 2025年11月、足首アクチグラフ)で、腸内細菌の約7%が24時間リズムを持ち月齢とともにリズム菌が7→86種に増え、睡眠規則性指標CFIが0.59→0.70に上がるのと同期、酪酸が媒介候補、ただし方向性未解決・便採取が昼寄りと線引き。体のセロトニンの9割は腸産生でメラトニンの材料になり、ビフィズス菌CCFM1025のRCT(40人4週)で睡眠質改善も菌株依存。土台は朝の光・規則的な食事・食物繊維、夜遅い食事や交代勤務は腸リズムを乱す。市場は「腸活に大手が出資」が世界で表面化:豪ブラックモアズが豪バイオームバンクに最大1500万ドル(約24億円)で14%取得・企業価値6000万ドル(約97億円)、英ザ・ガット・スタッフを多国籍食品大手が買収、米蘭イングレディオンがにんじん由来プレバイオティクスのベニカロス買収、日本のユーグレナ社が神鋼環境ソリューションの微細藻類事業を買収。海外では睡眠狙いのビフィズス菌サプリが一つの棚に。テックは米オープンエーアイのGPT-Live(7/8、全二重=聞くと話すを同時、交代制から同時進行へ)と、米エヌビディアのBioNeMoエージェント(AIが創薬の道具を動かしタンパク質結合体を設計、数日→数分)。お茶は抹茶不足継続、てんちゃ取引価格が約1万800円/kgで前年ほぼ倍、8月が山場。アマゾンは7月からフィーチャード・オファーのセラー資格審査を段階廃止(年内に全世界)、7/27から商品名75文字上限(メディア除く)。USD/JPYは約162円で換算。
+
+Sources:
+- Gut Microbiome-Sleep Crosstalk: Mechanistic Pathways, Dysbiosis Signatures, and Microbiome-Based Interventions (Brain and Behavior, 2026 Jun): https://pubmed.ncbi.nlm.nih.gov/42237711/
+- Linking gut microbiota rhythmicity to circadian maturation in infants (Scientific Reports, 2025 Nov): https://pmc.ncbi.nlm.nih.gov/articles/PMC12644702/
+- What is the nature of sleep and circadian rhythm health on gastrointestinal microbiota? A systematic review in humans (Sleep Medicine Reviews): https://www.sciencedirect.com/science/article/abs/pii/S1087079226000286
+- Interplay between gut microbiota and insomnia: latest research advances based on the gut-brain axis (Sleep Science and Practice, 2026): https://link.springer.com/article/10.1186/s41606-026-00187-6
+- Bifidobacterium breve CCFM1025 Improves Sleep Quality via Regulating the Activity of the HPA Axis: A Randomized Clinical Trial: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10648101/
+- Disrupted Rhythms, Disrupted Microbes: A Systematic Review of Shift Work and Gut Microbiota Alterations: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12430427/
+- Market moves: Supplement industry deals of Q2 2026 (NutraIngredients): https://www.nutraingredients.com/Article/2026/06/30/supplement-industry-deals-of-q2-2026/
+- OpenAI releases new voice models for more natural live conversations (TechCrunch, 2026 Jul 8): https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/
+- Introducing GPT-Live (OpenAI): https://openai.com/index/introducing-gpt-live/
+- AI science breakthroughs July 2026 — NVIDIA BioNeMo Agent Toolkit: https://skycrumbs.com/blog/ai-research-july-2026
+- Matcha Price Increase 2026: Why Japanese Matcha Costs More (Wagyu Ninja): https://wagyuninja.tokyo/blog/matcha-supply-shortage-2026
+- Updates to Featured Offer eligibility requirements (Amazon Seller Central): https://sellercentral.amazon.com/seller-forums/discussions/t/7336583f-09ac-41de-99d1-667017a88db2
+- Updates to improve your product titles begin on July 27 (Amazon Seller Central): https://sellercentral.amazon.com/seller-forums/discussions/t/145b6d0f-999c-4555-896c-c694bda2e470
+- USD/JPY exchange rate (July 17, 2026, ~162.37): https://tradingeconomics.com/japan/currency</description>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://kengowest.github.io/audio-brief-51c973/episodes/2026-07-18.mp3" length="5817312" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-07-18.mp3</guid>
+      <itunes:duration>00:09:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Daily Brief 2026-07-18 (English)</title>
+      <description>今日の主役は「腸と睡眠・体内時計」という新しい切り口。腸内細菌そのものが24時間リズムで増減し、睡眠と同期するという見取り図を紹介。総説(Brain and Behavior 2026年6月)は腸-睡眠は双方向で、短鎖脂肪酸(酪酸)・トリプトファン由来物質・GABAが媒介、睡眠障害ではビフィズス菌/フェカリバクテリウム低下パターンだが人によりばらつく、と整理。一次研究としてスイス乳児162人を3/6/12か月追跡(Scientific Reports 2025年11月、足首アクチグラフ)で、腸内細菌の約7%が24時間リズムを持ち月齢とともにリズム菌が7→86種に増え、睡眠規則性指標CFIが0.59→0.70に上がるのと同期、酪酸が媒介候補、ただし方向性未解決・便採取が昼寄りと線引き。体のセロトニンの9割は腸産生でメラトニンの材料になり、ビフィズス菌CCFM1025のRCT(40人4週)で睡眠質改善も菌株依存。土台は朝の光・規則的な食事・食物繊維、夜遅い食事や交代勤務は腸リズムを乱す。市場は「腸活に大手が出資」が世界で表面化:豪ブラックモアズが豪バイオームバンクに最大1500万ドル(約24億円)で14%取得・企業価値6000万ドル(約97億円)、英ザ・ガット・スタッフを多国籍食品大手が買収、米蘭イングレディオンがにんじん由来プレバイオティクスのベニカロス買収、日本のユーグレナ社が神鋼環境ソリューションの微細藻類事業を買収。海外では睡眠狙いのビフィズス菌サプリが一つの棚に。テックは米オープンエーアイのGPT-Live(7/8、全二重=聞くと話すを同時、交代制から同時進行へ)と、米エヌビディアのBioNeMoエージェント(AIが創薬の道具を動かしタンパク質結合体を設計、数日→数分)。お茶は抹茶不足継続、てんちゃ取引価格が約1万800円/kgで前年ほぼ倍、8月が山場。アマゾンは7月からフィーチャード・オファーのセラー資格審査を段階廃止(年内に全世界)、7/27から商品名75文字上限(メディア除く)。USD/JPYは約162円で換算。
+
+Sources:
+- Gut Microbiome-Sleep Crosstalk: Mechanistic Pathways, Dysbiosis Signatures, and Microbiome-Based Interventions (Brain and Behavior, 2026 Jun): https://pubmed.ncbi.nlm.nih.gov/42237711/
+- Linking gut microbiota rhythmicity to circadian maturation in infants (Scientific Reports, 2025 Nov): https://pmc.ncbi.nlm.nih.gov/articles/PMC12644702/
+- What is the nature of sleep and circadian rhythm health on gastrointestinal microbiota? A systematic review in humans (Sleep Medicine Reviews): https://www.sciencedirect.com/science/article/abs/pii/S1087079226000286
+- Interplay between gut microbiota and insomnia: latest research advances based on the gut-brain axis (Sleep Science and Practice, 2026): https://link.springer.com/article/10.1186/s41606-026-00187-6
+- Bifidobacterium breve CCFM1025 Improves Sleep Quality via Regulating the Activity of the HPA Axis: A Randomized Clinical Trial: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10648101/
+- Disrupted Rhythms, Disrupted Microbes: A Systematic Review of Shift Work and Gut Microbiota Alterations: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12430427/
+- Market moves: Supplement industry deals of Q2 2026 (NutraIngredients): https://www.nutraingredients.com/Article/2026/06/30/supplement-industry-deals-of-q2-2026/
+- OpenAI releases new voice models for more natural live conversations (TechCrunch, 2026 Jul 8): https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/
+- Introducing GPT-Live (OpenAI): https://openai.com/index/introducing-gpt-live/
+- AI science breakthroughs July 2026 — NVIDIA BioNeMo Agent Toolkit: https://skycrumbs.com/blog/ai-research-july-2026
+- Matcha Price Increase 2026: Why Japanese Matcha Costs More (Wagyu Ninja): https://wagyuninja.tokyo/blog/matcha-supply-shortage-2026
+- Updates to Featured Offer eligibility requirements (Amazon Seller Central): https://sellercentral.amazon.com/seller-forums/discussions/t/7336583f-09ac-41de-99d1-667017a88db2
+- Updates to improve your product titles begin on July 27 (Amazon Seller Central): https://sellercentral.amazon.com/seller-forums/discussions/t/145b6d0f-999c-4555-896c-c694bda2e470
+- USD/JPY exchange rate (July 17, 2026, ~162.37): https://tradingeconomics.com/japan/currency</description>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://kengowest.github.io/audio-brief-51c973/episodes/2026-07-18-en.mp3" length="4193280" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-07-18-en.mp3</guid>
+      <itunes:duration>00:21:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>デイリーブリーフ 2026-07-17</title>
       <description>今日の主役は「腸と免疫」という新しい切り口で、軸は「腸内細菌は『読む』のは上手くなったが『書きかえる』のは下手なまま」という2026年の落差。読む側は今年4月のセル誌(米ニューヨーク大がんセンター中心)で、メラノーマ術後の免疫チェックポイント阻害薬の再発を治療前の便から予測した過去最大の研究(n=674、第3相CheckMate 915の5地域)。ユーバクテリウム/ルミノコッカス等が関連し、的中の物差しで約78〜94%と高いが、これは腸内細菌の中身がよく似た人どうしを比べたときだけで、地域差が大きく世界共通の「いい菌」は存在せず、アジア集団は未収載、治療中も菌叢はほぼ不変(=薬が作りかえるのでなく元々の性質)。書きかえる側は今年の便微生物移植3試験がそろって足踏み: 中国・北京(Cell Host &amp; Microbe 7/8)のうつ病上乗せ試験は主要評価項目の寛解率で偽薬と差なし(点数低下は優位、胆汁酸→炎症低下の媒介、ただしメーカー資金)、インド(JAMA Intern Med, n=114)の耐性菌除菌は31.0%対30.4%で完全な差なし——多様性も短鎖脂肪酸産生菌も増えたのに結果が動かなかった点が最重要、ポーランド・ワルシャワ医科大(Ann Neurol, n=59)のパーキンソン病は運動症状p=1.00。示唆は「菌は治療の的より先に『読む』情報源として価値が出る」「中間指標が動いた=成果、はもう通用しない」。市場は「錠剤が形に負けはじめた」で4本: 英ロンドンのリフォームド(シリーズA約2200万ドル/約36億円、創業20か月・14人で年換算売上約7000万ドル/約113億円、8割が2か月目に再注文、秋に米進出)、英ゾーイ×キングス・カレッジ・ロンドンの6週間RCT(30種の植物ブレンドが単一菌カプセルに勝つ、ただし自社製品)、日本の乳製品大手日本法人(仏親会社)の高たんぱく/腸活/スイーツ3本柱と館林工場150億円超投資・2028年稼働、矢野経済の健康食品市場3年連続軟調(2024年度9222億円→2025年度9147億円→2026年度9079億円)と8/31の機能性表示食品・経過措置終了(GMP義務化)。紅麹後に需要はサプリ形状から粉末・一般食品形状へ移動。テックは米アンソロピックの科学向け作業環境(新モデルではなく足回り、60超の道具立て、検証エージェント、アレン研究所で2年→自動化)と、韓国サムスン2nmでの自社チップ検討(5月の650億ドル/約10兆円調達に戦略出資)。お茶は7/10に農水省が「日本茶」をGI登録、産地を「日本国」とする史上初(GI通算170件、緑茶輸出約721億円で約2倍、中国産抹茶の日本地名表示対策)。アマゾンは7/8頃発表のフィーチャード・オファー資格審査の廃止(門→順位づけ点数への統合、EU/UKは7/20、年内に全世界)。USD/JPYは約162円で換算。
 
