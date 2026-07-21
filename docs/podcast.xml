@@ -10,6 +10,52 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
     <item>
+      <title>デイリーブリーフ 2026-07-21</title>
+      <description>今日の主役は「腸と心」を迷走神経(めいそうしんけい)一本にしぼった新しい切り口(腸脳相関の心側)。軸は「二〇二六年の腸脳研究は電線の&quot;読み&quot;は上手くなったが、その電線で気分を&quot;書きかえる&quot;のはまだ下手」という落差。配線の話としてiScience(2024年12月)を紹介:小腸内で腸内細菌由来の短鎖脂肪酸・胆汁酸・トリプトファン由来のインドキシル硫酸が、受容体を介して迷走神経の活動を直接調整する=菌は脳に触れず「物質の手紙」を迷走神経に渡す。因果の証拠としてMolecular Psychiatry(2023年、マウス)を紹介:慢性ストレスマウスの腸内細菌を健康マウスへ移植するとうつ様行動＋脳のセロトニン/ドパミン乱れが生じるが、あらかじめ迷走神経を切っておくとその変化がほぼ起きない=腸→心には迷走神経の連結が必要条件。メカニズム総説(Frontiers in Microbiology、2026年)では、乳酸菌/ビフィズス菌がGABA・セロトニン・ドパミンを産生、フェカリバクテリウム/ロゼブリア等の短鎖脂肪酸産生菌が多い人ほど反応良好、IL-10等の抗炎症経由でHPA軸・扁桃体の過剰興奮を鎮める、と整理。ヒト例としてB. longum 1714が試験ストレス下の睡眠改善、加熱死菌L. paracasei PS23が看護師のコルチゾール低下。現実チェックとしてアンブレラレビュー(2026年、システマティックレビュー30件)：サイコバイオティクスはうつでSMDマイナス0.50(中程度、92%の解析で有意)、不安でマイナス0.19(小、有意は58%)、プレバイオティクスはうつにわずか・不安は結論なし、シンバイオティクスはデータ不足。ただし30件中76.6%が方法論の質「低い/非常に低い」、便中の神経伝達物質量と気分改善はほぼ相関せず=機序と実効の間になおもや。効果が最も見えるのは健康人でも重症うつでもなく「ストレス下の人」。市場は科学の手前で先走りがち:米国でサイコバイオティクス商品(プレ+プロ+ポスト+アミノ酸1粒)続々、臨床検証株で代謝・認知を狙う企業が1.2億ドル(約190億円)超調達、ただしmood訴求はFDAの目が厳しくなりうる。英国の腸活サプリブランド(栄養士創業)が数百万ポンド(約十億円前後)を英VC主導で調達(世界展開+研究)。米アクセラレータ直近バッチは117社、ヘルスケア調達中央値460万ドル(約7億円)。日米市場の相関は仮説として留保。テックは「小さく賢いAI」:今月報告のselective activation(課題に関係する部品だけ活性化)で小型モデルが3倍サイズに匹敵、端末上AIに含み。加えてタンパク質の動的構造をAIで予測し創薬へ、の研究も今月複数。お茶は抹茶不足継続(2024末〜、次の春収穫まで月ごとに悪化見込み、碾茶約2.6倍・玉露/煎茶/番茶1.3〜1.8倍、需要5年で約8倍vs樹は5年・産地拡大は数十年、粉末煎茶を&quot;抹茶&quot;と偽る例・一人一缶制限・ほうじ茶/玄米茶にも制限拡大)。アマゾンはRufusを5月終了しAlexa for Shoppingに統合、会話内広告Sponsored Promptsが今春から課金対象化、今月から15ドル(約2,400円)未満商品に1個0.38ドル(約60円)上乗せ＋寸法計算見直しで低単価品のフルフィルメントコスト1〜2割増。円換算はUSD/JPY約162.5、GBP/JPY約220で概算。
+
+Sources:
+- iScience — Select microbial metabolites in the small intestinal lumen regulate vagal activity via receptor-mediated signaling (2024): https://www.cell.com/iscience/fulltext/S2589-0042(24)02926-2
+- Molecular Psychiatry — Gut microbiota changes require vagus nerve integrity to promote depressive-like behaviors in mice (2023): https://www.nature.com/articles/s41380-023-02071-6
+- Frontiers in Microbiology — Psychobiotics in mental health: insights from human clinical trials via the gut-brain axis (2026): https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1804560/full
+- Umbrella Review — &quot;Attacking&quot; the Gut–Brain Axis with Psychobiotics: An Umbrella Review of Depressive and Anxiety Symptoms (2026, PMC12845323): https://pmc.ncbi.nlm.nih.gov/articles/PMC12845323/
+- Reviews of Vagus Nerve Stimulation and gut microbiota interactions (Neurosci Biobehav Rev, 2024): https://pubmed.ncbi.nlm.nih.gov/39716559/
+- Inside Precision Medicine — Emerging microbiome startups following their gut: https://www.insideprecisionmedicine.com/topics/precision-medicine/the-top-five-emerging-microbiome-startups-following-their-gut/
+- 27K Ventures — The Gut–Brain Axis: Startups Rewriting the Link Between Microbiome and Mental Health: https://www.27kventures.com/updates/the-gutbrain-axis-startups-rewriting-the-link-between-microbiome-and-mental-health
+- Yahoo Finance — Gut Health Supplements Top 2026 Wellness Trends: PureWell Sciences Launches Psychobiotics: https://finance.yahoo.com/news/gut-health-supplements-top-2026-152600211.html
+- Y Combinator — Summer 2026 batch directory: https://www.ycombinator.com/companies?batch=Summer+2026
+- Skycrumbs — AI Research Breakthroughs in July 2026 (selective activation sparsity; protein dynamics for drug design): https://skycrumbs.com/blog/ai-research-july-2026
+- Global Japanese Tea Association / Ippodo — Matcha shortage 2026 industry notice: https://global.ippodo-tea.co.jp/blogs/news/202602019
+- One with Tea — Matcha Shortage 2026 Explained: https://onewithtea.com/blogs</description>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://kengowest.github.io/audio-brief-51c973/episodes/2026-07-21.mp3" length="6869952" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-07-21.mp3</guid>
+      <itunes:duration>00:11:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Daily Brief 2026-07-21 (English)</title>
+      <description>今日の主役は「腸と心」を迷走神経(めいそうしんけい)一本にしぼった新しい切り口(腸脳相関の心側)。軸は「二〇二六年の腸脳研究は電線の&quot;読み&quot;は上手くなったが、その電線で気分を&quot;書きかえる&quot;のはまだ下手」という落差。配線の話としてiScience(2024年12月)を紹介:小腸内で腸内細菌由来の短鎖脂肪酸・胆汁酸・トリプトファン由来のインドキシル硫酸が、受容体を介して迷走神経の活動を直接調整する=菌は脳に触れず「物質の手紙」を迷走神経に渡す。因果の証拠としてMolecular Psychiatry(2023年、マウス)を紹介:慢性ストレスマウスの腸内細菌を健康マウスへ移植するとうつ様行動＋脳のセロトニン/ドパミン乱れが生じるが、あらかじめ迷走神経を切っておくとその変化がほぼ起きない=腸→心には迷走神経の連結が必要条件。メカニズム総説(Frontiers in Microbiology、2026年)では、乳酸菌/ビフィズス菌がGABA・セロトニン・ドパミンを産生、フェカリバクテリウム/ロゼブリア等の短鎖脂肪酸産生菌が多い人ほど反応良好、IL-10等の抗炎症経由でHPA軸・扁桃体の過剰興奮を鎮める、と整理。ヒト例としてB. longum 1714が試験ストレス下の睡眠改善、加熱死菌L. paracasei PS23が看護師のコルチゾール低下。現実チェックとしてアンブレラレビュー(2026年、システマティックレビュー30件)：サイコバイオティクスはうつでSMDマイナス0.50(中程度、92%の解析で有意)、不安でマイナス0.19(小、有意は58%)、プレバイオティクスはうつにわずか・不安は結論なし、シンバイオティクスはデータ不足。ただし30件中76.6%が方法論の質「低い/非常に低い」、便中の神経伝達物質量と気分改善はほぼ相関せず=機序と実効の間になおもや。効果が最も見えるのは健康人でも重症うつでもなく「ストレス下の人」。市場は科学の手前で先走りがち:米国でサイコバイオティクス商品(プレ+プロ+ポスト+アミノ酸1粒)続々、臨床検証株で代謝・認知を狙う企業が1.2億ドル(約190億円)超調達、ただしmood訴求はFDAの目が厳しくなりうる。英国の腸活サプリブランド(栄養士創業)が数百万ポンド(約十億円前後)を英VC主導で調達(世界展開+研究)。米アクセラレータ直近バッチは117社、ヘルスケア調達中央値460万ドル(約7億円)。日米市場の相関は仮説として留保。テックは「小さく賢いAI」:今月報告のselective activation(課題に関係する部品だけ活性化)で小型モデルが3倍サイズに匹敵、端末上AIに含み。加えてタンパク質の動的構造をAIで予測し創薬へ、の研究も今月複数。お茶は抹茶不足継続(2024末〜、次の春収穫まで月ごとに悪化見込み、碾茶約2.6倍・玉露/煎茶/番茶1.3〜1.8倍、需要5年で約8倍vs樹は5年・産地拡大は数十年、粉末煎茶を&quot;抹茶&quot;と偽る例・一人一缶制限・ほうじ茶/玄米茶にも制限拡大)。アマゾンはRufusを5月終了しAlexa for Shoppingに統合、会話内広告Sponsored Promptsが今春から課金対象化、今月から15ドル(約2,400円)未満商品に1個0.38ドル(約60円)上乗せ＋寸法計算見直しで低単価品のフルフィルメントコスト1〜2割増。円換算はUSD/JPY約162.5、GBP/JPY約220で概算。
+
+Sources:
+- iScience — Select microbial metabolites in the small intestinal lumen regulate vagal activity via receptor-mediated signaling (2024): https://www.cell.com/iscience/fulltext/S2589-0042(24)02926-2
+- Molecular Psychiatry — Gut microbiota changes require vagus nerve integrity to promote depressive-like behaviors in mice (2023): https://www.nature.com/articles/s41380-023-02071-6
+- Frontiers in Microbiology — Psychobiotics in mental health: insights from human clinical trials via the gut-brain axis (2026): https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1804560/full
+- Umbrella Review — &quot;Attacking&quot; the Gut–Brain Axis with Psychobiotics: An Umbrella Review of Depressive and Anxiety Symptoms (2026, PMC12845323): https://pmc.ncbi.nlm.nih.gov/articles/PMC12845323/
+- Reviews of Vagus Nerve Stimulation and gut microbiota interactions (Neurosci Biobehav Rev, 2024): https://pubmed.ncbi.nlm.nih.gov/39716559/
+- Inside Precision Medicine — Emerging microbiome startups following their gut: https://www.insideprecisionmedicine.com/topics/precision-medicine/the-top-five-emerging-microbiome-startups-following-their-gut/
+- 27K Ventures — The Gut–Brain Axis: Startups Rewriting the Link Between Microbiome and Mental Health: https://www.27kventures.com/updates/the-gutbrain-axis-startups-rewriting-the-link-between-microbiome-and-mental-health
+- Yahoo Finance — Gut Health Supplements Top 2026 Wellness Trends: PureWell Sciences Launches Psychobiotics: https://finance.yahoo.com/news/gut-health-supplements-top-2026-152600211.html
+- Y Combinator — Summer 2026 batch directory: https://www.ycombinator.com/companies?batch=Summer+2026
+- Skycrumbs — AI Research Breakthroughs in July 2026 (selective activation sparsity; protein dynamics for drug design): https://skycrumbs.com/blog/ai-research-july-2026
+- Global Japanese Tea Association / Ippodo — Matcha shortage 2026 industry notice: https://global.ippodo-tea.co.jp/blogs/news/202602019
+- One with Tea — Matcha Shortage 2026 Explained: https://onewithtea.com/blogs</description>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://kengowest.github.io/audio-brief-51c973/episodes/2026-07-21-en.mp3" length="4826016" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-07-21-en.mp3</guid>
+      <itunes:duration>00:24:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>デイリーブリーフ 2026-07-20</title>
       <description>今日の主役は「腸と血管」という新しい切り口(腸・血管軸／TMAO)。肉や卵に含まれるコリンを腸内細菌がトリメチルアミンに変え、肝臓でTMAO(トリメチルアミン・エヌ・オキシド)になって血流に乗る、という中継の仕組みを四段階＋反証で整理した。中心は7/15のヨーロピアン・ハート・ジャーナル(米クリーブランド・クリニック中心、CHSコホート)で、65歳以上の地域住民4,442人を中央値12.2年(54,402人年)追跡し、腹部大動脈瘤の重大イベント79件に対しTMAO倍化ごと調整ハザード比1.28(95%CI 1.07-1.54)、第3三分位vs第1で2.46(1.32-4.59)、6.2μM以上で1.93(1.25-2.99)。ただし観察研究・イベント79件と少なくCI広い・TMAOは腎機能に強く影響される・魚に元々TMAO前駆体が多く魚食中心の日本人への外挿は未確定・主導研究者がTMAO検査/治療の特許を持つCOI、と線引き。二本目は7/10のJASN(同グループ、マウス)で、抗生物質で菌を殺すのではなく細菌のTMA産生酵素だけを狙うフルオロメチルコリン(FMC)を投与し、循環TMAOはほぼ消失、既存の腎障害で尿細管間質線維化-41%・測定GFR+39%と「後戻り」を示したが、マウスのみ・FMCは人未承認・1%コリン+高脂肪+腎摘の極端モデル。三本目は7/17のAJCN(中国CDC国立栄養健康研究所＋米UNC、CHNS 2018-2023、4,828人)で、コリンは総量(OR 1.26)より出どころが効き赤身肉由来が最強(OR 1.75、95%CI 1.196-2.568)、脂溶性コリンOR 1.304、血漿TMAO→脂質異常症OR 1.620。ただしCI下限が1.007/1.028/1.047とぎりぎりの所見が複数。四本目はTMAO非依存の別経路として、スペイン・コルドバ大学のCORDIOPREV(冠動脈疾患1,002人・地中海食vs低脂肪食7年RCT内の二次解析)で、食後のLPS上昇幅が大きい人ほど7年のMACE再発が多く HR 1.42(1.01-2.00)、地中海食群のほうが低リスク HR 1.45(1.01-2.09)——空腹時採血では見えない指標という点が新しいが、事後解析でCI下限1.01と限界的。最後に反証として7/7のScientific Reports(イタリア、Sapienza/Gemelli)で、急性冠症候群患者の便をApoE欠損マウスに移植すると壊死コア拡大・線維性被膜菲薄化とプラークが不安定化したのにTMAO値は群間差なし＝TMAOとは独立の経路が存在し「悪玉は一分子」ではない、と締めた。市場は「大手消費財がサプリ売り場を買う」段階:英蘭ユニリーバが米グミ型栄養補助食品グリューンズを12億ドル/約1,950億円で買収(4月)、同社投資部門がインドのD2Cサプリ、サプライシックスの550万ドル/約9億円を主導(7/1)、英ロンドン発で米カリフォルニア州オークランドにラボを開いたジュノ・バイオが380万ドル/約6.2億円(7/16-17、女性の健康特化のCLIA認証シーケンスラボは世界初、Ada Ventures等)。日本は伸びと締めつけが同月:7/17の調査で約7割が日常的に腸活を意識・女性誌が腸活特集、一方で機能性表示食品DBの更新は撤回122件対受理4件、7月上旬に26件一括撤回、消費者庁がGMP責任は個別届出者にあると明示(2024年紅麹以降の引き締め継続)。矢野経済研究所の健康食品市場は2024年9,221.7億円(+1.9%)→2025年9,147.1億円見通し(-0.8%)で粉末/一般食品形態へシフト。米国消費者は「ファイバーマキシング」で、あるサプリ専門チェーンの繊維カテゴリ売上が年初来+20%・「fiber」検索+59%、GLP-1使用は5世帯に1世帯まで倍増し使用者の8割が併用製品を使う。日米で伸びる動機が違う(米は薬の副作用対策、日本はメディア発)可能性は仮説として留保。テックは日本のノエトラ始動(7/17、ソニー/ソフトバンク/NEC/ホンダ主導、44社団体、産総研＋Preferred Networks、2027年日本語推論→2028年オムニモーダル→2030年実世界ネイティブ、2027年4月着工・Nvidia Rubin約27,500基)で、テキストのデータは枯渇したが物理世界のデータは未公開＝データ自体が堀という土俵選び、そしてグーグルのジェミニ3.5プロが数か月延期(7/16、コーディング/複雑推論が社内目標未達、6月末の学習データ刷新でも改善せず＝データ増量で性能が買えなくなった兆候、アルファベット株-4.4%)。お茶は国内が板ばさみで、鹿児島市場の秋冬番茶が従来平均の約6倍・4月平均単価が前年1.7倍なのに値上げは大手2ブランドのみ、茶葉輸入は2025年4,610トン(前年比約1.5倍)・2026年1-3月は2.4倍ペース、対抗して大手が5/18から「純国産茶葉100%」表示を導入。裏面の輸出は2015年約101億円→2025年約720億円と10年で約7倍、うち約8割が抹茶含む粉末茶で葉茶の約2.2倍単価。アマゾンは7/7発表・年内展開で、カート獲得(Featured Offer)が二段階(成績の合否ゲート→価格/配送で競争)から一段階の総合ランキングへ統合され、返品率やクレームは合否でなく重みづけ入力に変わる(出品者の対応不要、重みは非公開、展開中は週次でカート獲得率を監視)。あわせて9/30から法人向け営業時間内配送率90%未満は10/30以降Amazon Business顧客への出品停止。USD/JPYは約162.5円で換算。
 
