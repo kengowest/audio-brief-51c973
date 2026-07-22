@@ -10,6 +10,52 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
     <item>
+      <title>デイリーブリーフ 2026-07-23</title>
+      <description>今日の主役は「腸と肝臓」という新しい切り口(腸・肝軸／MASLD＝代謝異常に関連する脂肪肝)。肝臓は門脈で腸と直結し、腸で漏れた菌の破片・乱れた胆汁酸・菌の代謝物という三ルートで真っ先に脂肪肝の請求書を受け取る、という土台を、今年2月の総説の整理で提示。胆汁酸ルートの一次研究はBMC Microbiology(2026年6月4日、ラット、四塩化炭素で肝線維化)で、モデル群はクロストリジウム増・ビフィズス菌減＋胆汁酸19種が一斉に増加、便微生物移植とプロバイオティクスがこれを逆転(ビフィズス菌増・クロストリジウム減、胆汁酸低下、TUDCA含む)し線維化も軽減=菌→胆汁酸→線維化の一本道を菌側から巻き戻せる可能性(ただしラット・薬品誘発の極端モデル)。ヒトの錨はHEALKIDS(韓国、2026年1月18日、Gut Pathogens、n=31、10-18歳、単群、家庭運動＋食事12週)で、肝脂肪MRI-PDFFが中央値27.1→20.8%、74.2%で肝脂肪減・77.4%でグレード改善・9.7%正常化。治療前の腸内細菌が反応を予測=ALT/GGT改善者でフェカリバクテリウムが富み(q≈0.04)、PDFF≥30%減はLachnospiraceae_ND3007群、baseline菌叢でresponderをAUC≥0.75で判別=「治療の的にする前に、まず読む情報源として腸の価値が出る」。ただし対照なし・単施設・男性偏り。現実チェック:プロバイオ/シンバイオの脂肪肝への効果は2026年総説で「控えめで不均一」、いま病気を大きく動かすのは菌でなくGLP-1系のやせ薬(肝脂肪も低下)=「配線は読めるが菌で書きかえて治す部分は薬に主役を譲る」。後悔の少ない打ち手は繊維・運動・食べすぎ回避。市場は肝臓が薬の戦場化→腸活サプリはその相棒に。英マイオタがシリーズA450万ドル(約7.3億円、2026年6月、発酵性繊維プレバイオ、GLP-1を第二の追い風と表現)、米グッドバクテリアがシード320万ドル(約5.2億円、曜日ローテーション式デイリードリンク)。日本は阿部養庵堂薬品の腸内ケアサプリ「BIO BALANCE 長悠」(2026年7月発売、和漢＋腸内科学)、ダノンジャパン(仏親会社)が7月に高たんぱくドリンク投入で高たんぱく/腸活/スイーツ3本柱=日本は腸を単独でなくたんぱく/免疫に上乗せ、米はやせ薬の相棒として売る(日米市場の相似は仮説として留保)。テックはAIが薬・生物を設計する側:米オープンエーアイのGPT-5.6(Sol/Terra/Luna、7月9日、米政府要請で2週間限定配布後に一般公開=安全保障化)、米中拠点オーレカのオープンソース創薬基盤モデルOpenDDE(7月9日、分子とタンパク質のco-folding予測=腸由来物質/胆汁酸の結合予測にも接続)。お茶はカナダのティム・ホートンズが7月22日に本格抹茶ドリンクを全国展開、抹茶世界市場は年約11%成長・北米がけん引だが供給綱渡り(京都碾茶 約¥8,235→¥13,972/kg、鹿児島 約¥19,000/kg)。アマゾンはSeller Fulfilled Primeの配送基準を7月6日から引き上げ(標準サイズの翌日配達提示をページビューの30%→40%)。冒頭ヘッドラインは米イラン応酬継続(戦費375億ドル≒6.1兆円を国防長官言及)、ゼレンスキーがシルスキー総司令官解任、英アンディ・バーナム首相就任(10年で7人目)、フーシ派が紅海封鎖表明、米株3指数上昇(ダウ+0.7/ナスダック+1.3/S&amp;P+0.9%)＋ナイキ中国オンライン販売引き上げでトップスポーツ株2割超下落。円換算はUSD/JPY約163で概算。
+
+Sources:
+- The Gut–Liver Axis in MASLD: From Host–Microbiome Crosstalk to Precision Therapeutics (Microorganisms, 2026年2月): https://www.mdpi.com/2076-2607/14/2/471
+- Role of the gut microbiota-bile acid axis in liver fibrosis based on microbiomics and targeted metabolomics (BMC Microbiology, 2026年6月4日, ラット): https://pubmed.ncbi.nlm.nih.gov/42243653/
+- Clinical and microbial correlates of response to lifestyle intervention in pediatric MASLD (HEALKIDS, Gut Pathogens, 2026年1月18日, 韓国, n=31): https://pmc.ncbi.nlm.nih.gov/articles/PMC12831411/
+- Integrated Metagenomics and Metabolomics Studies Reveal Core Bacterial Guild Regulating Carbohydrate Metabolism in Pediatric MASLD (bioRxiv, 2026年5月11日): https://www.biorxiv.org/content/10.64898/2026.05.11.724093v1.full
+- Synbiotics and antioxidants synergistically attenuate disease progression in MASLD (SLD07 pilot, ScienceDirect, 2026): https://www.sciencedirect.com/science/article/pii/S075333222600692X
+- Impact of probiotics and prebiotics on glucose/lipid metabolism in MASLD: mechanisms and implications (Frontiers in Nutrition, 2026): https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1779954/full
+- UK Gut Health Startup Myota Raises $4.5M to Scale Prebiotic Fibre Blends (Green Queen, 2026年6月): https://www.greenqueen.com.hk/myota-fibre-gut-health-metabolic-prebiotic-blends-glp-1-funding/
+- Gut Health Startup Good Bacteria Raises $3.2M (Beauty Independent): https://www.beautyindependent.com/gut-health-startup-good-bacteria-raises-3-2m-probiotic-supplement-business/
+- 阿部養庵堂薬品、腸内ケアサプリ『BIO BALANCE 長悠』を2026年7月発売 (ライブドアニュース): https://news.livedoor.com/pr_topics/detail/31640269/
+- ダノンジャパン 高たんぱくと腸活を軸に成長「オイコス」「ビオ」が牽引 (食品新聞, 2026年7月15日): https://shokuhin.net/153511/2026/07/15/kakou/kenshoku/
+- OpenAI to publicly release GPT-5.6 (CNBC, 2026年7月8日): https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html
+-</description>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://kengowest.github.io/audio-brief-51c973/episodes/2026-07-23.mp3" length="5853744" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-07-23.mp3</guid>
+      <itunes:duration>00:09:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Daily Brief 2026-07-23 (English)</title>
+      <description>今日の主役は「腸と肝臓」という新しい切り口(腸・肝軸／MASLD＝代謝異常に関連する脂肪肝)。肝臓は門脈で腸と直結し、腸で漏れた菌の破片・乱れた胆汁酸・菌の代謝物という三ルートで真っ先に脂肪肝の請求書を受け取る、という土台を、今年2月の総説の整理で提示。胆汁酸ルートの一次研究はBMC Microbiology(2026年6月4日、ラット、四塩化炭素で肝線維化)で、モデル群はクロストリジウム増・ビフィズス菌減＋胆汁酸19種が一斉に増加、便微生物移植とプロバイオティクスがこれを逆転(ビフィズス菌増・クロストリジウム減、胆汁酸低下、TUDCA含む)し線維化も軽減=菌→胆汁酸→線維化の一本道を菌側から巻き戻せる可能性(ただしラット・薬品誘発の極端モデル)。ヒトの錨はHEALKIDS(韓国、2026年1月18日、Gut Pathogens、n=31、10-18歳、単群、家庭運動＋食事12週)で、肝脂肪MRI-PDFFが中央値27.1→20.8%、74.2%で肝脂肪減・77.4%でグレード改善・9.7%正常化。治療前の腸内細菌が反応を予測=ALT/GGT改善者でフェカリバクテリウムが富み(q≈0.04)、PDFF≥30%減はLachnospiraceae_ND3007群、baseline菌叢でresponderをAUC≥0.75で判別=「治療の的にする前に、まず読む情報源として腸の価値が出る」。ただし対照なし・単施設・男性偏り。現実チェック:プロバイオ/シンバイオの脂肪肝への効果は2026年総説で「控えめで不均一」、いま病気を大きく動かすのは菌でなくGLP-1系のやせ薬(肝脂肪も低下)=「配線は読めるが菌で書きかえて治す部分は薬に主役を譲る」。後悔の少ない打ち手は繊維・運動・食べすぎ回避。市場は肝臓が薬の戦場化→腸活サプリはその相棒に。英マイオタがシリーズA450万ドル(約7.3億円、2026年6月、発酵性繊維プレバイオ、GLP-1を第二の追い風と表現)、米グッドバクテリアがシード320万ドル(約5.2億円、曜日ローテーション式デイリードリンク)。日本は阿部養庵堂薬品の腸内ケアサプリ「BIO BALANCE 長悠」(2026年7月発売、和漢＋腸内科学)、ダノンジャパン(仏親会社)が7月に高たんぱくドリンク投入で高たんぱく/腸活/スイーツ3本柱=日本は腸を単独でなくたんぱく/免疫に上乗せ、米はやせ薬の相棒として売る(日米市場の相似は仮説として留保)。テックはAIが薬・生物を設計する側:米オープンエーアイのGPT-5.6(Sol/Terra/Luna、7月9日、米政府要請で2週間限定配布後に一般公開=安全保障化)、米中拠点オーレカのオープンソース創薬基盤モデルOpenDDE(7月9日、分子とタンパク質のco-folding予測=腸由来物質/胆汁酸の結合予測にも接続)。お茶はカナダのティム・ホートンズが7月22日に本格抹茶ドリンクを全国展開、抹茶世界市場は年約11%成長・北米がけん引だが供給綱渡り(京都碾茶 約¥8,235→¥13,972/kg、鹿児島 約¥19,000/kg)。アマゾンはSeller Fulfilled Primeの配送基準を7月6日から引き上げ(標準サイズの翌日配達提示をページビューの30%→40%)。冒頭ヘッドラインは米イラン応酬継続(戦費375億ドル≒6.1兆円を国防長官言及)、ゼレンスキーがシルスキー総司令官解任、英アンディ・バーナム首相就任(10年で7人目)、フーシ派が紅海封鎖表明、米株3指数上昇(ダウ+0.7/ナスダック+1.3/S&amp;P+0.9%)＋ナイキ中国オンライン販売引き上げでトップスポーツ株2割超下落。円換算はUSD/JPY約163で概算。
+
+Sources:
+- The Gut–Liver Axis in MASLD: From Host–Microbiome Crosstalk to Precision Therapeutics (Microorganisms, 2026年2月): https://www.mdpi.com/2076-2607/14/2/471
+- Role of the gut microbiota-bile acid axis in liver fibrosis based on microbiomics and targeted metabolomics (BMC Microbiology, 2026年6月4日, ラット): https://pubmed.ncbi.nlm.nih.gov/42243653/
+- Clinical and microbial correlates of response to lifestyle intervention in pediatric MASLD (HEALKIDS, Gut Pathogens, 2026年1月18日, 韓国, n=31): https://pmc.ncbi.nlm.nih.gov/articles/PMC12831411/
+- Integrated Metagenomics and Metabolomics Studies Reveal Core Bacterial Guild Regulating Carbohydrate Metabolism in Pediatric MASLD (bioRxiv, 2026年5月11日): https://www.biorxiv.org/content/10.64898/2026.05.11.724093v1.full
+- Synbiotics and antioxidants synergistically attenuate disease progression in MASLD (SLD07 pilot, ScienceDirect, 2026): https://www.sciencedirect.com/science/article/pii/S075333222600692X
+- Impact of probiotics and prebiotics on glucose/lipid metabolism in MASLD: mechanisms and implications (Frontiers in Nutrition, 2026): https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1779954/full
+- UK Gut Health Startup Myota Raises $4.5M to Scale Prebiotic Fibre Blends (Green Queen, 2026年6月): https://www.greenqueen.com.hk/myota-fibre-gut-health-metabolic-prebiotic-blends-glp-1-funding/
+- Gut Health Startup Good Bacteria Raises $3.2M (Beauty Independent): https://www.beautyindependent.com/gut-health-startup-good-bacteria-raises-3-2m-probiotic-supplement-business/
+- 阿部養庵堂薬品、腸内ケアサプリ『BIO BALANCE 長悠』を2026年7月発売 (ライブドアニュース): https://news.livedoor.com/pr_topics/detail/31640269/
+- ダノンジャパン 高たんぱくと腸活を軸に成長「オイコス」「ビオ」が牽引 (食品新聞, 2026年7月15日): https://shokuhin.net/153511/2026/07/15/kakou/kenshoku/
+- OpenAI to publicly release GPT-5.6 (CNBC, 2026年7月8日): https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html
+-</description>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://kengowest.github.io/audio-brief-51c973/episodes/2026-07-23-en.mp3" length="4542192" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-07-23-en.mp3</guid>
+      <itunes:duration>00:23:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>デイリーブリーフ 2026-07-22</title>
       <description>今日の主役は番組初の「骨」。骨は腸の声を聞いている、を軸に7月の新着論文を4本つないだ。npj Biofilms and Microbiomes(2026年7月8日、マウス)は、歯周病がアゴだけでなく遠隔の大腿骨まで減らし、腸バリア低下と全身炎症を伴い、しかも歯周病マウスの腸内細菌を移植すると骨減少と炎症が移り、歯を治療したマウスの菌では部分的に戻る＝口の炎症が腸経由で全身の骨に請求書を回す(本文有料のため効果量は引用せず)。Molecular and Cellular Biochemistry(7月8日、マウス)は犯人役をプレボテラ・コプリに特定し、その代謝産物コハク酸→受容体SUCNR1→IL-6→破骨細胞、という一本道を提示。IL-6欠損マウスでは骨吸収反応がまるごと消失。Tissue &amp; Cell(7月16日、ラット＋細胞)は逆方向で、乳酸菌L. reuteri由来のロイテリンが骨髄間葉系幹細胞の進路を脂肪から骨へ寄せ(BMP-Smad経路、阻害剤で効果消失＝経路特定)、卵巣摘出ラットで骨梁減少・骨強度・骨髄脂肪を改善、効果は承認薬テリパラチドと統計的に同等。ただし精製物質の注射でありプロバイオティクス経口ではなく、ヒトデータはゼロ。ヒトの錨はGenome Medicine(7月16日、デンマーク、n=32、二重盲検プラセボ対照クロスオーバー、生菌Ruminococcus torques 3,100億個を十二指腸へ直接注入、6時間観察)：主要評価項目のインスリン感受性は無効(ミス)だが、GLP-1・PYYが相対的に上昇、GIPは低下、血中二次胆汁酸が上昇、骨リモデリングの血中マーカーも変動(要旨に数値・マーカー名なしのため方向のみ)。現実チェックとしてRENEW RCT(Am J Clin Nutr、n=417、閉経後女性、12か月)：カルシウムは腰椎・大腿骨頸部の骨密度を上げたが、イヌリン上乗せ群はカルシウム単独に対し上積みゼロ＝「配線は読めるが、まだ書きかえられていない」。市場は香港プレネティクスが10億ドル(約1,630億円)をエクイティではなく顧客獲得コストの立替(マーケ費の最大7割をコホート単位で、上限リターン回収後は全額ブランド側)で確保、NY拠点のサプリブランド(ベッカム共同創業)、今期売上見通し2.1〜2.2億ドル、腸/長寿のRCT2本走行中。日本は森永乳業が8月3日発売のラクトフェリン機能性表示食品、上位版でラクトフェリン400mg＋ビフィズス菌BB536 20億個＋ミルクオリゴ糖400mgを足し「のど・免疫」に腸を上乗せ。矢野データで整腸訴求は267.65→270→274億円で頭打ち、免疫訴求は288→356.6億円へ急拡大＝腸は目的から手段へ。日米同時に「菌→繊維」へ重心移動(日本のベースフードが発酵性食物繊維普及プロジェクト参画/カナダのオーガニック・トラディションズが1,050万ドル調達、機関投資家リードなし)。CPG Radarは平均的腸活製品が21以上の訴求を並べ上位5菌株が製品の25%超に入る＝差別化崩壊、台湾TCIは「到達は始まりに過ぎない、次はトレーサビリティと機能の証明」。テックは引き算の日：米シンキング・マシーンズのInkling(7月15日、975B/41B活性MoE)がRoPEを捨てて入力依存の相対位置バイアスを採用、66層中55層が512トークンのローカル窓、画像/音声の専用エンコーダなしで直接トークン列に混合、1Mコンテキスト。独SAPが独Prior Labsの買収完了(7月17日、4年で10億ユーロ超)、TabPFNは数百万の合成データセットで事前学習し、実データは学習せず表を丸ごと文脈に貼って1回の順伝播で予測、特徴量方向とサンプル方向の二軸アテンション。お茶は伊藤園が27品目を3.7〜12.5%値上げ(11月1日出荷分、麦茶・コーヒー系＝緑茶ではない)、米フィルズ・コーヒーが宇治抹茶4種を80店超で発売($6.50〜$7.50)。科学と交わる一本としてNutrition Journal(7月20日、中国n=8,490、横断)：週3日以上で緑茶OR 0.79(95%CI 0.67-0.93)、ウーロン0.84(0.73-0.97)が有意、紅茶1.03・黒茶0.98は無関係、用量反応も緑茶とウーロンのみ(横断のため因果不可)。アマゾンはFBA新規商品プログラムが7月30日から拡充(最初100個は紹介料10%上限/次の100個5%、200個まで120日保管・返品無料、$50クーポン+$75 Vine credit、10月31日までに登録確認が必要)、加えてAmazon Business向けにBHDR 90%基準が9月30日から米英独で適用、10月30日に未達ならFBM出品が法人購買者に非表示。円換算はUSD/JPY約163、EUR/JPY約186で概算。
 
@@ -1746,58 +1792,6 @@ Sources:
       <enclosure url="https://kengowest.github.io/audio-brief-51c973/episodes/2026-06-23-en.mp3" length="4641840" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-06-23-en.mp3</guid>
       <itunes:duration>00:23:54</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>デイリーブリーフ 2026-06-22</title>
-      <description>腸活の科学は便通から気分・睡眠・腸脳相関へ広がり、2026年の鍵は個別化・科学的証拠・多機能の三つ。米国ではデジタルヘルスへ再び資金が戻り、腸活はスタートアップから巨大食品メーカーまでの激戦区で、AIと微生物を掛けた個別化が未来の先行指標となっている。あわせてAIモデル競争の新段階、抹茶の品薄継続、アマゾン広告の単価上昇と意図ベース化を取り上げた。
-
-Sources:
-- Empirical evidence of the neuroactive potential of the gut on neurochemistry in the gut-brain axis in humans (bioRxiv): https://www.biorxiv.org/content/10.1101/2025.05.07.652653.full.pdf
-- Gut microbiota in irritable bowel syndrome: mechanisms and microbiome-based therapies (PMC): https://pmc.ncbi.nlm.nih.gov/articles/PMC12631637/
-- Bifidobacterium supplementation maintains gut microbiota stability during short-term travel (Frontiers in Nutrition 2026): https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1724829/full
-- Probiotic for Gut Health, Recruiting Participants for Clinical Trial 2026 (Power): https://www.withpower.com/trial/phase-2026-6be83
-- 2026 gut health essentials: Personalization, evidence and multi-benefit claims (Nutrition Insight): https://www.nutritioninsight.com/news/gut-health-trends-2026-biotics-personalized-nutrition.html
-- Digital health startups raked in $4B in Q1 2026 (Fierce Healthcare / Rock Health): https://www.fiercehealthcare.com/digital-health/digital-health-startups-raked-4b-q1-12-megadeals-driving-investment-rock-health
-- Gut Health Startup Good Bacteria Raises $3.2M (Beauty Independent): https://www.beautyindependent.com/gut-health-startup-good-bacteria-raises-3-2m-probiotic-supplement-business/
-- Anto, foundation model for gut microbiomes (Y Combinator): https://www.ycombinator.com/companies/anto
-- AI-powered biotech startup Gutgutgoose accepted into Y Combinator (Business News Australia): https://www.businessnewsaustralia.com/articles/ai-powered-biotech-startup-gutgutgoose-accepted-into-silicon-valleys-y-combinator.html
-- LLM News Today June 2026, AI Model Releases (LLM-Stats): https://llm-stats.com/ai-news
-- Top AI News for June 2026: Breakthroughs, Launches and Trends (AIapps): https://www.aiapps.com/blog/ai-news-breakthroughs-launches-trends-must-read/
-- Matcha Shortage 2026: A Founder Explains What&#x27;s Happening (One with Tea): https://onewithtea.com/blogs/news/2026-matcha-shortage-explained
-- Japan&#x27;s Matcha Crisis: 170% Price Surge (Vision Times): https://www.visiontimes.com/2026/02/12/japans-matcha-crisis-how-a-170-price-surge-exposed-the-fragility-of-a-centuries-old-industry.html
-- Amazon Sponsored Products CPC hits record high before Prime Day (Nova Analytics): https://novadata.io/resources/news/amazon-sponsored-products-cpc-record-high-june-2026
-- Amazon&#x27;s 2026 Algorithm Update and COSMO (Algofy): https://www.algofy.com/post/amazons-2026-algorithm-update-what-changed-and-how-to-adapt-your-strategy-now</description>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://kengowest.github.io/audio-brief-51c973/episodes/2026-06-22.mp3" length="5406048" type="audio/mpeg"/>
-      <guid isPermaLink="false">2026-06-22.mp3</guid>
-      <itunes:duration>00:08:48</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Daily Brief 2026-06-22 (English)</title>
-      <description>腸活の科学は便通から気分・睡眠・腸脳相関へ広がり、2026年の鍵は個別化・科学的証拠・多機能の三つ。米国ではデジタルヘルスへ再び資金が戻り、腸活はスタートアップから巨大食品メーカーまでの激戦区で、AIと微生物を掛けた個別化が未来の先行指標となっている。あわせてAIモデル競争の新段階、抹茶の品薄継続、アマゾン広告の単価上昇と意図ベース化を取り上げた。
-
-Sources:
-- Empirical evidence of the neuroactive potential of the gut on neurochemistry in the gut-brain axis in humans (bioRxiv): https://www.biorxiv.org/content/10.1101/2025.05.07.652653.full.pdf
-- Gut microbiota in irritable bowel syndrome: mechanisms and microbiome-based therapies (PMC): https://pmc.ncbi.nlm.nih.gov/articles/PMC12631637/
-- Bifidobacterium supplementation maintains gut microbiota stability during short-term travel (Frontiers in Nutrition 2026): https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1724829/full
-- Probiotic for Gut Health, Recruiting Participants for Clinical Trial 2026 (Power): https://www.withpower.com/trial/phase-2026-6be83
-- 2026 gut health essentials: Personalization, evidence and multi-benefit claims (Nutrition Insight): https://www.nutritioninsight.com/news/gut-health-trends-2026-biotics-personalized-nutrition.html
-- Digital health startups raked in $4B in Q1 2026 (Fierce Healthcare / Rock Health): https://www.fiercehealthcare.com/digital-health/digital-health-startups-raked-4b-q1-12-megadeals-driving-investment-rock-health
-- Gut Health Startup Good Bacteria Raises $3.2M (Beauty Independent): https://www.beautyindependent.com/gut-health-startup-good-bacteria-raises-3-2m-probiotic-supplement-business/
-- Anto, foundation model for gut microbiomes (Y Combinator): https://www.ycombinator.com/companies/anto
-- AI-powered biotech startup Gutgutgoose accepted into Y Combinator (Business News Australia): https://www.businessnewsaustralia.com/articles/ai-powered-biotech-startup-gutgutgoose-accepted-into-silicon-valleys-y-combinator.html
-- LLM News Today June 2026, AI Model Releases (LLM-Stats): https://llm-stats.com/ai-news
-- Top AI News for June 2026: Breakthroughs, Launches and Trends (AIapps): https://www.aiapps.com/blog/ai-news-breakthroughs-launches-trends-must-read/
-- Matcha Shortage 2026: A Founder Explains What&#x27;s Happening (One with Tea): https://onewithtea.com/blogs/news/2026-matcha-shortage-explained
-- Japan&#x27;s Matcha Crisis: 170% Price Surge (Vision Times): https://www.visiontimes.com/2026/02/12/japans-matcha-crisis-how-a-170-price-surge-exposed-the-fragility-of-a-centuries-old-industry.html
-- Amazon Sponsored Products CPC hits record high before Prime Day (Nova Analytics): https://novadata.io/resources/news/amazon-sponsored-products-cpc-record-high-june-2026
-- Amazon&#x27;s 2026 Algorithm Update and COSMO (Algofy): https://www.algofy.com/post/amazons-2026-algorithm-update-what-changed-and-how-to-adapt-your-strategy-now</description>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://kengowest.github.io/audio-brief-51c973/episodes/2026-06-22-en.mp3" length="3756096" type="audio/mpeg"/>
-      <guid isPermaLink="false">2026-06-22-en.mp3</guid>
-      <itunes:duration>00:19:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
