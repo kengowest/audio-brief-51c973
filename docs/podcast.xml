@@ -10,6 +10,34 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
     <item>
+      <title>デイリーブリーフ 2026-08-07</title>
+      <description>今日の主役は番組初の「細菌が出す小胞（バクテリア由来細胞外小胞・BEV）」。直近7日で扱ったミトコンドリア／エストロボローム／腸管神経系／薬物代謝／暑さ／フレイル／カロリー計算をすべて離れ、「どの菌がいるか」でなく「菌が何を出荷しているか」へ視点を移した回。土台はBEVが直径20〜300ナノメートルの膜で包まれた小包で、代謝物や酵素のような単分子と違い数十種類のカーゴをまとめて運び、膜があるぶん腸壁を抜けて血流に乗り肝臓・肺・脳まで届く点。良い側はFrontiers in Microbiology 7月7日（中国・南方医科大学＋広東省科学院、LPS急性肺障害マウス）：常在菌Odoribacter splanchnicusを枯渇させると肺障害と炎症が悪化、菌を戻すか精製した小胞（平均165.3nm）だけを投与しても肺障害スコアとTNF-α/IL-1β/IL-6が改善＝菌でなく袋だけで効いた。機序はCav1とCes1dの結合強化（結合エネルギー−13.2 kcal/mol）でNF-κB/STAT3抑制とLTB4低下を同時に起こす二重作用。限界はマウスのみ・有効カーゴ未特定と著者明記。悪い側はJ Extracell Vesicles 4月（日本・東海大学医学部主導＋熊本大・国立がん研究センター中央病院・慶應大、筆頭Shogo Tsubaki）：Klebsiella pneumoniae由来小胞（KpEV）は菌体より効率よく肝臓へ到達し、肝マクロファージの一酸化窒素産生を抑えてM2様の免疫抑制型へ傾け、腸→肝の細菌トランスロケーションが起きやすい環境を作る。KpEVに濃縮された細菌tsRNA 2種が肝細胞がん患者血清で顕著に上昇、加齢マウスではNO産生低下と肝の細菌量増加。診断応用はFrontiers in Cellular and Infection Microbiology 7月23日総説（中国・吉林体育学院＋諸曁市人民病院、Hao Ying）：1,100人超の多施設データでがん患者のBEV量が対照より高く、早期診断パネルのAUC 0.87〜0.94でCEA・CA19-9を上回る。胃がんコホート453人（患者181/対照272）、腎細胞がん88人＋健常10人。検体は便・血液・尿・唾液・胃液。限界は「bEV同定の世界共通マーカーが存在しない」「単離法がばらばら」「宿主EV・タンパク凝集体の混入」「ほぼ動物モデル」「研究間で比較不能」。素材化はExtracellular Vesicles and Circulating Nucleic Acids 5月28日総説（中国・浙江省農業科学院／Xianghu Laboratory、Jiali Chen他、アルゼンチン・スペイン共著）：eBEVを「次世代の精密ポストバイオティクス」と位置づけ、生きた菌でないため保存性・用量精度・有害成分除去・カーゴ/表面の設計が可能。課題は工業スケール化不能・ロット間ばらつき・収量と純度の両立・グラム陰性菌由来のLPS毒性・規制枠組み未整備で全て前臨床。番組のヤマはJ Extracell Vesicles 7月23日（日本・東京大学医科学研究所＋国立感染症研究所、筆頭Aya Ishizaka、Michiko Koga／Ken J Ishii、COVID-19患者17人vs健常20人の便由来BEVをU937単球に曝露）：患者由来BEVはIL-8等の炎症性サイトカインを誘導、健常由来はしない。臨床的寛解後も炎症誘導能が戻る人と戻らない人に分かれた＝「菌の構成は戻ったように見えても出荷物は戻っていない」状態がありうる。限界はn=17・単一細胞株・一部横断デザイン。市場は測る側と治す側の二極化で整理：米ソーン・サイエンス（US）が7月28日に1,000万ドル（約16億円）シリーズA、Will Ventures主導、累計約1,800万ドル（約28億円）、便器後付けのコンピュータビジョン式センサー、2023年創業・2026年3月消費者向けローンチ、共同創業者に元Whoop CTO。日本はメタジェンセラピューティクス（社名は番組内では出さず「日本の企業」）が6月に潰瘍性大腸炎向けFMT医薬品MGT-006の日米国際P1/2を開始（日本初）、シリーズB 3rdクローズ11.9億円→シリーズB計35.2億円・累計54.6億円、ドナー応募500人超で認定18人・採便120件超、先進医療Bでの寛解率46%。欧州は英EnteroBiotixがIBS-C向け経口フルスペクトラム製剤のRISE試験を英国内約300人規模、独ミュンヘンのmbiomicsがシリーズAを総額3,000万ユーロ（約50億円）へ拡大。AIはXiaomi-Robotics-1（中国・シャオミ、arXiv 2607.15330、VLA）：10万時間超の実世界操作データを「ロボットを使わず」カメラ付き手持ちグリッパー（UMI方式）で収集し、その上に約1万時間のクロス実体ロボットデータ（うち実住宅7,200時間超）を後段学習。データ増の効果がモデル拡大の効果を上回り、事前学習のスケーリングが後段学習を通して実機性能に伝わり飽和の兆候なし＝中国初のロボットポリシーのスケーリング則の系統的検証。他に阿里系Qwen 3.8-Max（総2.4兆パラメータ、重み公開予定）、Meta Muse Spark 1.2（8月5日）。茶は碾茶入札価格が2026年1kg 10,843円で前年比約2倍、初回入札の開始価格は前年比50〜60%高、小売は2025年後半〜2026年前半で15〜20%高、2025年度緑茶輸出は13,125トン（数量+42%）・金額約847億円（ほぼ倍）、日本発抹茶の54%超が米国向け、煎茶粉末の抹茶偽装と海外での産地名冒用が課題。Amazonは8月1日からスポンサー広告の請求初期設定が出品用アカウント残高からの自動引き落としへ変更（30日サイトの請求書払い継続には手動設定が必要）、広告データ保持がSP 95日・SB/SD 60日に短縮、BSA改定で自社データの第三者AIモデル学習利用を禁止。ヘッドラインは台風13号（7日3時に南大東島北北西150km、950hPa、最大風速40m/s、沖縄・奄美は9日ごろまで暴風高波と土砂災害に厳重警戒、台風15号も発生）、米7月雇用統計が7日夜発表でCME FedWatchの9月利上げ確率が8月5日時点54.8%（7月29日は72.3%）、ホルムズ海峡再開へイラン・オマーンが草案（イラン側に通航監督、通行料徴収は不可）、ガザの武装解除合意が早くも動揺＋イスラエルのレバノン空爆、キーウ空襲17人死亡後のパトリオット供与協議継続、国内は立秋・甲子園開幕。円換算は1ドル=約158円（8月6日朝157.70円前後）、1ユーロ=約166円ベース。
+
+Sources:
+- Odoribacter splanchnicus elicits lung protection via vesicle-driven enhancement of the host Cav1–Ces1d interaction (Frontiers in Microbiology, 2026-07-07): https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1860203/full
+- Gut Commensal Klebsiella pneumoniae Extracellular Vesicles Shape a Liver Microenvironment Conducive to Gut-Liver Bacterial Translocation and Pro-Tumorigenic Processes (J Extracell Vesicles, 2026-04): https://pubmed.ncbi.nlm.nih.gov/41885342/
+- Gut microbiota-derived bacterial extracellular vesicles modulate immune responses in COVID-19 (J Extracell Vesicles, 2026-07-23, 東大医科研＋国立感染症研究所): https:</description>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://kengowest.github.io/audio-brief-51c973/episodes/2026-08-07.mp3" length="7819920" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-08-07.mp3</guid>
+      <itunes:duration>00:12:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Daily Brief 2026-08-07 (English)</title>
+      <description>今日の主役は番組初の「細菌が出す小胞（バクテリア由来細胞外小胞・BEV）」。直近7日で扱ったミトコンドリア／エストロボローム／腸管神経系／薬物代謝／暑さ／フレイル／カロリー計算をすべて離れ、「どの菌がいるか」でなく「菌が何を出荷しているか」へ視点を移した回。土台はBEVが直径20〜300ナノメートルの膜で包まれた小包で、代謝物や酵素のような単分子と違い数十種類のカーゴをまとめて運び、膜があるぶん腸壁を抜けて血流に乗り肝臓・肺・脳まで届く点。良い側はFrontiers in Microbiology 7月7日（中国・南方医科大学＋広東省科学院、LPS急性肺障害マウス）：常在菌Odoribacter splanchnicusを枯渇させると肺障害と炎症が悪化、菌を戻すか精製した小胞（平均165.3nm）だけを投与しても肺障害スコアとTNF-α/IL-1β/IL-6が改善＝菌でなく袋だけで効いた。機序はCav1とCes1dの結合強化（結合エネルギー−13.2 kcal/mol）でNF-κB/STAT3抑制とLTB4低下を同時に起こす二重作用。限界はマウスのみ・有効カーゴ未特定と著者明記。悪い側はJ Extracell Vesicles 4月（日本・東海大学医学部主導＋熊本大・国立がん研究センター中央病院・慶應大、筆頭Shogo Tsubaki）：Klebsiella pneumoniae由来小胞（KpEV）は菌体より効率よく肝臓へ到達し、肝マクロファージの一酸化窒素産生を抑えてM2様の免疫抑制型へ傾け、腸→肝の細菌トランスロケーションが起きやすい環境を作る。KpEVに濃縮された細菌tsRNA 2種が肝細胞がん患者血清で顕著に上昇、加齢マウスではNO産生低下と肝の細菌量増加。診断応用はFrontiers in Cellular and Infection Microbiology 7月23日総説（中国・吉林体育学院＋諸曁市人民病院、Hao Ying）：1,100人超の多施設データでがん患者のBEV量が対照より高く、早期診断パネルのAUC 0.87〜0.94でCEA・CA19-9を上回る。胃がんコホート453人（患者181/対照272）、腎細胞がん88人＋健常10人。検体は便・血液・尿・唾液・胃液。限界は「bEV同定の世界共通マーカーが存在しない」「単離法がばらばら」「宿主EV・タンパク凝集体の混入」「ほぼ動物モデル」「研究間で比較不能」。素材化はExtracellular Vesicles and Circulating Nucleic Acids 5月28日総説（中国・浙江省農業科学院／Xianghu Laboratory、Jiali Chen他、アルゼンチン・スペイン共著）：eBEVを「次世代の精密ポストバイオティクス」と位置づけ、生きた菌でないため保存性・用量精度・有害成分除去・カーゴ/表面の設計が可能。課題は工業スケール化不能・ロット間ばらつき・収量と純度の両立・グラム陰性菌由来のLPS毒性・規制枠組み未整備で全て前臨床。番組のヤマはJ Extracell Vesicles 7月23日（日本・東京大学医科学研究所＋国立感染症研究所、筆頭Aya Ishizaka、Michiko Koga／Ken J Ishii、COVID-19患者17人vs健常20人の便由来BEVをU937単球に曝露）：患者由来BEVはIL-8等の炎症性サイトカインを誘導、健常由来はしない。臨床的寛解後も炎症誘導能が戻る人と戻らない人に分かれた＝「菌の構成は戻ったように見えても出荷物は戻っていない」状態がありうる。限界はn=17・単一細胞株・一部横断デザイン。市場は測る側と治す側の二極化で整理：米ソーン・サイエンス（US）が7月28日に1,000万ドル（約16億円）シリーズA、Will Ventures主導、累計約1,800万ドル（約28億円）、便器後付けのコンピュータビジョン式センサー、2023年創業・2026年3月消費者向けローンチ、共同創業者に元Whoop CTO。日本はメタジェンセラピューティクス（社名は番組内では出さず「日本の企業」）が6月に潰瘍性大腸炎向けFMT医薬品MGT-006の日米国際P1/2を開始（日本初）、シリーズB 3rdクローズ11.9億円→シリーズB計35.2億円・累計54.6億円、ドナー応募500人超で認定18人・採便120件超、先進医療Bでの寛解率46%。欧州は英EnteroBiotixがIBS-C向け経口フルスペクトラム製剤のRISE試験を英国内約300人規模、独ミュンヘンのmbiomicsがシリーズAを総額3,000万ユーロ（約50億円）へ拡大。AIはXiaomi-Robotics-1（中国・シャオミ、arXiv 2607.15330、VLA）：10万時間超の実世界操作データを「ロボットを使わず」カメラ付き手持ちグリッパー（UMI方式）で収集し、その上に約1万時間のクロス実体ロボットデータ（うち実住宅7,200時間超）を後段学習。データ増の効果がモデル拡大の効果を上回り、事前学習のスケーリングが後段学習を通して実機性能に伝わり飽和の兆候なし＝中国初のロボットポリシーのスケーリング則の系統的検証。他に阿里系Qwen 3.8-Max（総2.4兆パラメータ、重み公開予定）、Meta Muse Spark 1.2（8月5日）。茶は碾茶入札価格が2026年1kg 10,843円で前年比約2倍、初回入札の開始価格は前年比50〜60%高、小売は2025年後半〜2026年前半で15〜20%高、2025年度緑茶輸出は13,125トン（数量+42%）・金額約847億円（ほぼ倍）、日本発抹茶の54%超が米国向け、煎茶粉末の抹茶偽装と海外での産地名冒用が課題。Amazonは8月1日からスポンサー広告の請求初期設定が出品用アカウント残高からの自動引き落としへ変更（30日サイトの請求書払い継続には手動設定が必要）、広告データ保持がSP 95日・SB/SD 60日に短縮、BSA改定で自社データの第三者AIモデル学習利用を禁止。ヘッドラインは台風13号（7日3時に南大東島北北西150km、950hPa、最大風速40m/s、沖縄・奄美は9日ごろまで暴風高波と土砂災害に厳重警戒、台風15号も発生）、米7月雇用統計が7日夜発表でCME FedWatchの9月利上げ確率が8月5日時点54.8%（7月29日は72.3%）、ホルムズ海峡再開へイラン・オマーンが草案（イラン側に通航監督、通行料徴収は不可）、ガザの武装解除合意が早くも動揺＋イスラエルのレバノン空爆、キーウ空襲17人死亡後のパトリオット供与協議継続、国内は立秋・甲子園開幕。円換算は1ドル=約158円（8月6日朝157.70円前後）、1ユーロ=約166円ベース。
+
+Sources:
+- Odoribacter splanchnicus elicits lung protection via vesicle-driven enhancement of the host Cav1–Ces1d interaction (Frontiers in Microbiology, 2026-07-07): https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1860203/full
+- Gut Commensal Klebsiella pneumoniae Extracellular Vesicles Shape a Liver Microenvironment Conducive to Gut-Liver Bacterial Translocation and Pro-Tumorigenic Processes (J Extracell Vesicles, 2026-04): https://pubmed.ncbi.nlm.nih.gov/41885342/
+- Gut microbiota-derived bacterial extracellular vesicles modulate immune responses in COVID-19 (J Extracell Vesicles, 2026-07-23, 東大医科研＋国立感染症研究所): https:</description>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://kengowest.github.io/audio-brief-51c973/episodes/2026-08-07-en.mp3" length="6053616" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-08-07-en.mp3</guid>
+      <itunes:duration>00:30:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>デイリーブリーフ 2026-08-06</title>
       <description>主役は番組初の「腸内細菌×ミトコンドリア」。ざくろ・ベリー・ナッツのエラジタンニンから腸内細菌が作るウロリチンAがマイトファジー（傷んだミトコンドリアの選択的分解）を動かすという軸で、8月4日のMol Biol Rep総説（中国・北京連合大＋米ミネソタ大、PINK1/Parkin・TFEB・AMPK・サーチュイン・NRF2、ただし「文脈依存の腸内細菌依存性ミトコンドリア調整役」で老化には保護的でも既存腫瘍の生存を助けうる）、ヒトRCTのNature Aging（独ゲオルク・シュパイアー・ハウス＋米バック研＋スイス企業、n=50、45〜70歳、1,000mg/日×28日、CD8陽性T細胞のナイーブ様分画+0.50pt p=0.0437、脂肪酸酸化能+14.72pt p=0.0061）、3月のFrontiers in Endocrinology総説（中国・山東中医薬大、褐色脂肪/白色脂肪ベージュ化・PGC-1α/UCP1・AMPK・M1→M2だが、in vitro 15μM対ヒト血中0.003〜5.2μMの桁差、大規模長期試験なし）、7月22日Frontiers in Microbiology（中国・四川大華西公衆衛生学院、高脂肪食マウスで抗菌薬2週は体重/脂肪減・エネルギー消費と直腸温上昇・Ppargc1a/Pparg/Ucp1上昇、10週は逆に肥満悪化・代謝率と体温低下・多様性低下が固定＝期間で符号が反転、オスのみ・因果は未証明）の4本で構成。実務上の要点はメタボタイプで、UM-A/UM-B/UM-0の3型があり非産生者はスペイン約10%・中国約14%（別報告では米国で最大60%との推計もあり幅が大きい）＝平均値で語る限り一定割合を必ず取りこぼす。市場は8月4日に米P&amp;Gが米ソーンを38億ドル（約6,000億円、L Catterton傘下から全額現金、2026年Q4クローズ予定、ソーンの2025年売上5億ドル超＝約790億円、売上の7倍超）で買収、6月末に英蘭ユニリーバが40億ドルで検討と報じられた案件を別の買い手が取った形。同日カナダのラルマンが米バイオキャット（酵素）を買収。7月15日には米マサチューセッツ連邦地裁が偽ウロリチンAの19業者に恒久差止＋530万ドル（約8億円）、原告はスイス企業、被告商品は検出不能または表示量を大きく下回り、悪質分は3倍賠償。日本は国内腸内環境サプリ市場が2025年9億2,642万ドル（約1,460億円）→2034年19億8,566万ドル（約3,100億円）CAGR8.84%（一社予測）、摂南大学×検査会社の高食物繊維弁当の共同研究。素材エビデンスはJ Nutr 156(8)のPediococcus acidilactici PA53高齢者8週RCT（中国企業株、消化管・睡眠・幸福感）。AIは8月2日のInkling-Small（米シンキング・マシーンズ、総276B/アクティブ12B、元Inklingは975B/41B、Humanity&#x27;s Last Exam テキストで31.6%対29.7%＝生徒が先生超え、1Mコンテキスト、Apache 2.0、思考量を後から調整可）を「蒸留は量でなく教え方」という論点で。茶は7月10日に「日本茶」が農水省GI登録（申請＝日本茶業中央会、海外の偽「宇治抹茶」対策、2025年緑茶輸出721億円で過去最高＝前年比ほぼ2倍、ただし国内GIは海外で自動的に効かず輸出増が生産者手取りに直結する保証もない）＋米RTD茶市場2026年137.2億ドル→2031年176.1億ドル年5.12%、緑茶6.27%。Amazonは7月27日発効の75文字タイトル制限で超過分のAI自動書き換えが進行中、切り捨てでなく再構成（ブランドと中心名詞を残し冗長語を落として並べ替え）、ブランド登録ありは14日レビュー窓・なしは即適用、あふれ分は125文字の検索対象フィールド「アイテムハイライト」へ。ヘッドラインは広島81回目の原爆の日（過去最多123カ国・地域、被爆者9万1,105人・平均86.66歳）、日経平均2,342円高の66,300円・ドル円157円台、米イラン（迎撃ミサイル約8割消費）、キーウ攻撃で17人死亡、欧州熱波でイタリア27都市最高警戒＋米スポケーン山火事700棟超。円換算は1ドル=157.75円（8月5日終値）ベースで約158円として計算。
 
@@ -958,56 +986,6 @@ Sources:
       <enclosure url="https://kengowest.github.io/audio-brief-51c973/episodes/2026-07-08-en.mp3" length="3559968" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-07-08-en.mp3</guid>
       <itunes:duration>00:17:51</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>デイリーブリーフ 2026-07-07</title>
-      <description>今日の主役は「腸・肝・筋の軸」という新しい切り口。脂肪肝(マスルド)患者を対象に腸内細菌と代謝物をまとめて調べた中国二施設の研究を軸に、短鎖脂肪酸・分岐鎖アミノ酸・胆汁酸の不足が筋肉合成を鈍らせサルコペニアに関わることを紹介。あわせて、高脂肪食が大腸の粘液と菌のやり取りを乱し胆汁酸を作りかえて小腸の脂肪吸収を増やすというネイチャー・コミュニケーションズの研究(6月)、腸内細菌由来のティーエムエーオーが高い人は心血管イベント・全死亡リスクが約6割高い一方、短鎖脂肪酸は血圧をやわらげうるという腸・心軸を取り上げた。市場は腸活投資が乳酸菌サプリから「結合たんぱく質」(デンマークのバクトライフ、3500万ドル/約57億円)、クリスパーで悪玉菌を狙い撃つデンマークのスニップ・バイオーム(3500万ユーロ/約60億円)、細菌と真菌の両方を見る米バイオーム(750万ドル/約12億円)へと高度化。テックはAIの中身を読み解く機械論的解釈可能性研究。お茶は世界市場40億ドル超・米が世界二位・てん茶約1万800円/kgと偽抹茶・インスタント高級抹茶、アマゾンは自社データの外部AI学習禁止と広告データ保持期間の短縮(主力95日/他60日)。USD/JPYは約162円で換算。
-
-Sources:
-- Development and validation of a multimodal model integrating gut microbiota and metabolite for identifying sarcopenia in patients with MASLD: a study from two centers in China (Nutrition Journal, 2025): https://nutritionj.biomedcentral.com/articles/10.1186/s12937-025-01198-2
-- The Gut–Liver Axis in MASLD / gut–liver–muscle axis review (PMC, 2026-01-15): https://pmc.ncbi.nlm.nih.gov/articles/PMC12986715/
-- Gut–liver–muscle axis: linking gut microbiota dysbiosis to malnutrition and sarcopenia in liver disease (PMC): https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12852458/
-- Dietary lipids disturb colonic microbiota–mucus interactions and microbial transformation of host-derived bile acids, increasing small-intestinal lipid absorption (Nature Communications, 2026-06-12): https://www.nature.com/subjects/microbiome
-- Microbiota in Gut-Heart Axis: Metabolites and Mechanisms in Cardiovascular Disease (PMC): https://pmc.ncbi.nlm.nih.gov/articles/PMC12181760/
-- Association Between Gut Microbiome Alterations and Hypertension-Related Cardiovascular Outcomes: A Systematic Review and Meta-Analysis (Metabolites, MDPI): https://www.mdpi.com/2036-7481/16/11/244
-- Gut Microbiota-Dependent Marker TMAO in Promoting Cardiovascular Disease — TMAO high = +62% MACE, +63% all-cause mortality (19 trials meta-analysis) (PMC): https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6877687/
-- Bactolife raises $35m Series B to commercialize binding proteins for gut health (Denmark) (AgFunderNews): https://agfundernews.com/bactolife-raises-35m-series-b-to-commercialize-novel-category-of-gut-health-ingredients-binding-proteins
-- SNIPR Biome raises €35M Series B — CRISPR-based microbial gene therapy (Denmark) (Inside Precision Medicine / Global Venturing): https://www.insideprecisionmedicine.com/topics/precision-medicine/the-top-five-emerging-microbiome-startups-following-their-gut/
-- BIOHM raises $7.5M equity round led by Middleland Capital / VTC Ventures — bacteria + fungi (Cleveland, USA) (AgFunderNews): https://agfundernews.com/proven-science-is-an-anomaly-why-middleland-capital-invested-in-gut-microbiome-startup-biohm
-- Mechanistic interpretability — 10 Breakthrough Technologies 2026 (MIT Technology Review): https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/
-- 2026 Matcha Industry Outlook: Supply, Prices, Trends — global market &gt;$4B, US #2, RTD CAGR 9.7%, tencha ~¥10,843/kg, instant ceremonial matcha (One with Tea / AKI Matcha): https://onewithtea.com/blogs/news/2026-matcha-industry-outlook
-- Matcha shortage in Japan 2026 and fake &quot;matcha&quot; risk for buyers (Matcha Wholesale Japan): https://www.matcha-wholesale-japan.com/blogs/news/matcha-shortage-in-japan-2026-and-fake-matcha-risk-for-buyers
-- Amazon Ad Policy Updates — BSA bans using Amazon data to train third-party AI; ad data retention capped (SP 95d / SB &amp; SD 60d) (Emplicit): https://emplicit.co/amazon-ad-</description>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://kengowest.github.io/audio-brief-51c973/episodes/2026-07-07.mp3" length="6422400" type="audio/mpeg"/>
-      <guid isPermaLink="false">2026-07-07.mp3</guid>
-      <itunes:duration>00:10:29</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Daily Brief 2026-07-07 (English)</title>
-      <description>今日の主役は「腸・肝・筋の軸」という新しい切り口。脂肪肝(マスルド)患者を対象に腸内細菌と代謝物をまとめて調べた中国二施設の研究を軸に、短鎖脂肪酸・分岐鎖アミノ酸・胆汁酸の不足が筋肉合成を鈍らせサルコペニアに関わることを紹介。あわせて、高脂肪食が大腸の粘液と菌のやり取りを乱し胆汁酸を作りかえて小腸の脂肪吸収を増やすというネイチャー・コミュニケーションズの研究(6月)、腸内細菌由来のティーエムエーオーが高い人は心血管イベント・全死亡リスクが約6割高い一方、短鎖脂肪酸は血圧をやわらげうるという腸・心軸を取り上げた。市場は腸活投資が乳酸菌サプリから「結合たんぱく質」(デンマークのバクトライフ、3500万ドル/約57億円)、クリスパーで悪玉菌を狙い撃つデンマークのスニップ・バイオーム(3500万ユーロ/約60億円)、細菌と真菌の両方を見る米バイオーム(750万ドル/約12億円)へと高度化。テックはAIの中身を読み解く機械論的解釈可能性研究。お茶は世界市場40億ドル超・米が世界二位・てん茶約1万800円/kgと偽抹茶・インスタント高級抹茶、アマゾンは自社データの外部AI学習禁止と広告データ保持期間の短縮(主力95日/他60日)。USD/JPYは約162円で換算。
-
-Sources:
-- Development and validation of a multimodal model integrating gut microbiota and metabolite for identifying sarcopenia in patients with MASLD: a study from two centers in China (Nutrition Journal, 2025): https://nutritionj.biomedcentral.com/articles/10.1186/s12937-025-01198-2
-- The Gut–Liver Axis in MASLD / gut–liver–muscle axis review (PMC, 2026-01-15): https://pmc.ncbi.nlm.nih.gov/articles/PMC12986715/
-- Gut–liver–muscle axis: linking gut microbiota dysbiosis to malnutrition and sarcopenia in liver disease (PMC): https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12852458/
-- Dietary lipids disturb colonic microbiota–mucus interactions and microbial transformation of host-derived bile acids, increasing small-intestinal lipid absorption (Nature Communications, 2026-06-12): https://www.nature.com/subjects/microbiome
-- Microbiota in Gut-Heart Axis: Metabolites and Mechanisms in Cardiovascular Disease (PMC): https://pmc.ncbi.nlm.nih.gov/articles/PMC12181760/
-- Association Between Gut Microbiome Alterations and Hypertension-Related Cardiovascular Outcomes: A Systematic Review and Meta-Analysis (Metabolites, MDPI): https://www.mdpi.com/2036-7481/16/11/244
-- Gut Microbiota-Dependent Marker TMAO in Promoting Cardiovascular Disease — TMAO high = +62% MACE, +63% all-cause mortality (19 trials meta-analysis) (PMC): https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6877687/
-- Bactolife raises $35m Series B to commercialize binding proteins for gut health (Denmark) (AgFunderNews): https://agfundernews.com/bactolife-raises-35m-series-b-to-commercialize-novel-category-of-gut-health-ingredients-binding-proteins
-- SNIPR Biome raises €35M Series B — CRISPR-based microbial gene therapy (Denmark) (Inside Precision Medicine / Global Venturing): https://www.insideprecisionmedicine.com/topics/precision-medicine/the-top-five-emerging-microbiome-startups-following-their-gut/
-- BIOHM raises $7.5M equity round led by Middleland Capital / VTC Ventures — bacteria + fungi (Cleveland, USA) (AgFunderNews): https://agfundernews.com/proven-science-is-an-anomaly-why-middleland-capital-invested-in-gut-microbiome-startup-biohm
-- Mechanistic interpretability — 10 Breakthrough Technologies 2026 (MIT Technology Review): https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/
-- 2026 Matcha Industry Outlook: Supply, Prices, Trends — global market &gt;$4B, US #2, RTD CAGR 9.7%, tencha ~¥10,843/kg, instant ceremonial matcha (One with Tea / AKI Matcha): https://onewithtea.com/blogs/news/2026-matcha-industry-outlook
-- Matcha shortage in Japan 2026 and fake &quot;matcha&quot; risk for buyers (Matcha Wholesale Japan): https://www.matcha-wholesale-japan.com/blogs/news/matcha-shortage-in-japan-2026-and-fake-matcha-risk-for-buyers
-- Amazon Ad Policy Updates — BSA bans using Amazon data to train third-party AI; ad data retention capped (SP 95d / SB &amp; SD 60d) (Emplicit): https://emplicit.co/amazon-ad-</description>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://kengowest.github.io/audio-brief-51c973/episodes/2026-07-07-en.mp3" length="4637808" type="audio/mpeg"/>
-      <guid isPermaLink="false">2026-07-07-en.mp3</guid>
-      <itunes:duration>00:23:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
