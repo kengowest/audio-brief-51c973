@@ -10,6 +10,34 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
     <item>
+      <title>デイリーブリーフ 2026-08-10</title>
+      <description>今日の主役は番組初の「腸内真菌（マイコバイオーム）」。直近7日で扱ったファージ／細菌由来細胞外小胞／ミトコンドリア／エストロボローム／腸管神経系／薬物代謝／乳化剤をすべて離れ、「細菌」でなく「カビと酵母」へ視点を移した。軸は7月8日にCell Host &amp; Microbe同号へ同時掲載された二本が、別々の酵母を対象に同じ結論へ着地したこと。米UTサウスウェスタン＋UCデービス（Mishra／Andrew Y. Koh、34(7):1302-1319）はカンジダ・アルビカンスに対し短鎖脂肪酸が代謝リプログラミング・ヘキソース取り込み阻害・細胞内酸性化の三点で効き、効果は菌叢が無傷のときのみ発現、SCFA非産生Bacteroides変異株では抑制力低下、プレバイオティクスでSCFAを上げるとクリアランス改善。米メモリアル・スローン・ケタリング中心（Yasuma-Mitobe／34(7):1320-1332、PMID 42242207、ダートマス大＋ハンガリー・セゲド大＋アイルランドUCD＋ロックフェラー大）は機械学習で細菌代謝物を絞り込み吉草酸・酪酸を同定、造血幹細胞移植患者検体で吉草酸・酪酸とC. parapsilosis増殖が逆相関、機序は同じく細胞内酸性化、マウスで吉草酸が到達した部位のみ抑制。同号解説「An acidic welcome」（Heredia &amp; Caballero-Flores、34(7):1151-1153）が二本を束ねる。二本目の柱は同号の中国・上海交通大学医学院附属仁済病院ほか（34(7):1445-1461、PMID 42208527）：腸内真菌Cladosporium tenuissimumがオルニチン競合でカンジダを抑えるが、カンジダはトレオニンへ主食を切り替えて逃走し、そのトレオニン供給者が細菌Bacteroides fragilis。マウスの食事トレオニン制限でカンジダ由来大腸炎が大幅軽減（＝ヒトへのアミノ酸制限提案ではないと番組内で明示）。三本目はImmunity 7月14日（PMID 42447860、独キール大＋米ワイル・コーネル、Petra Bacher）：カンジダ反応性Th17は真菌細胞外小胞に富む限られた抗原だけを狙い、平時は口腔粘膜に常在、クローン病では炎症腸へ移動し抗原特異性の狭さを保ったまま病原性形質を獲得＝口-腸軸。四本目は相関段階として、Aging Cell 8月号（25(8):e70650、中国・中山大学公衆衛生学院、n=763）：動脈硬化度（脈波伝播速度）が高い群で真菌ネットワークが「クラスター性低・連結性高」へ傾き、Apiotrichumら5属が寄与、有機酸/脂肪酸/アルカロイドが媒介。加えてDiabetes Res Clin Pract総説（7月27日、PMID 42508496、印ICMR国立環境保健研究所）：2型糖尿病でCandida増・Saccharomyces減の報告が並ぶが著者自身が予備的・地域偏り・手法不統一と明記。番組の結論は「同じ真菌の話でも、仕組みまで詰め切った短鎖脂肪酸の因果と、相関を眺めている段階の血管/糖尿病を同じ強さで語らない」こと、生活側の打ち手は「食物繊維を切らさない」に、カビの増えすぎ抑制という一段深い意味がついただけ、という整理。市場は米ニュージャージー州プリンストンのKanvas Biosciences（コーネル大発、シリーズA 4,800万ドル＝およそ76億円、累計7,800万ドル＝およそ123億円、DCVC・Lions Capital共同リード、ゲイツ財団参加、主力KAN-001＝固形がん免疫療法増強のLBP、HiPR-FISH空間イメージングを外販＝「どの菌がどこにいるか」を売る立ち位置）と、米アラバマ州のResbiotic（業界表彰の2026年スタートアップ・オブ・ザ・イヤー、腸-肺軸のresBから出発し製品10種、米テキサス州Tiny Healthと組んで検査を商品に内包＝「飲んで何となく」から「測って選ぶ」への移行）。規制は欧州食品安全機関が7月3日の外部科学報告書でビフィズス菌属全体を追加評価候補リストに掲載（根拠は重複除外34例の感染性心内膜炎、47〜72歳、規制(EC)1925/2006第8条の枠組み、ただしリスト入り＝規制変更ではなく時期未定、専門家は禁止は考えにくいと見る）。日本は8月3日に森永乳業がラクトフェリン免疫対策サプリ2品を通販発売、明治が乳酸菌配合ザバスBIOPROを腸内環境×からだづくりで展開。米＝資金調達スタートアップと検査会社、日＝既存の乳業/製薬大手という役者の色分けが見えるが数社の印象にすぎず市場全体の傾向とは断定しないと明示（仮説として既存販路の強さに触れる程度）。テックはGoogleのAI体制刷新（8/5-6、ハサビスがDeepMind CEO退任→DeepMind会長＋Alphabet最高科学責任者、カブクチュオールが上級副社長として日常運営をピチャイ直属で継承、ジェフ・ディーンが27年で退社し新会社、Alphabet株約4%安、背景は次期モデルの数か月遅れ・研究者流出・競合圧力）と、EU AI法第50条の透明性義務が8月2日から適用・執行可能に（チャットボット/合成メディア/感情認識/ディープフェイク、高リスク分類と無関係に適用、AIである旨の開示義務、上限1,500万ユーロ＝およそ27億円または全世界売上3%、既存生成AIの標識・検出義務のみ12月2日まで猶予）。お茶は抹茶市場およそ10億ドル＝およそ1,600億円で有機区分が最速成長、碾茶不足は8月にかけて深まり今春の収穫が来年の供給を決める、6月に米社がクレームブリュレ/ラベンダーのRTD抹茶ラテ、別社がインド向けEC開始、2025年度緑茶輸出は13,125トン（+42%）・847億円（2.2倍）・粉末状が約7割。Amazonは7月27日からフォトリアルなAI生成人物を含む画像/A+コンテンツにXMPメタデータのcontains-synthetic-performer付与が世界のセラーに義務（引き金は6月9日施行のニューヨーク州法、見た目に出ないため外注時に指示漏れしやすい）、および繁忙期手数料が10月15日〜2027年1月14日。冒頭ヘッドラインはホルムズ海峡（イラン・オマーン協議、イランが米国へ広範な条件、ADNOC船へのミサイル攻撃、通航量前日比約3割減）、ガザ（多国籍治安部隊にウガンダ議会が派兵承認）、ウクライナ（迎撃弾枯渇、キーウ攻撃で犠牲）、熊本地震（7/28、死者30人超、避難7,000人超、8/8-11の雨で土砂災害警戒、断水は8月末解消目標）、台風13号（沖縄・奄美に接近、9日ごろまで警戒）、市場（日経平均8/7終値65,606円・週間約+1,200円、ドル円157円台後半〜158円、8/12に米CPI）。番組内の円換算は1ドル=158円、1ユーロ=182円で統一。
+
+Sources:
+- Cell Host &amp; Microbe 34(7):1302-1319.e11 (2026-07-08, PMID 42242208) — Mishra AA, ... Koh AY (UT Southwestern Medical Center / UC Davis), &quot;Microbiota-derived short-chain fatty acids mediate Candida albicans gastrointestinal colonization resistance&quot;: https://pubmed.ncbi.nlm.nih.gov/42242208/
+- Cell Host &amp; Microbe (fulltext) — 同論文: https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(26)00183-6
+- bioRxiv preprint — Microbiota-derived short-chain fatty acids mediate Candida albicans gastrointestinal colonization resistance: https://www.biorxiv.org/content/10.1101/2025.09.08.674977</description>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://kengowest.github.io/audio-brief-51c973/episodes/2026-08-10.mp3" length="8376336" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-08-10.mp3</guid>
+      <itunes:duration>00:13:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Daily Brief 2026-08-10 (English)</title>
+      <description>今日の主役は番組初の「腸内真菌（マイコバイオーム）」。直近7日で扱ったファージ／細菌由来細胞外小胞／ミトコンドリア／エストロボローム／腸管神経系／薬物代謝／乳化剤をすべて離れ、「細菌」でなく「カビと酵母」へ視点を移した。軸は7月8日にCell Host &amp; Microbe同号へ同時掲載された二本が、別々の酵母を対象に同じ結論へ着地したこと。米UTサウスウェスタン＋UCデービス（Mishra／Andrew Y. Koh、34(7):1302-1319）はカンジダ・アルビカンスに対し短鎖脂肪酸が代謝リプログラミング・ヘキソース取り込み阻害・細胞内酸性化の三点で効き、効果は菌叢が無傷のときのみ発現、SCFA非産生Bacteroides変異株では抑制力低下、プレバイオティクスでSCFAを上げるとクリアランス改善。米メモリアル・スローン・ケタリング中心（Yasuma-Mitobe／34(7):1320-1332、PMID 42242207、ダートマス大＋ハンガリー・セゲド大＋アイルランドUCD＋ロックフェラー大）は機械学習で細菌代謝物を絞り込み吉草酸・酪酸を同定、造血幹細胞移植患者検体で吉草酸・酪酸とC. parapsilosis増殖が逆相関、機序は同じく細胞内酸性化、マウスで吉草酸が到達した部位のみ抑制。同号解説「An acidic welcome」（Heredia &amp; Caballero-Flores、34(7):1151-1153）が二本を束ねる。二本目の柱は同号の中国・上海交通大学医学院附属仁済病院ほか（34(7):1445-1461、PMID 42208527）：腸内真菌Cladosporium tenuissimumがオルニチン競合でカンジダを抑えるが、カンジダはトレオニンへ主食を切り替えて逃走し、そのトレオニン供給者が細菌Bacteroides fragilis。マウスの食事トレオニン制限でカンジダ由来大腸炎が大幅軽減（＝ヒトへのアミノ酸制限提案ではないと番組内で明示）。三本目はImmunity 7月14日（PMID 42447860、独キール大＋米ワイル・コーネル、Petra Bacher）：カンジダ反応性Th17は真菌細胞外小胞に富む限られた抗原だけを狙い、平時は口腔粘膜に常在、クローン病では炎症腸へ移動し抗原特異性の狭さを保ったまま病原性形質を獲得＝口-腸軸。四本目は相関段階として、Aging Cell 8月号（25(8):e70650、中国・中山大学公衆衛生学院、n=763）：動脈硬化度（脈波伝播速度）が高い群で真菌ネットワークが「クラスター性低・連結性高」へ傾き、Apiotrichumら5属が寄与、有機酸/脂肪酸/アルカロイドが媒介。加えてDiabetes Res Clin Pract総説（7月27日、PMID 42508496、印ICMR国立環境保健研究所）：2型糖尿病でCandida増・Saccharomyces減の報告が並ぶが著者自身が予備的・地域偏り・手法不統一と明記。番組の結論は「同じ真菌の話でも、仕組みまで詰め切った短鎖脂肪酸の因果と、相関を眺めている段階の血管/糖尿病を同じ強さで語らない」こと、生活側の打ち手は「食物繊維を切らさない」に、カビの増えすぎ抑制という一段深い意味がついただけ、という整理。市場は米ニュージャージー州プリンストンのKanvas Biosciences（コーネル大発、シリーズA 4,800万ドル＝およそ76億円、累計7,800万ドル＝およそ123億円、DCVC・Lions Capital共同リード、ゲイツ財団参加、主力KAN-001＝固形がん免疫療法増強のLBP、HiPR-FISH空間イメージングを外販＝「どの菌がどこにいるか」を売る立ち位置）と、米アラバマ州のResbiotic（業界表彰の2026年スタートアップ・オブ・ザ・イヤー、腸-肺軸のresBから出発し製品10種、米テキサス州Tiny Healthと組んで検査を商品に内包＝「飲んで何となく」から「測って選ぶ」への移行）。規制は欧州食品安全機関が7月3日の外部科学報告書でビフィズス菌属全体を追加評価候補リストに掲載（根拠は重複除外34例の感染性心内膜炎、47〜72歳、規制(EC)1925/2006第8条の枠組み、ただしリスト入り＝規制変更ではなく時期未定、専門家は禁止は考えにくいと見る）。日本は8月3日に森永乳業がラクトフェリン免疫対策サプリ2品を通販発売、明治が乳酸菌配合ザバスBIOPROを腸内環境×からだづくりで展開。米＝資金調達スタートアップと検査会社、日＝既存の乳業/製薬大手という役者の色分けが見えるが数社の印象にすぎず市場全体の傾向とは断定しないと明示（仮説として既存販路の強さに触れる程度）。テックはGoogleのAI体制刷新（8/5-6、ハサビスがDeepMind CEO退任→DeepMind会長＋Alphabet最高科学責任者、カブクチュオールが上級副社長として日常運営をピチャイ直属で継承、ジェフ・ディーンが27年で退社し新会社、Alphabet株約4%安、背景は次期モデルの数か月遅れ・研究者流出・競合圧力）と、EU AI法第50条の透明性義務が8月2日から適用・執行可能に（チャットボット/合成メディア/感情認識/ディープフェイク、高リスク分類と無関係に適用、AIである旨の開示義務、上限1,500万ユーロ＝およそ27億円または全世界売上3%、既存生成AIの標識・検出義務のみ12月2日まで猶予）。お茶は抹茶市場およそ10億ドル＝およそ1,600億円で有機区分が最速成長、碾茶不足は8月にかけて深まり今春の収穫が来年の供給を決める、6月に米社がクレームブリュレ/ラベンダーのRTD抹茶ラテ、別社がインド向けEC開始、2025年度緑茶輸出は13,125トン（+42%）・847億円（2.2倍）・粉末状が約7割。Amazonは7月27日からフォトリアルなAI生成人物を含む画像/A+コンテンツにXMPメタデータのcontains-synthetic-performer付与が世界のセラーに義務（引き金は6月9日施行のニューヨーク州法、見た目に出ないため外注時に指示漏れしやすい）、および繁忙期手数料が10月15日〜2027年1月14日。冒頭ヘッドラインはホルムズ海峡（イラン・オマーン協議、イランが米国へ広範な条件、ADNOC船へのミサイル攻撃、通航量前日比約3割減）、ガザ（多国籍治安部隊にウガンダ議会が派兵承認）、ウクライナ（迎撃弾枯渇、キーウ攻撃で犠牲）、熊本地震（7/28、死者30人超、避難7,000人超、8/8-11の雨で土砂災害警戒、断水は8月末解消目標）、台風13号（沖縄・奄美に接近、9日ごろまで警戒）、市場（日経平均8/7終値65,606円・週間約+1,200円、ドル円157円台後半〜158円、8/12に米CPI）。番組内の円換算は1ドル=158円、1ユーロ=182円で統一。
+
+Sources:
+- Cell Host &amp; Microbe 34(7):1302-1319.e11 (2026-07-08, PMID 42242208) — Mishra AA, ... Koh AY (UT Southwestern Medical Center / UC Davis), &quot;Microbiota-derived short-chain fatty acids mediate Candida albicans gastrointestinal colonization resistance&quot;: https://pubmed.ncbi.nlm.nih.gov/42242208/
+- Cell Host &amp; Microbe (fulltext) — 同論文: https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(26)00183-6
+- bioRxiv preprint — Microbiota-derived short-chain fatty acids mediate Candida albicans gastrointestinal colonization resistance: https://www.biorxiv.org/content/10.1101/2025.09.08.674977</description>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://kengowest.github.io/audio-brief-51c973/episodes/2026-08-10-en.mp3" length="6480144" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-08-10-en.mp3</guid>
+      <itunes:duration>00:32:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>デイリーブリーフ 2026-08-09</title>
       <description>今日の主役は「何を食べるか」ではなく「食べ物に何が入っているか」。8月8日にAllergy誌へ出たばかりの国際共同研究（スイス・アレルギー喘息研究所ほか）が、大豆レシチンとDATEMという身近な乳化剤が腸オンチップでバリアを濃度依存的に壊し、炎症とIgE産生まで引き起こすことを示した。これに超加工食品の「腸-脳-脂肪」統合レビューを重ね、逆にTMAOのヒト無作為化試験は血中4倍増でも血糖に変化なし＝相関は因果でないかもしれないという否定的結果、広島大学病院の水素ゼリー試験は全体で差なしでも元々の水素産生菌量が反応を分けるという個体差の話でしめた。市場はサプリブランドへの10億ドルが株式でなく顧客獲得投資として入った構造の話、アッカーマンシアの生菌＋殺菌菌をカバーする米国用途特許、中国SAMRの期限切れ時点CFU規制案。テックは実運用の架空ファイバー62kmでの量子もつれ配送と、D-Waveの消失誤り変換によるNature論文。
 
@@ -890,58 +918,6 @@ Sources:
       <enclosure url="https://kengowest.github.io/audio-brief-51c973/episodes/2026-07-11-en.mp3" length="3503520" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-07-11-en.mp3</guid>
       <itunes:duration>00:17:50</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>デイリーブリーフ 2026-07-10</title>
-      <description>今日の主役は「腸と眠り」という新しい切り口。去年十一月のブレイン・メディシン誌の総説（北京大学）を土台に、腸が眠りの材料工場でもあることを紹介した。メラトニンは腸粘膜が血中の約400倍作り、セロトニンは九割以上が腸で作られ、ラクトバチルスやビフィズス菌はギャバを、繊維由来の短鎖脂肪酸（酪酸）は炎症をしずめる、迷走神経とストレスホルモン回路が眠りの深さを調整する、という三点で整理。菌の偏りは慢性不眠でルミノコッカス科が減り、ナルコレプシーでクレブシエラ増・ブラウティア減。人での証拠はラクトバチルス・プランタルムPS128で深い眠り(N3)のデルタ波が強まった小試験などがある一方、治療法を正面比較した大試験はなく方法もばらばら、と線引き。夜勤二週間で腸内細菌が変わりドレア増・腸バリアゆるみ・炎症上昇。市場はイギリスのマイオタ(シリーズエー約450万ドル/約7億円、臨床で確かめたプレバイオ繊維でGLP-1を食事側から後押し)、同じくイギリスのレメディ・ヘルス(約1880万ドル/約30億円、個別化グミ)、米はP&amp;Gやペプシコ(腸活炭酸を約20億ドル/約3200億円)が大手食品として買収、世界の微生物叢市場は約16億ドル/約2600億円(2025)→約89億ドル/約1兆4000億円(2034)。日本は睡眠が受託製造の五大テーマの一つで、ポストバイオティクスとギャバ・L-テアニン届出が焦点。日米差は決めつけず提示。テックはケンブリッジ大のAI設計・汎用コロナワクチンが39人の第一相で安全(六月五日、針なし噴射のDNAワクチン)。お茶はてん茶競り値が約1万800円/kgと約二倍、伊藤園が三月から5〜25%値上げ、粉末煎茶の偽抹茶に注意、品薄は八月収穫まで悪化。アマゾンは七月二十七日から商品名を全カテゴリ(メディア除く)75文字以内に。USD/JPYは約162円で換算。
-
-Sources:
-- Groundbreaking review reveals how gut microbiota influences sleep disorders through the brain-gut axis (Brain Medicine, Nov 4 2025 / EurekAlert): https://www.eurekalert.org/news-releases/1104277
-- How gut microbes shape sleep: New review reveals microbiome clues to insomnia and apnea (News-Medical): https://www.news-medical.net/news/20251105/How-gut-microbes-shape-sleep-New-review-reveals-microbiome-clues-to-insomnia-and-apnea.aspx
-- Linking gut microbiota rhythmicity to circadian maturation in infants (PMC): https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12644702/
-- Distinct Gut Microbiome Characteristics Associated with Mental Health Symptoms of Healthy Adults (Brain Sciences, MDPI, 2026): https://www.mdpi.com/2076-3425/16/4/382
-- Growing demand for evidence-backed fiber drives Myota&#x27;s $4.5m funding round (NutraIngredients, Jul 2 2026): https://www.nutraingredients.com/Article/2026/07/02/myota-raises-45m-to-scale-clinically-validated-prebiotic-fibre/
-- Microbiome Company Myota Raises $4.5 Million Series A (Nutraceuticals World): https://www.nutraceuticalsworld.com/breaking-news/microbiome-company-myota-raises-4-5-million-series-a/
-- Market moves: Supplement industry deals of Q2 2026 (NutraIngredients): https://www.nutraingredients.com/Article/2026/06/30/supplement-industry-deals-of-q2-2026/
-- 【2026年最新】健康食品OEMトレンド完全ガイド｜GLP-1・腸活・睡眠サプリの市場動向 (食品OEMの窓口): https://foodoem.jp/foodoem/health-oem-trends/
-- AI-designed universal coronavirus vaccine passes first human trial (ScienceDaily, Jun 5 2026): https://www.sciencedaily.com/releases/2026/06/260605023357.htm
-- Computer-designed universal vaccine shows early human trial success (Interesting Engineering): https://interestingengineering.com/ai-robotics/cambridge-ai-designed-universal-vaccine-phase-1-trial
-- Matcha shortage in Japan 2026 and fake &quot;matcha&quot; risk for buyers (Matcha Wholesale Japan): https://www.matcha-wholesale-japan.com/blogs/news/matcha-shortage-in-japan-2026-and-fake-matcha-risk-for-buyers
-- Japan&#x27;s green tea exports surged in fiscal 2025 amid matcha boom (The Japan Times): https://www.japantimes.co.jp/business/2026/05/01/green-tea-exports-matcha/
-- Amazon Introduces New Product Title Rules Effective July 27, 2026 (CedCommerce): https://cedcommerce.com/blog/amazon-introduces-new-product-title-rules-effective-july-27-2026/
-- Updates to improve your product titles begin on July 27 (Amazon Seller Central): https://sellercentral.amazon.com/seller-forums/discussions/t/145b6d0f-999c-4555-896c-c694bda2e470
-- USD/JPY exchange rate (TradingEconomics, ~162 JPY, Jul 9 2026): https://tradingeconomics.com/japan/currency</description>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://kengowest.github.io/audio-brief-51c973/episodes/2026-07-10.mp3" length="5362848" type="audio/mpeg"/>
-      <guid isPermaLink="false">2026-07-10.mp3</guid>
-      <itunes:duration>00:08:42</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Daily Brief 2026-07-10 (English)</title>
-      <description>今日の主役は「腸と眠り」という新しい切り口。去年十一月のブレイン・メディシン誌の総説（北京大学）を土台に、腸が眠りの材料工場でもあることを紹介した。メラトニンは腸粘膜が血中の約400倍作り、セロトニンは九割以上が腸で作られ、ラクトバチルスやビフィズス菌はギャバを、繊維由来の短鎖脂肪酸（酪酸）は炎症をしずめる、迷走神経とストレスホルモン回路が眠りの深さを調整する、という三点で整理。菌の偏りは慢性不眠でルミノコッカス科が減り、ナルコレプシーでクレブシエラ増・ブラウティア減。人での証拠はラクトバチルス・プランタルムPS128で深い眠り(N3)のデルタ波が強まった小試験などがある一方、治療法を正面比較した大試験はなく方法もばらばら、と線引き。夜勤二週間で腸内細菌が変わりドレア増・腸バリアゆるみ・炎症上昇。市場はイギリスのマイオタ(シリーズエー約450万ドル/約7億円、臨床で確かめたプレバイオ繊維でGLP-1を食事側から後押し)、同じくイギリスのレメディ・ヘルス(約1880万ドル/約30億円、個別化グミ)、米はP&amp;Gやペプシコ(腸活炭酸を約20億ドル/約3200億円)が大手食品として買収、世界の微生物叢市場は約16億ドル/約2600億円(2025)→約89億ドル/約1兆4000億円(2034)。日本は睡眠が受託製造の五大テーマの一つで、ポストバイオティクスとギャバ・L-テアニン届出が焦点。日米差は決めつけず提示。テックはケンブリッジ大のAI設計・汎用コロナワクチンが39人の第一相で安全(六月五日、針なし噴射のDNAワクチン)。お茶はてん茶競り値が約1万800円/kgと約二倍、伊藤園が三月から5〜25%値上げ、粉末煎茶の偽抹茶に注意、品薄は八月収穫まで悪化。アマゾンは七月二十七日から商品名を全カテゴリ(メディア除く)75文字以内に。USD/JPYは約162円で換算。
-
-Sources:
-- Groundbreaking review reveals how gut microbiota influences sleep disorders through the brain-gut axis (Brain Medicine, Nov 4 2025 / EurekAlert): https://www.eurekalert.org/news-releases/1104277
-- How gut microbes shape sleep: New review reveals microbiome clues to insomnia and apnea (News-Medical): https://www.news-medical.net/news/20251105/How-gut-microbes-shape-sleep-New-review-reveals-microbiome-clues-to-insomnia-and-apnea.aspx
-- Linking gut microbiota rhythmicity to circadian maturation in infants (PMC): https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12644702/
-- Distinct Gut Microbiome Characteristics Associated with Mental Health Symptoms of Healthy Adults (Brain Sciences, MDPI, 2026): https://www.mdpi.com/2076-3425/16/4/382
-- Growing demand for evidence-backed fiber drives Myota&#x27;s $4.5m funding round (NutraIngredients, Jul 2 2026): https://www.nutraingredients.com/Article/2026/07/02/myota-raises-45m-to-scale-clinically-validated-prebiotic-fibre/
-- Microbiome Company Myota Raises $4.5 Million Series A (Nutraceuticals World): https://www.nutraceuticalsworld.com/breaking-news/microbiome-company-myota-raises-4-5-million-series-a/
-- Market moves: Supplement industry deals of Q2 2026 (NutraIngredients): https://www.nutraingredients.com/Article/2026/06/30/supplement-industry-deals-of-q2-2026/
-- 【2026年最新】健康食品OEMトレンド完全ガイド｜GLP-1・腸活・睡眠サプリの市場動向 (食品OEMの窓口): https://foodoem.jp/foodoem/health-oem-trends/
-- AI-designed universal coronavirus vaccine passes first human trial (ScienceDaily, Jun 5 2026): https://www.sciencedaily.com/releases/2026/06/260605023357.htm
-- Computer-designed universal vaccine shows early human trial success (Interesting Engineering): https://interestingengineering.com/ai-robotics/cambridge-ai-designed-universal-vaccine-phase-1-trial
-- Matcha shortage in Japan 2026 and fake &quot;matcha&quot; risk for buyers (Matcha Wholesale Japan): https://www.matcha-wholesale-japan.com/blogs/news/matcha-shortage-in-japan-2026-and-fake-matcha-risk-for-buyers
-- Japan&#x27;s green tea exports surged in fiscal 2025 amid matcha boom (The Japan Times): https://www.japantimes.co.jp/business/2026/05/01/green-tea-exports-matcha/
-- Amazon Introduces New Product Title Rules Effective July 27, 2026 (CedCommerce): https://cedcommerce.com/blog/amazon-introduces-new-product-title-rules-effective-july-27-2026/
-- Updates to improve your product titles begin on July 27 (Amazon Seller Central): https://sellercentral.amazon.com/seller-forums/discussions/t/145b6d0f-999c-4555-896c-c694bda2e470
-- USD/JPY exchange rate (TradingEconomics, ~162 JPY, Jul 9 2026): https://tradingeconomics.com/japan/currency</description>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://kengowest.github.io/audio-brief-51c973/episodes/2026-07-10-en.mp3" length="3746736" type="audio/mpeg"/>
-      <guid isPermaLink="false">2026-07-10-en.mp3</guid>
-      <itunes:duration>00:19:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
