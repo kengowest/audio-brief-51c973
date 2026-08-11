@@ -10,6 +10,30 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
     <item>
+      <title>デイリーブリーフ 2026-08-12</title>
+      <description>主役は番組初の「体内時計と腸（時間栄養学）」。直近7日で扱った運動・真菌・ファージ・細菌小胞・ミトコンドリア・乳化剤・腸管神経系をすべて離れ、「誰が住んでいるか」から「何時に食べるか」へ軸を移した。結論は「動物で見える仕組みは本物だが、人での健康改善は減量分でほぼ説明がつく」。仕組みは英マンチェスター大学・生物時間研究センター（Hunter FK / Downton P / Luengas-Martinez A ら、npj Biological Timing and Sleep vol.3 art.29, 2026、bioRxiv版 2025.08.12.669757）：総カロリーを固定したまま24時間に均等分割して与えるインターバル給餌で、腸上皮細胞の内在時計は止まらないのに一部の遺伝子転写がリズムを喪失＝細胞外の「食事という時刻合図」の寄与を分離。最重要は分泌型IgA（sIgA）の日内リズムが著者表現で「striking」に消失した点で、sIgAは腸内細菌の時間的配置を決める要のため、門番のシフトが消えると菌側の入れ替わりも崩れる。人の側はJHEP Reports 7月7日（DOI 10.1016/j.jhepr.2026.101956、PMID 42413768、スペイン・グラナダ大 Dote-Montero / Ruiz 主導＋ナバラ公立大＋ナバラ大＋米NIH）：太りぎみ/肥満の成人197人・12週・4群（通常ケア=地中海食指導のみ49人／早時間帯TRE 49人／遅時間帯TRE 52人／自己選択TRE 47人、いずれも8時間窓）。肝脂肪率は3つのTRE群それぞれの群内では有意に低下したが、早/遅/自己選択の群間差なし・対照群との差もなし、便の腸内細菌叢も窓の位置で差なし。一方で臨床的に意味のある5%以上減量の達成率はTRE群41〜44%対対照16%で、5%以上減った人ほど肝改善が大きい＝効いていたのは窓の位置でなく結果的な摂取減。著者結論も「続けられるスケジュールと有意な減量を優先せよ」。決定打はScience Translational Medicine 17(822)（DOI 10.1126/scitranslmed.adv6787、Peters / Schwarz ら、ドイツ＋オーストリア、ウィーン大学関与、medRxiv 2024.10.05.24314120）：太りぎみ女性31人の無作為化クロスオーバー、早TRE（8:00-16:00）2週間対遅TRE（13:00-21:00）2週間、最初から等カロリー設計で「いつもと同じ質と量を8時間窓で食べる」指示。血中単球で測った内在時計位相は遅TREで24分遅く、睡眠中央時刻も15分遅い＝時計は確かに食事時刻に引かれる。しかしインスリン感受性は群間・群内とも改善せず、他の心臓代謝指標も同様＝時計は動くがカロリーを減らさない限り数字は動かない。視野拡張としてSleep Medicine 11月号（オンライン7月10日、PMID 42437546、スイス・ベルン大インゼル病院 睡眠覚醒てんかんセンター、Fregolente / Bassetti / Macpherson / Yilmaz ら）：2024年2月までの54研究（観察38・介入9・遺伝7）、対象は不眠症28%・睡眠時無呼吸22%・体内時計のずれ19%、多様性/構成/SCFA産生菌の変化が反復報告される一方、著者は「方法が不統一で比較不能、因果と疾患特異的な菌サインは未解決」と明記。事業示唆は「朝飲むと効く/夜のこの時間に整う」型の時間訴求は動物の仕組みに比べヒト根拠が薄く踏むと危険、逆に「毎日だいたい同じ時間に続ける」型は根拠が厚い。市場は「測る側」への資金集中が軸：米オースティンのFunctionが7月にゼネラル・カタリストのCustomer Value Fundから4億5,000万ドル（約715億円）を調達、株式でなく販売マーケ支出への出資＋獲得顧客価値の上限つき分配のため評価額は据え置き（2025年11月シリーズB 2億9,800万ドル時点の25億ドル＝約4,000億円）、2023年創業以来累計8億ドル超（約1,270億円）、2026年4月に採血出張のGetlabs・5月にサプリ管理のSuppCoを買収。7月28日に米Throne Scienceが1,000万ドル（約16億円）シリーズAをWill Ventures主導で調達、便器設置カメラで便・尿を画像判定、共同創業者にWhoop元CTO John Capodilupo、累計約1,800万ドル（約29億円）、ハーバード/スタンフォード/シカゴ大と検証中で消化器専門医同等の精度の初アブストラクト受理。今週の米ヘルステック調達全体の傾向は生活習慣アプリより画像診断・治験運用・継続モニタリングという「医療の配管」寄り。大手側の買いは4月にスイスHero Group→英The Gut Stuff（腸活スナック、金額非公表、創業者Lisa/Alana Macfarlane継続）、6月に米Ingredion→米Benicaros（にんじん由来プレバイオ食物繊維、IP・商標・臨床試験・製造ノウハウごとの資産買収）、キリン傘下の豪Blackmores→豪BiomeBankに最大1,500万ドル（約24億円）で14%取得・評価額6,000万ドル（約95億円）。YC 2026年夏バッチは197社中ヘルスケア18社・消費者9社。テックは8月10日のMeta「Muse Glimmer」（総300億パラメータ、Apache 2.0のオープンウェイト、視覚側18億＋テキスト側、文脈13万トークン超、フル精度55GB→量子化17GBで15指標の劣化約1%、24GB VRAMの家庭用GPUまたはApple M4/M5 Maxで動作、DFlashで1回の前向き計算に16トークン先読みしRTX 5090で75→233トークン/秒＝3.1倍、エージェント用途特化でMCP Atlas 75.5対Gemma4-31B 54.2・Qwen3.6-27B 62.5、自社大型モデルからの蒸留）。茶は抹茶原料てん茶の高値継続：2025年京都初取引平均14,541円/kg（前年約5,402円）、上等宇治で4万円超の例、2026年は2025年並みか微増との業界観測（ただし相場数字は情報源でばらつき大と番組内で明示）、需要は5年で約8倍だが茶樹は本格収穫まで5年で構造的に追いつかず煎茶→てん茶の転作進行、2025年一番茶は鹿児島8,440トンが1991年以来はじめて静岡（10,025→8,120トン、-19%）を抜き首位、2024年抹茶輸出5,092トン(+18.7%)・約1億8,500万ドル(約294億円、+25.9%)、2025年度緑茶全体13,125トン・847億円で輸出量の約7割が粉末茶、価格上昇に伴い粉末煎茶を抹茶と偽る例も国内で報告。Amazonは7月22日通知の新画像ルールで、写真のようにリアルなAI生成人物を商品画像やA+コンテンツに使う場合はXMPメタデータのdc:subjectに「contains-synthetic-performer」を入れることが全世界で必須、架空キャラや実在人物の加工は対象外だが生活シーン背景の合成人物は対象、背景は6月9日施行のニューヨーク州の合成出演者開示法（違反1件最大5,000ドル）。あわせて8月1日からスポンサー広告の課金既定がクレジットカードからセラーセントラル残高の自動差し引きに変更（従来の月次請求＋30日条件を続けるには8月期限までに手動設定が必要）。ヘッドラインは8月10日のコロンビア西部チョコ県サンホセ・デル・パルマル付近のM7.4地震（当初20人→130人超、国家災害宣言・軍投入、倒壊60棟超・損壊住宅1,500戸超、震源はボゴタ西約240km）、中国の台風ドルフィンで100万人超避難、米NOAAが7月は1895年の統計開始以来アメリカ本土で最も暑い月と発表、トランプ大統領令で小児予防接種を18回→11回に削減（MMRの3分割方針を含む）、シリア裁判所がアサド前大統領に欠席裁判で死刑判決、日経平均は+2.08%の66,970.22円で約4週間ぶり高値・ドル円159円台。円換算は1ドル=159円ベース。
+
+Sources:
+- The importance of meal timing </description>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://kengowest.github.io/audio-brief-51c973/episodes/2026-08-12.mp3" length="9823968" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-08-12.mp3</guid>
+      <itunes:duration>00:15:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Daily Brief 2026-08-12 (English)</title>
+      <description>主役は番組初の「体内時計と腸（時間栄養学）」。直近7日で扱った運動・真菌・ファージ・細菌小胞・ミトコンドリア・乳化剤・腸管神経系をすべて離れ、「誰が住んでいるか」から「何時に食べるか」へ軸を移した。結論は「動物で見える仕組みは本物だが、人での健康改善は減量分でほぼ説明がつく」。仕組みは英マンチェスター大学・生物時間研究センター（Hunter FK / Downton P / Luengas-Martinez A ら、npj Biological Timing and Sleep vol.3 art.29, 2026、bioRxiv版 2025.08.12.669757）：総カロリーを固定したまま24時間に均等分割して与えるインターバル給餌で、腸上皮細胞の内在時計は止まらないのに一部の遺伝子転写がリズムを喪失＝細胞外の「食事という時刻合図」の寄与を分離。最重要は分泌型IgA（sIgA）の日内リズムが著者表現で「striking」に消失した点で、sIgAは腸内細菌の時間的配置を決める要のため、門番のシフトが消えると菌側の入れ替わりも崩れる。人の側はJHEP Reports 7月7日（DOI 10.1016/j.jhepr.2026.101956、PMID 42413768、スペイン・グラナダ大 Dote-Montero / Ruiz 主導＋ナバラ公立大＋ナバラ大＋米NIH）：太りぎみ/肥満の成人197人・12週・4群（通常ケア=地中海食指導のみ49人／早時間帯TRE 49人／遅時間帯TRE 52人／自己選択TRE 47人、いずれも8時間窓）。肝脂肪率は3つのTRE群それぞれの群内では有意に低下したが、早/遅/自己選択の群間差なし・対照群との差もなし、便の腸内細菌叢も窓の位置で差なし。一方で臨床的に意味のある5%以上減量の達成率はTRE群41〜44%対対照16%で、5%以上減った人ほど肝改善が大きい＝効いていたのは窓の位置でなく結果的な摂取減。著者結論も「続けられるスケジュールと有意な減量を優先せよ」。決定打はScience Translational Medicine 17(822)（DOI 10.1126/scitranslmed.adv6787、Peters / Schwarz ら、ドイツ＋オーストリア、ウィーン大学関与、medRxiv 2024.10.05.24314120）：太りぎみ女性31人の無作為化クロスオーバー、早TRE（8:00-16:00）2週間対遅TRE（13:00-21:00）2週間、最初から等カロリー設計で「いつもと同じ質と量を8時間窓で食べる」指示。血中単球で測った内在時計位相は遅TREで24分遅く、睡眠中央時刻も15分遅い＝時計は確かに食事時刻に引かれる。しかしインスリン感受性は群間・群内とも改善せず、他の心臓代謝指標も同様＝時計は動くがカロリーを減らさない限り数字は動かない。視野拡張としてSleep Medicine 11月号（オンライン7月10日、PMID 42437546、スイス・ベルン大インゼル病院 睡眠覚醒てんかんセンター、Fregolente / Bassetti / Macpherson / Yilmaz ら）：2024年2月までの54研究（観察38・介入9・遺伝7）、対象は不眠症28%・睡眠時無呼吸22%・体内時計のずれ19%、多様性/構成/SCFA産生菌の変化が反復報告される一方、著者は「方法が不統一で比較不能、因果と疾患特異的な菌サインは未解決」と明記。事業示唆は「朝飲むと効く/夜のこの時間に整う」型の時間訴求は動物の仕組みに比べヒト根拠が薄く踏むと危険、逆に「毎日だいたい同じ時間に続ける」型は根拠が厚い。市場は「測る側」への資金集中が軸：米オースティンのFunctionが7月にゼネラル・カタリストのCustomer Value Fundから4億5,000万ドル（約715億円）を調達、株式でなく販売マーケ支出への出資＋獲得顧客価値の上限つき分配のため評価額は据え置き（2025年11月シリーズB 2億9,800万ドル時点の25億ドル＝約4,000億円）、2023年創業以来累計8億ドル超（約1,270億円）、2026年4月に採血出張のGetlabs・5月にサプリ管理のSuppCoを買収。7月28日に米Throne Scienceが1,000万ドル（約16億円）シリーズAをWill Ventures主導で調達、便器設置カメラで便・尿を画像判定、共同創業者にWhoop元CTO John Capodilupo、累計約1,800万ドル（約29億円）、ハーバード/スタンフォード/シカゴ大と検証中で消化器専門医同等の精度の初アブストラクト受理。今週の米ヘルステック調達全体の傾向は生活習慣アプリより画像診断・治験運用・継続モニタリングという「医療の配管」寄り。大手側の買いは4月にスイスHero Group→英The Gut Stuff（腸活スナック、金額非公表、創業者Lisa/Alana Macfarlane継続）、6月に米Ingredion→米Benicaros（にんじん由来プレバイオ食物繊維、IP・商標・臨床試験・製造ノウハウごとの資産買収）、キリン傘下の豪Blackmores→豪BiomeBankに最大1,500万ドル（約24億円）で14%取得・評価額6,000万ドル（約95億円）。YC 2026年夏バッチは197社中ヘルスケア18社・消費者9社。テックは8月10日のMeta「Muse Glimmer」（総300億パラメータ、Apache 2.0のオープンウェイト、視覚側18億＋テキスト側、文脈13万トークン超、フル精度55GB→量子化17GBで15指標の劣化約1%、24GB VRAMの家庭用GPUまたはApple M4/M5 Maxで動作、DFlashで1回の前向き計算に16トークン先読みしRTX 5090で75→233トークン/秒＝3.1倍、エージェント用途特化でMCP Atlas 75.5対Gemma4-31B 54.2・Qwen3.6-27B 62.5、自社大型モデルからの蒸留）。茶は抹茶原料てん茶の高値継続：2025年京都初取引平均14,541円/kg（前年約5,402円）、上等宇治で4万円超の例、2026年は2025年並みか微増との業界観測（ただし相場数字は情報源でばらつき大と番組内で明示）、需要は5年で約8倍だが茶樹は本格収穫まで5年で構造的に追いつかず煎茶→てん茶の転作進行、2025年一番茶は鹿児島8,440トンが1991年以来はじめて静岡（10,025→8,120トン、-19%）を抜き首位、2024年抹茶輸出5,092トン(+18.7%)・約1億8,500万ドル(約294億円、+25.9%)、2025年度緑茶全体13,125トン・847億円で輸出量の約7割が粉末茶、価格上昇に伴い粉末煎茶を抹茶と偽る例も国内で報告。Amazonは7月22日通知の新画像ルールで、写真のようにリアルなAI生成人物を商品画像やA+コンテンツに使う場合はXMPメタデータのdc:subjectに「contains-synthetic-performer」を入れることが全世界で必須、架空キャラや実在人物の加工は対象外だが生活シーン背景の合成人物は対象、背景は6月9日施行のニューヨーク州の合成出演者開示法（違反1件最大5,000ドル）。あわせて8月1日からスポンサー広告の課金既定がクレジットカードからセラーセントラル残高の自動差し引きに変更（従来の月次請求＋30日条件を続けるには8月期限までに手動設定が必要）。ヘッドラインは8月10日のコロンビア西部チョコ県サンホセ・デル・パルマル付近のM7.4地震（当初20人→130人超、国家災害宣言・軍投入、倒壊60棟超・損壊住宅1,500戸超、震源はボゴタ西約240km）、中国の台風ドルフィンで100万人超避難、米NOAAが7月は1895年の統計開始以来アメリカ本土で最も暑い月と発表、トランプ大統領令で小児予防接種を18回→11回に削減（MMRの3分割方針を含む）、シリア裁判所がアサド前大統領に欠席裁判で死刑判決、日経平均は+2.08%の66,970.22円で約4週間ぶり高値・ドル円159円台。円換算は1ドル=159円ベース。
+
+Sources:
+- The importance of meal timing </description>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://kengowest.github.io/audio-brief-51c973/episodes/2026-08-12-en.mp3" length="7294320" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-08-12-en.mp3</guid>
+      <itunes:duration>00:35:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>デイリーブリーフ 2026-08-11</title>
       <description>主役は「腸と運動・筋肉」。直近7日で扱ったホルモン・腸管神経・ミトコンドリア・細菌小胞・ウイルス叢・乳化剤・真菌を離れ、いちばん生活に近い軸へ切り替えた。今年6〜7月に出た4本が同じ問い（運動能力は腸に宿るのか）に別々の方法で答えており、結論は「腸内細菌は運動効果を運ぶ配管の一部だが蛇口ではない」。人の運動習慣者の便をマウスに移すと持久力が伸びる（PLoS One 7/1）一方、14週トレッドミルで鍛えたマウスの菌を移しても実際に鍛えた個体には届かない（Front Microbiol 6/29）。実務価値が高いのは上海体育大学の格闘技選手RCT2本で、減量期にゾヌリン・I-FABP・D乳酸が下がりsIgAが上がる＝「能力の上限を伸ばす」より「腸が弱る局面の落ち込みを防ぐ」設計が現実的。市場側は「一人ひとりに合わせた菌」に資金が集中し、豪ガットガットグースと米アントーが計算・定着確認の側から、日本はキリン等が医療機関経由の検査から入る非対称な構図。ただし2025年Lancet Gastro Hep国際コンセンサスが「日常診療での腸内細菌検査は根拠不十分」としており、検査を主役に置く設計はリスクが高い。
 
@@ -850,62 +874,6 @@ Sources:
       <enclosure url="https://kengowest.github.io/audio-brief-51c973/episodes/2026-07-13-en.mp3" length="3600288" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-07-13-en.mp3</guid>
       <itunes:duration>00:18:06</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>デイリーブリーフ 2026-07-12</title>
-      <description>今日の主役は「腸と運動」という新しい切り口(腸・運動相関)。乳酸だけをエサにする腸内細菌ベイヨネラが、運動で出る乳酸を短鎖脂肪酸プロピオン酸に作りかえてスタミナを底上げする(2019年ネイチャー・メディシンのマラソン研究)ことを土台に、去年11月のメドアーカイブの人試験(健康な大人約150人・8週間・アプリ記録)で疲労の生活への干渉が下がり自発的な運動量が増えたこと、マウスでは12週間走る距離を保ち(約3km/日差)線条体ドーパミンが約3割高く「動きたい気分」まで押している可能性を三点で整理。査読前・効果はおだやか・人でドーパミン未測定・菌は一種類と線引き。市場は大手消費財の動きとして米プロクター・アンド・ギャンブルがテキサス発の消化器ケア新興ブランド、ワンダーベリー(2021年設立、フリーフロム設計)を買収(金額非公開、Metamucil/Pepto-Bismol/Alignの棚に追加)、今日の菌をそのまま商品化している米ニューヨークのフィットバイオミクス(ハーバード発、ベイヨネラの「ヴィネラ」+乳酸菌の睡眠サプリ、調達額不明)を紹介。日本は医療・創薬寄り(FMT医薬)という手ざわりを、日米が同じ形に育つとは限らないと留保。テックはAIの推論チップ(米オープンエーアイの自社チップ「ハラペーニョ」、クアルコムがモジュラーを40億ドル/約6500億円で買収、ブラックストーンが日本のAIデータセンターに300億ドル/約4.9兆円)で、主戦場が賢さから安く速く動かす土台へ広がり資金が日本にも流入。お茶は抹茶原料てん茶が約1万800円/kg(前年比ほぼ倍)、口切りはさらに+50〜60%で2万円超の見立て、8月まで悪化、偽抹茶注意、米が世界2位。アマゾンは8/1からスポンサー広告の課金がセラーセントラル残高からの自動引き落としに既定変更(請求書/カード払い希望は要設定)。USD/JPYは約162円で換算。
-
-Sources:
-- Veillonella atypica supplementation reduces fatigue interference and increases voluntary physical activity: A randomized controlled trial with mechanistic validation in mice (medRxiv, Nov 2025 preprint): https://www.medrxiv.org/content/10.1101/2025.11.03.25339441v1
-- Meta-omics analysis of elite athletes identifies a performance-enhancing microbe that functions via lactate metabolism (Nature Medicine, 2019): https://www.nature.com/articles/s41591-019-0485-4
-- Veillonella atypica FB0054 in Fatigue - Clinical Trials Registry (NCT06141343): https://ichgcp.net/clinical-trials-registry/NCT06141343
-- Procter &amp; Gamble acquires digestive health brand Wonderbelly (Cosmetics Business): https://cosmeticsbusiness.com/procter-gamble-acquires-digestive-health-brand-wonderbelly
-- Wonderbelly Acquired by P&amp;G&#x27;s Personal Health Care Division (Orrick, 2026): https://www.orrick.com/en/News/2026/01/Wonderbelly-Acquired-by-PGs-Personal-Health-Care-Division
-- Innovative Microbiome Probiotics For Your Health: FitBiomics (company site, New York, US) | https://fitbiomics.com/
-- Harvard&#x27;s athlete-based next-generation probiotics technology licensed to FitBiomics (Wyss Institute): https://wyss.harvard.edu/news/harvards-athlete-based-next-generation-probiotics-technology-licensed-to-fitbiomics/
-- Gut-Kidney Axis: Unraveling the Role of the Microbiome in Chronic Kidney Disease (Biomedicines, Jan 2026): https://www.mdpi.com/2227-9059/14/1/109
-- LLM News Today (July 2026) – AI Model Releases (OpenAI Jalapeño chip, Z.ai GLM-5.2): https://llm-stats.com/ai-news
-- Top AI News for July 2026: Breakthroughs, Launches &amp; Trends (Blackstone $30B Japan AI data centers, Qualcomm buys Modular $4B): https://www.aiapps.com/blog/top-ai-news-july-breakthroughs-launches-trends/
-- Matcha shortage in Japan 2026 and fake &quot;matcha&quot; risk for buyers (Matcha Wholesale Japan): https://www.matcha-wholesale-japan.com/blogs/news/matcha-shortage-in-japan-2026-and-fake-matcha-risk-for-buyers
-- Matcha Pricing: 2026 Update (Kettl): https://kettl.co/blogs/kettl-tea-blog/matcha-pricing-2026-update
-- Amazon Ad Policy Updates: What Sellers Need to Know (Emplicit): https://emplicit.co/amazon-ad-policy-updates-sellers/
-- Amazon Seller News July 2026 - FBA Updates (Nova Analytics): https://novadata.io/resources/news
-- Yen rises, JGB yields fall on Japan finance minister&#x27;s pension fund remarks (Nikkei Asia): https://asia.nikkei.com/business/markets/yen-rises-jgb-yields-fall-on-japan-finance-minister-s-pension-fund-remarks
-- Japanese Yen - TradingEconomics (USD/JPY ~162, July 2026): https://tradingeconomics.com/japan/currency
-- World News and International Headlines (NPR — World Cup, Iran, Gaza, Congo </description>
-      <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://kengowest.github.io/audio-brief-51c973/episodes/2026-07-12.mp3" length="4994496" type="audio/mpeg"/>
-      <guid isPermaLink="false">2026-07-12.mp3</guid>
-      <itunes:duration>00:08:13</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Daily Brief 2026-07-12 (English)</title>
-      <description>今日の主役は「腸と運動」という新しい切り口(腸・運動相関)。乳酸だけをエサにする腸内細菌ベイヨネラが、運動で出る乳酸を短鎖脂肪酸プロピオン酸に作りかえてスタミナを底上げする(2019年ネイチャー・メディシンのマラソン研究)ことを土台に、去年11月のメドアーカイブの人試験(健康な大人約150人・8週間・アプリ記録)で疲労の生活への干渉が下がり自発的な運動量が増えたこと、マウスでは12週間走る距離を保ち(約3km/日差)線条体ドーパミンが約3割高く「動きたい気分」まで押している可能性を三点で整理。査読前・効果はおだやか・人でドーパミン未測定・菌は一種類と線引き。市場は大手消費財の動きとして米プロクター・アンド・ギャンブルがテキサス発の消化器ケア新興ブランド、ワンダーベリー(2021年設立、フリーフロム設計)を買収(金額非公開、Metamucil/Pepto-Bismol/Alignの棚に追加)、今日の菌をそのまま商品化している米ニューヨークのフィットバイオミクス(ハーバード発、ベイヨネラの「ヴィネラ」+乳酸菌の睡眠サプリ、調達額不明)を紹介。日本は医療・創薬寄り(FMT医薬)という手ざわりを、日米が同じ形に育つとは限らないと留保。テックはAIの推論チップ(米オープンエーアイの自社チップ「ハラペーニョ」、クアルコムがモジュラーを40億ドル/約6500億円で買収、ブラックストーンが日本のAIデータセンターに300億ドル/約4.9兆円)で、主戦場が賢さから安く速く動かす土台へ広がり資金が日本にも流入。お茶は抹茶原料てん茶が約1万800円/kg(前年比ほぼ倍)、口切りはさらに+50〜60%で2万円超の見立て、8月まで悪化、偽抹茶注意、米が世界2位。アマゾンは8/1からスポンサー広告の課金がセラーセントラル残高からの自動引き落としに既定変更(請求書/カード払い希望は要設定)。USD/JPYは約162円で換算。
-
-Sources:
-- Veillonella atypica supplementation reduces fatigue interference and increases voluntary physical activity: A randomized controlled trial with mechanistic validation in mice (medRxiv, Nov 2025 preprint): https://www.medrxiv.org/content/10.1101/2025.11.03.25339441v1
-- Meta-omics analysis of elite athletes identifies a performance-enhancing microbe that functions via lactate metabolism (Nature Medicine, 2019): https://www.nature.com/articles/s41591-019-0485-4
-- Veillonella atypica FB0054 in Fatigue - Clinical Trials Registry (NCT06141343): https://ichgcp.net/clinical-trials-registry/NCT06141343
-- Procter &amp; Gamble acquires digestive health brand Wonderbelly (Cosmetics Business): https://cosmeticsbusiness.com/procter-gamble-acquires-digestive-health-brand-wonderbelly
-- Wonderbelly Acquired by P&amp;G&#x27;s Personal Health Care Division (Orrick, 2026): https://www.orrick.com/en/News/2026/01/Wonderbelly-Acquired-by-PGs-Personal-Health-Care-Division
-- Innovative Microbiome Probiotics For Your Health: FitBiomics (company site, New York, US) | https://fitbiomics.com/
-- Harvard&#x27;s athlete-based next-generation probiotics technology licensed to FitBiomics (Wyss Institute): https://wyss.harvard.edu/news/harvards-athlete-based-next-generation-probiotics-technology-licensed-to-fitbiomics/
-- Gut-Kidney Axis: Unraveling the Role of the Microbiome in Chronic Kidney Disease (Biomedicines, Jan 2026): https://www.mdpi.com/2227-9059/14/1/109
-- LLM News Today (July 2026) – AI Model Releases (OpenAI Jalapeño chip, Z.ai GLM-5.2): https://llm-stats.com/ai-news
-- Top AI News for July 2026: Breakthroughs, Launches &amp; Trends (Blackstone $30B Japan AI data centers, Qualcomm buys Modular $4B): https://www.aiapps.com/blog/top-ai-news-july-breakthroughs-launches-trends/
-- Matcha shortage in Japan 2026 and fake &quot;matcha&quot; risk for buyers (Matcha Wholesale Japan): https://www.matcha-wholesale-japan.com/blogs/news/matcha-shortage-in-japan-2026-and-fake-matcha-risk-for-buyers
-- Matcha Pricing: 2026 Update (Kettl): https://kettl.co/blogs/kettl-tea-blog/matcha-pricing-2026-update
-- Amazon Ad Policy Updates: What Sellers Need to Know (Emplicit): https://emplicit.co/amazon-ad-policy-updates-sellers/
-- Amazon Seller News July 2026 - FBA Updates (Nova Analytics): https://novadata.io/resources/news
-- Yen rises, JGB yields fall on Japan finance minister&#x27;s pension fund remarks (Nikkei Asia): https://asia.nikkei.com/business/markets/yen-rises-jgb-yields-fall-on-japan-finance-minister-s-pension-fund-remarks
-- Japanese Yen - TradingEconomics (USD/JPY ~162, July 2026): https://tradingeconomics.com/japan/currency
-- World News and International Headlines (NPR — World Cup, Iran, Gaza, Congo </description>
-      <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://kengowest.github.io/audio-brief-51c973/episodes/2026-07-12-en.mp3" length="3727872" type="audio/mpeg"/>
-      <guid isPermaLink="false">2026-07-12-en.mp3</guid>
-      <itunes:duration>00:18:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
