@@ -10,6 +10,46 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
     <item>
+      <title>デイリーブリーフ 2026-08-16</title>
+      <description>主役は番組初の「環境曝露と腸」。直近7日で扱った腸のリンパ管・腸のガス・人ゲノム・体内時計・運動・真菌・ファージをすべて離れ、「腸に何を入れるか」から「腸は環境が体に入る窓口」へ軸を移した。中心は8月13日のmedRxiv臨床試験（復旦大学公衆衛生大学院＋上海・華東病院＋蘭州大学、Fabiotics社が共著、NCT07416214、106人、L. plantarum PD01を1回1.0×10^10 CFU×1日3回×6週間）で、尿中フタル酸代謝物がMCMHP -60.2%、MMP -51.2%、MEHP -49.6%、MiBP -45.7%、MnBP -35.8%、ΣDEHP -46.2%。ただし査読前・企業関与・便中マイクロプラスチック本体は未報告という限界を明示。これに暑熱×運動のマウス実験（華東理工大＋清華大、Front Microbiol、血中の腸由来細菌が安静7.12-17.33%→運動32.16-37.73%、腸障害と相関R=0.45）、熱中症の腸-多臓器レビュー（長沙市中医医院、Front Immunol 6/2）、8月11日J Physiol（米陸軍環境医学研究所USARIEM、活動的男性12人の二重盲検クロスオーバー、短鎖脂肪酸はバリアを守るが5kmTT成績と筋グリコーゲンは不変）、PM2.5悪化喘息と腸内細菌（台湾大学＋中央研究院、Allergy 8/15）を重ねた。市場はキリンによるジェイミソン・ウェルネス買収（8/6、企業価値C$25億＝約2800億円、ブラックモアズ2023・ファンケル2024に続く3件目）、米Throne Scienceの$10M調達（AIトイレカメラ、「消化管の縦断データが存在しない」問題意識）、オタフクソースの腸活酢の機能性表示届出（8/6、グルコン酸）。テックはCerebras×OpenAIのUltrafastモード（8/13、750トークン/秒、最大14倍、ウェハースケール上に44GB SRAM）とビッグテック6社の購入契約1.5兆ドル＝約240兆円（注記のみに計上）。お茶は12年3,408人のコホートでお茶頻度と骨格筋量・握力の関連、腸内細菌等による媒介割合4.5-19%（Pharmacol Res 8/14）。
+
+Sources:
+- medRxiv (2026-08-13, DOI 10.64898/2026.08.12.26360001, NCT07416214) — Lu R, Zhao L, Huang X, Feng Y, Huang S, Dong R（復旦大学公衆衛生大学院／上海・華東病院 上海市老年医学重点実験室／蘭州大学公衆衛生学院／Fabiotics Co. Ltd. 厦門／NHC食品安全リスク評価・標準策定特定実験室）, &quot;Lactiplantibacillus plantarum PD01 supplementation reduces microplastics and microplastic-associated chemicals in humans: A randomized, double-blind, placebo-controlled trial&quot;: https://www.medrxiv.org/content/10.64898/2026.08.12.26360001v1
+- Frontiers in Microbiology (2026-05-25, DOI 10.3389/fmicb.2026.1779295) — Min L, Ablitip A, Wang Q, Li T, Di Q, Ma X, Fang W（華東理工大学／清華大学、中国）, &quot;Combined heat and exercise stress disrupt gut microbiota and promote microbial translocation&quot;: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1779295/full
+- Frontiers in Immunology (2026-06-02, DOI 10.3389/fimmu.2026.1837970) — Wang Z, Deng M（長沙市中医医院 救急科、中国）, &quot;Gut microbiota modulation in the prevention and treatment of heat stroke&quot;（腸-多臓器軸レビュー、げっ歯類中心という限界も明記）: https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2026.1837970/full
+- J Physiol (2026-08-11, PMID 42581384, DOI 10.1113/JP291470) — Karl JP, Fagnant HS, Carrigan CT, Margolis LM（米陸軍環境医学研究所 Military Nutrition Division, Natick, MA, USA）, &quot;Increasing gut short-chain fatty acids protects intestinal barrier function but does not spare muscle glycogen or impact aerobic performance&quot;: https://pubmed.ncbi.nlm.nih.gov/42581384/
+- Allergy (2026-08-15, PMID 42603087, DOI 10.1111/all.70485) — Chen TH, Chou CCK, Chiang BL（国立台湾大学 臨床医学研究所・小児科／中央研究院 環境変遷研究センター、台湾）, &quot;Gut Microbiota Signatures Reflect Particulate Matter 2.5-Exacerbated Asthma in a Murine Model&quot;: https://pubmed.ncbi.nlm.nih.gov/42603087/
+- Europe PMC — gut microbiota × randomized 新着一覧（2026-08-08〜2026-08-16、スクリーニング用）: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%22gut%20microbiota%22%20OR%20%22gut%20microbiome%22%29%20AND%20%28randomized%20OR%20randomised%29%20AND%20FIRST_PDATE%3A%5B2026-08-08%20TO%202026-08-16%5D&amp;format=json
+- PubMed — gut microbiota 直近新着一覧（〜2026-08-15、スクリーニング用）: https://pubmed.ncbi.nlm.nih.gov/?term=gut+microbiota&amp;sort=date
+- Jamieson Wellness / Newswire (2026-08-06) — &quot;Jamieson Wellness Enters into Definitive Agreement to be Acquired by Kirin in C$2.5 Billion Transaction&quot;（1株C$45.75現金、企業価値C$25億＝米$17.8億＝約2800億円、株主総会9月・2026年Q4完了見込み）: https://www.newswire.ca/news-releases/jamieson-wellness-enters-into-definitive-agreement-to-be-acquired-by-kirin-in-c-2-5-billion-transaction-800706300.html
+- NutraIngredients (2026-08-06) —</description>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://kengowest.github.io/audio-brief-51c973/episodes/2026-08-16.mp3" length="6699744" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-08-16.mp3</guid>
+      <itunes:duration>00:10:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Daily Brief 2026-08-16 (English)</title>
+      <description>主役は番組初の「環境曝露と腸」。直近7日で扱った腸のリンパ管・腸のガス・人ゲノム・体内時計・運動・真菌・ファージをすべて離れ、「腸に何を入れるか」から「腸は環境が体に入る窓口」へ軸を移した。中心は8月13日のmedRxiv臨床試験（復旦大学公衆衛生大学院＋上海・華東病院＋蘭州大学、Fabiotics社が共著、NCT07416214、106人、L. plantarum PD01を1回1.0×10^10 CFU×1日3回×6週間）で、尿中フタル酸代謝物がMCMHP -60.2%、MMP -51.2%、MEHP -49.6%、MiBP -45.7%、MnBP -35.8%、ΣDEHP -46.2%。ただし査読前・企業関与・便中マイクロプラスチック本体は未報告という限界を明示。これに暑熱×運動のマウス実験（華東理工大＋清華大、Front Microbiol、血中の腸由来細菌が安静7.12-17.33%→運動32.16-37.73%、腸障害と相関R=0.45）、熱中症の腸-多臓器レビュー（長沙市中医医院、Front Immunol 6/2）、8月11日J Physiol（米陸軍環境医学研究所USARIEM、活動的男性12人の二重盲検クロスオーバー、短鎖脂肪酸はバリアを守るが5kmTT成績と筋グリコーゲンは不変）、PM2.5悪化喘息と腸内細菌（台湾大学＋中央研究院、Allergy 8/15）を重ねた。市場はキリンによるジェイミソン・ウェルネス買収（8/6、企業価値C$25億＝約2800億円、ブラックモアズ2023・ファンケル2024に続く3件目）、米Throne Scienceの$10M調達（AIトイレカメラ、「消化管の縦断データが存在しない」問題意識）、オタフクソースの腸活酢の機能性表示届出（8/6、グルコン酸）。テックはCerebras×OpenAIのUltrafastモード（8/13、750トークン/秒、最大14倍、ウェハースケール上に44GB SRAM）とビッグテック6社の購入契約1.5兆ドル＝約240兆円（注記のみに計上）。お茶は12年3,408人のコホートでお茶頻度と骨格筋量・握力の関連、腸内細菌等による媒介割合4.5-19%（Pharmacol Res 8/14）。
+
+Sources:
+- medRxiv (2026-08-13, DOI 10.64898/2026.08.12.26360001, NCT07416214) — Lu R, Zhao L, Huang X, Feng Y, Huang S, Dong R（復旦大学公衆衛生大学院／上海・華東病院 上海市老年医学重点実験室／蘭州大学公衆衛生学院／Fabiotics Co. Ltd. 厦門／NHC食品安全リスク評価・標準策定特定実験室）, &quot;Lactiplantibacillus plantarum PD01 supplementation reduces microplastics and microplastic-associated chemicals in humans: A randomized, double-blind, placebo-controlled trial&quot;: https://www.medrxiv.org/content/10.64898/2026.08.12.26360001v1
+- Frontiers in Microbiology (2026-05-25, DOI 10.3389/fmicb.2026.1779295) — Min L, Ablitip A, Wang Q, Li T, Di Q, Ma X, Fang W（華東理工大学／清華大学、中国）, &quot;Combined heat and exercise stress disrupt gut microbiota and promote microbial translocation&quot;: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1779295/full
+- Frontiers in Immunology (2026-06-02, DOI 10.3389/fimmu.2026.1837970) — Wang Z, Deng M（長沙市中医医院 救急科、中国）, &quot;Gut microbiota modulation in the prevention and treatment of heat stroke&quot;（腸-多臓器軸レビュー、げっ歯類中心という限界も明記）: https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2026.1837970/full
+- J Physiol (2026-08-11, PMID 42581384, DOI 10.1113/JP291470) — Karl JP, Fagnant HS, Carrigan CT, Margolis LM（米陸軍環境医学研究所 Military Nutrition Division, Natick, MA, USA）, &quot;Increasing gut short-chain fatty acids protects intestinal barrier function but does not spare muscle glycogen or impact aerobic performance&quot;: https://pubmed.ncbi.nlm.nih.gov/42581384/
+- Allergy (2026-08-15, PMID 42603087, DOI 10.1111/all.70485) — Chen TH, Chou CCK, Chiang BL（国立台湾大学 臨床医学研究所・小児科／中央研究院 環境変遷研究センター、台湾）, &quot;Gut Microbiota Signatures Reflect Particulate Matter 2.5-Exacerbated Asthma in a Murine Model&quot;: https://pubmed.ncbi.nlm.nih.gov/42603087/
+- Europe PMC — gut microbiota × randomized 新着一覧（2026-08-08〜2026-08-16、スクリーニング用）: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%22gut%20microbiota%22%20OR%20%22gut%20microbiome%22%29%20AND%20%28randomized%20OR%20randomised%29%20AND%20FIRST_PDATE%3A%5B2026-08-08%20TO%202026-08-16%5D&amp;format=json
+- PubMed — gut microbiota 直近新着一覧（〜2026-08-15、スクリーニング用）: https://pubmed.ncbi.nlm.nih.gov/?term=gut+microbiota&amp;sort=date
+- Jamieson Wellness / Newswire (2026-08-06) — &quot;Jamieson Wellness Enters into Definitive Agreement to be Acquired by Kirin in C$2.5 Billion Transaction&quot;（1株C$45.75現金、企業価値C$25億＝米$17.8億＝約2800億円、株主総会9月・2026年Q4完了見込み）: https://www.newswire.ca/news-releases/jamieson-wellness-enters-into-definitive-agreement-to-be-acquired-by-kirin-in-c-2-5-billion-transaction-800706300.html
+- NutraIngredients (2026-08-06) —</description>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://kengowest.github.io/audio-brief-51c973/episodes/2026-08-16-en.mp3" length="5128560" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-08-16-en.mp3</guid>
+      <itunes:duration>00:25:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>デイリーブリーフ 2026-08-15</title>
       <description>主役は番組初の「腸のリンパ管（乳び管）」。直近7日で扱った腸のガス・人ゲノム・体内時計・運動・真菌・ファージ・細菌小胞をすべて離れ、「腸に何を入れるか」から「腸から出る道は二本ある」へ軸を移した。骨格は、水に溶けるものは門脈→肝臓の検問を受けるが、長鎖脂肪酸だけはカイロミクロンに詰められて絨毛の芯の乳び管→腸間膜リンパ→胸管→左鎖骨下静脈と進み、肝臓を素通りしていきなり全身循環に入る、という解剖。中心はJ Clin Invest 3月24日（136(12):e200857、PMID 41874575、米コロラド大学アンシュッツ医学キャンパス外科 Sun Z／Zhu Y、ワシントン大学 Randolph GJ参加）：リンパ管内皮細胞のGPR182が「カイロミクロンがどうやって乳び管に入るか」の長年の未解決問題の答えで、GPR182欠損マウスはHDL選択的上昇・脂質吸収不良・発育遅延・高脂肪食で太らない、電顕でCMが乳び管内腔に到達できず、モノクローナル抗体でのブロックは肥満予防だけでなく既存肥満の治療にも成功。これが約50年続いた「傍細胞（すきま）説 vs 経細胞（通り抜け）説」の論争を書き換える点を、同誌6月15日号の解説（PMID 42294894、Yu L）が整理し、生体内では両者の統合を見るべきと釘刺し。限界はマウスのみ＋著者らが特許出願中（US 63/753267、PCT/US26/13504）。二本目は「乳び管はポンプ」でMicrocirculation 8月号（33(6):e70080、PMID 42522791、加トロント総合病院研究所 Syed-Abdul MM）：Prox1-EGFPラットの生体内イメージングで乳び管収縮を定量する手順を確立、平均正規化でクリップ間比較可能に、アセチルコリンで収縮増（陽性対照）、30秒記録が10秒より安定。＝脂質吸収速度が自律神経支配下にあることを測る物差しができた。三本目はそのポンプ筋の起源でJ Cell Biol 7月6日（225(7):e202505012、PMID 42118023、スイス・ローザンヌ大学ルートヴィヒがん研究所 Petrova TV／Bernier-Latmani J）：絨毛平滑筋には生後二波あり、二波目は絨毛先端のPDGFRβ+血管周囲細胞が前駆体、常在好酸球がTGFβ依存的に平滑筋の拡大と成熟を指揮する（好酸球欠損モデルで不全）＝アレルギー細胞と思われていた好酸球に腸の配管工事という別の本業。四本目は免疫でFrontiers in Immunology 2月23日（10.3389/fimmu.2026.1710639、英ケンブリッジ大学クレア・カレッジ Mark W. Bodmer 単著総説）：近位小腸は機能的にほぼ無菌で、空腸・近位回腸のリンパは腸の他部位と解剖学的に独立、そのリンパ節は攻撃でなく抑制（regulatory）に特化＝食物に炎症を起こさないための設計。乳び管は高分子をそのままリンパ節へ運ぶ吸収路でもあり、肝の初回通過代謝に対応する「免疫の初回通過検問（first-pass immunological screening）」と命名。経口投与で炎症性疾患を狙う設計余地を提案。五本目はJ Extracell Biol 7月23日（5(7):e70170、加サスカチュワン大学 Xiao C ら＋オタワ）：ラット腸間膜リンパ管＋十二指腸カニュレーション、脂質注入でリンパ中性脂肪が2時間でピーク、同時に直径20〜300nmのEVが増えCD63/CD81/CD9が有意上昇、カイロミクロン除去でマーカーの出方が変化＝EVはCMに結合して共分泌される可能性、ApoB+集団で分布が異なり複数サブタイプ。8月7日回の細菌由来小胞（BEV）と違い、こちらは宿主腸細胞由来という対比を番組内で明示。六本目・七本目は実用（リンパ標的ドラッグデリバリー）：Animals 7月31日（16(15):2337、PMID 42588975、中国・福建農林大学＋中国科学院、レスベラトロールNLC）はCmax約2.3倍・相対BA 7倍・絶対BA 176%、腸間膜リンパ管-頸静脈還流モデルでリンパ経路を直接確認、ただし28日反復投与でAST/ALTが有意上昇（p=9e-5、p=4.02e-7）＝安全性は無条件でない。Int J Biol Macromol 7月9日（375:153477、PMID 42425356、香港浸会大学中医薬学院 Han Q ら）は黄耆多糖RAPを標識なしで追う オリゴ糖マーカーLC-MS（LOD 10ng/mL）を構築し、経口後2hでパイエル板、4hで腸間膜・鼠径リンパ節、6hで頸部・腋窩リンパ節に到達＝多糖は「腸で発酵されて終わり」ではない可能性。番組の結論は「腸活の議論は入れる側に偏るが、出口は二本ある」で、示唆は(1)脂溶性成分は同時摂取の脂で行き先と到達量が変わり、空腹時か食後かは成分ごとの別問題(2)乳び管ポンプは自律神経駆動なので「何を食べるか」だけでなく「どう食べるか」が吸収に効く余地(3)入口分子が同定された以上、脂質吸収は「量を減らす」でなく「入口を絞る」で操作されうる、の三点。ただし全てマウス・ラットでヒトデータ皆無と明示。市場は今日のリンパ＝経口吸収の話と地続きに「肥満治療が注射から飲み薬へ」で構成：1月にFDAが経口セマグルチド（飲むウゴービ、デンマークのノボ・ノルディスク）を承認＝世界初の経口GLP-1、4月1日にイーライリリー（米）のオルフォルグリプロンが二番目。両者の差はペプチド型＝吸収促進剤必須・空腹時服用 vs 小分子型＝いつでも可・食事制約なしで、競争軸が効き目でなく「どう腸から入れるか」に移った点を今日の特集と接続。GLP-1世界市場は2025年528億ドル（約8.4兆円）→2034年1,339億ドル（約21兆円）、年10.9%。併用ではOrsoBio（米）の肝標的ミトコンドリア脱共役型経口薬TLC-6740をチルゼパチドに追加で平均減量13.3% vs 単独8.8%。消費者側は Good Bacteria が320万ドル（約5億円）シード（1月、BrandProject 110万＋RiverPark Ventures主導175万＋エンジェル36.5万、本社記載なしのため拠点は断り、販売は米中心）、64ドル（約1万円）のRotating Synbioticで月の週ごとに菌株構成を入れ替え＋3種プレバイオティクス＋ポストバイオティクス、ARR 200万ドル（約3.2億円）到達見込み、定期購入8割・3〜6か月まとめ買い35%＝「毎日同じ」でなく「意図的な変化」という設計思想。日本側は8月13日発表のジェトロ×米メイヨー・クリニック・プラットフォーム J-StarX US Healthcare Breakthrough 採択15社（医療AI＝心電図解析/画像診断/手術動画解析/治験管理、医療機器＝心臓リハビリ/透析/脳神経刺激/ウェアラブル、デジタルヘルス＝遠隔読影/小児診断支援。Foundational 10社＋新設Business Development 5社でFDA承認・保険償還・顧客獲得を個別伴走）。番組では「選ばれた15社がほぼ全て医療機関向け＝消費者向け予防が厚い米国と重心が違う」と指摘しつつ、強みの反映か構造制約かは判断材料不足として仮説どまりにした（日米の優劣は断定せず）。テックは(1)8月13日 Google のGemini 3.7 Flash公開（3.6 Flashからわずか3週間、入力$0.75/出力$3.75 per Mトークン＝導入価格で2027年1月1日に倍額$1.50/$7.50へ、DeepSWE v1.1が49.0%→65.3%、AutomationBench 17.0%→30.4%、出力速度は186モデル中1位の340.1トークン/秒。旗艦の3.5 Proが未着なのに軽量Flashだけ先行＝競争軸が賢さの上限から単位コストあたり実行速度へ）(2)同日、Anthropic（米）がDecart（イスラエル、動画生成・世界モデル・GPU最適化、既往調達3億ドル・Nvidia出資）を約60億ドル（約9,500億円）で買収する初期協議＝文章のモデル会社が動画と世界モデルを買いに行く(3)Lenovo（中国）四半期売上269億ドル（約4.3</description>
       <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
@@ -776,54 +816,6 @@ Sources:
       <enclosure url="https://kengowest.github.io/audio-brief-51c973/episodes/2026-07-17-en.mp3" length="6671232" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-07-17-en.mp3</guid>
       <itunes:duration>00:31:55</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>デイリーブリーフ 2026-07-16</title>
-      <description>今日の主役は「腸と女性ホルモン」という新しい切り口(エストロボローム)。エストロゲンは肝臓でグルクロン酸の「荷札」をつけて胆汁から腸へ捨てられるが、腸内細菌の酵素ベータ・グルクロニダーゼがその荷札を切ると再び血中に吸い戻される=腸はホルモンの再利用工場、という仕組みを紹介。今年4月のPNAS(4大陸24集団のメタゲノム比較)で、工業化社会の腸はエストロゲン再利用能力が最大約7倍・関与菌の多様性が2倍以上高く、粉ミルク児は母乳児より高い、仮説は低繊維食、と報告。ただし測っているのは遺伝子の潜在能力で血中エストロゲンや疾患は未測定・因果未検証と線引き。乳がん関連の総説(2025)も動物/試験管は堅いが人の因果は未確立、今年4月のメタ解析(7研究・約1730人)は低エストロゲン女性と正常女性で菌の全体組成に有意差なし=組成より酵素のはたらきが鍵かもと補足。メトホルミン/スタチン/抗うつ薬が酵素活性を動かしうる(Maturitas 2026、ただし閉経後女性で直接測定した研究はまだない)。後悔の少ない打ち手は食物繊維。市場は「腸×やせ薬/代謝」が日米で表面化:日本はフランス系食品大手の日本法人がヨーグルトブランドから7年ぶりの飲用新商品(希少糖アルロース+生きて届く菌の脂肪燃焼ドリンク)、米はGLP-1相棒サプリ続々(アッカーマンシア系、繊維+消化酵素+緑茶カフェイン、6月)、米サンフランシスコのアント・バイオサイエンシズ(YC直近バッチ・2025年設立)が腸内細菌の基盤モデルでシード調達(額非公開)、参考にデンマークのバクトライフが結合タンパク質でシリーズB約3500万ドル/約57億円。テックは実験の前にAIが当てる話2つ:フィンランドのアールト大等がML funnelで未知の超伝導体2種を予言し合成確認(Tc約0.8〜0.95K=実用でなく探索法が主眼、6月末)、NY大等が計画アルゴリズムを先生役に「多様さより一貫性」でロボットが器用さを高効率学習(両腕100デモで実世界9割、追加訓練なしでsim→実機)。お茶は米大手コーヒーチェーンが抹茶を夏に拡充(7/14ブレンド抹茶レモネード、7/28オレンジクリーム抹茶)、需要増がてん茶品薄(約1万800円/kg・前年ほぼ倍、8月まで悪化)に拍車、宮崎が供給地化へ投資。アマゾンは買い物AI「ルーファス」を5月に「アレクサ・フォー・ショッピング」へ改称、検索がキーワードから会話の意図へ、Q&amp;Aが主要データ源、キーワード詰め込みは埋没、広告データの外部AI学習禁止+成績閲覧期間短縮。USD/JPYは約162円で換算。冒頭ヘッドラインは中東(米軍イラン4夜連続空爆・インフラ攻撃警告・市民30人超死亡)、原油急騰(ホルムズ封鎖でブレント+11%・株安)、AI安全基準の米政府協議、W杯アルゼンチン2-1イングランドで準決勝、米熱波(モンタナ44度・山火事)。
-
-Sources:
-- Industrialization increases the estrogen-recycling capacity of the gut microbiome (PNAS, Apr 2026): https://www.pnas.org/doi/10.1073/pnas.2523589123
-- Industrialization increases the estrogen-recycling capacity of the gut microbiome (PubMed): https://pubmed.ncbi.nlm.nih.gov/41973926/
-- Modern lifestyles may be affecting how our bodies recycle estrogen (MedicalXpress summary of PNAS study): https://medicalxpress.com/news/2026-04-modern-lifestyles-affecting-bodies-recycle.html
-- The estrobolome: Estrogen-metabolizing pathways of the gut microbiome and their relation to breast cancer (Larnder et al., Int J Cancer, 2025): https://onlinelibrary.wiley.com/doi/10.1002/ijc.35427
-- The impact of estrogen status on the gut microbiome: a systematic review and meta-analysis (Front Endocrinol, Apr 2 2026): https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2026.1780806/full
-- Impact of long-term medication on estrobolome-associated β-glucuronidase and sulfatase activities (Maturitas, 2026): https://pubmed.ncbi.nlm.nih.gov/41534157/
-- Supplementation with a Probiotic Formula Having β-Glucuronidase Activity Modulates Serum Estrogen Levels in Peri- and Postmenopausal Women (J Med Food, 2024): https://journals.sagepub.com/doi/10.1089/jmf.2023.k.0320
-- ダノンジャパン 高たんぱくと腸活を軸に成長 「オイコス」「ビオ」が牽引 (食品新聞, Jul 15 2026): https://shokuhin.net/153511/2026/07/15/kakou/kenshoku/
-- Designs for Health launches Akkermansia Pro GLP-1 Probiotic for metabolic health: https://www.nutritioninsight.com/news/designs-for-health-akkermansia-pro-glp1-probiotic.html
-- June Launch Pad: gut health and multi-benefit formulations dominate (HUM Flatter Me Fiber GLP-1 Booster): https://www.nutraingredients.com/Article/2026/06/23/june-launch-pad-targeted-life-stage-support-gut-health-and-multi-benefit-formulations-dominate/
-- Anto Biosciences: A Foundation Model for Microbial Communities (Y Combinator): https://www.ycombinator.com/companies/anto-biosciences
-- Tekedia Capital invests in Anto Biosciences to make the gut microbiome computable: https://app.dealroom.co/news/note/tekedia-capital-invests-in-anto-biosciences-to-make-the-gut-microbiome-computable
-- Bactolife raises $35m Series B to commercialize gut health binding proteins (AgFunderNews): https://agfundernew</description>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://kengowest.github.io/audio-brief-51c973/episodes/2026-07-16.mp3" length="6510960" type="audio/mpeg"/>
-      <guid isPermaLink="false">2026-07-16.mp3</guid>
-      <itunes:duration>00:10:43</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Daily Brief 2026-07-16 (English)</title>
-      <description>今日の主役は「腸と女性ホルモン」という新しい切り口(エストロボローム)。エストロゲンは肝臓でグルクロン酸の「荷札」をつけて胆汁から腸へ捨てられるが、腸内細菌の酵素ベータ・グルクロニダーゼがその荷札を切ると再び血中に吸い戻される=腸はホルモンの再利用工場、という仕組みを紹介。今年4月のPNAS(4大陸24集団のメタゲノム比較)で、工業化社会の腸はエストロゲン再利用能力が最大約7倍・関与菌の多様性が2倍以上高く、粉ミルク児は母乳児より高い、仮説は低繊維食、と報告。ただし測っているのは遺伝子の潜在能力で血中エストロゲンや疾患は未測定・因果未検証と線引き。乳がん関連の総説(2025)も動物/試験管は堅いが人の因果は未確立、今年4月のメタ解析(7研究・約1730人)は低エストロゲン女性と正常女性で菌の全体組成に有意差なし=組成より酵素のはたらきが鍵かもと補足。メトホルミン/スタチン/抗うつ薬が酵素活性を動かしうる(Maturitas 2026、ただし閉経後女性で直接測定した研究はまだない)。後悔の少ない打ち手は食物繊維。市場は「腸×やせ薬/代謝」が日米で表面化:日本はフランス系食品大手の日本法人がヨーグルトブランドから7年ぶりの飲用新商品(希少糖アルロース+生きて届く菌の脂肪燃焼ドリンク)、米はGLP-1相棒サプリ続々(アッカーマンシア系、繊維+消化酵素+緑茶カフェイン、6月)、米サンフランシスコのアント・バイオサイエンシズ(YC直近バッチ・2025年設立)が腸内細菌の基盤モデルでシード調達(額非公開)、参考にデンマークのバクトライフが結合タンパク質でシリーズB約3500万ドル/約57億円。テックは実験の前にAIが当てる話2つ:フィンランドのアールト大等がML funnelで未知の超伝導体2種を予言し合成確認(Tc約0.8〜0.95K=実用でなく探索法が主眼、6月末)、NY大等が計画アルゴリズムを先生役に「多様さより一貫性」でロボットが器用さを高効率学習(両腕100デモで実世界9割、追加訓練なしでsim→実機)。お茶は米大手コーヒーチェーンが抹茶を夏に拡充(7/14ブレンド抹茶レモネード、7/28オレンジクリーム抹茶)、需要増がてん茶品薄(約1万800円/kg・前年ほぼ倍、8月まで悪化)に拍車、宮崎が供給地化へ投資。アマゾンは買い物AI「ルーファス」を5月に「アレクサ・フォー・ショッピング」へ改称、検索がキーワードから会話の意図へ、Q&amp;Aが主要データ源、キーワード詰め込みは埋没、広告データの外部AI学習禁止+成績閲覧期間短縮。USD/JPYは約162円で換算。冒頭ヘッドラインは中東(米軍イラン4夜連続空爆・インフラ攻撃警告・市民30人超死亡)、原油急騰(ホルムズ封鎖でブレント+11%・株安)、AI安全基準の米政府協議、W杯アルゼンチン2-1イングランドで準決勝、米熱波(モンタナ44度・山火事)。
-
-Sources:
-- Industrialization increases the estrogen-recycling capacity of the gut microbiome (PNAS, Apr 2026): https://www.pnas.org/doi/10.1073/pnas.2523589123
-- Industrialization increases the estrogen-recycling capacity of the gut microbiome (PubMed): https://pubmed.ncbi.nlm.nih.gov/41973926/
-- Modern lifestyles may be affecting how our bodies recycle estrogen (MedicalXpress summary of PNAS study): https://medicalxpress.com/news/2026-04-modern-lifestyles-affecting-bodies-recycle.html
-- The estrobolome: Estrogen-metabolizing pathways of the gut microbiome and their relation to breast cancer (Larnder et al., Int J Cancer, 2025): https://onlinelibrary.wiley.com/doi/10.1002/ijc.35427
-- The impact of estrogen status on the gut microbiome: a systematic review and meta-analysis (Front Endocrinol, Apr 2 2026): https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2026.1780806/full
-- Impact of long-term medication on estrobolome-associated β-glucuronidase and sulfatase activities (Maturitas, 2026): https://pubmed.ncbi.nlm.nih.gov/41534157/
-- Supplementation with a Probiotic Formula Having β-Glucuronidase Activity Modulates Serum Estrogen Levels in Peri- and Postmenopausal Women (J Med Food, 2024): https://journals.sagepub.com/doi/10.1089/jmf.2023.k.0320
-- ダノンジャパン 高たんぱくと腸活を軸に成長 「オイコス」「ビオ」が牽引 (食品新聞, Jul 15 2026): https://shokuhin.net/153511/2026/07/15/kakou/kenshoku/
-- Designs for Health launches Akkermansia Pro GLP-1 Probiotic for metabolic health: https://www.nutritioninsight.com/news/designs-for-health-akkermansia-pro-glp1-probiotic.html
-- June Launch Pad: gut health and multi-benefit formulations dominate (HUM Flatter Me Fiber GLP-1 Booster): https://www.nutraingredients.com/Article/2026/06/23/june-launch-pad-targeted-life-stage-support-gut-health-and-multi-benefit-formulations-dominate/
-- Anto Biosciences: A Foundation Model for Microbial Communities (Y Combinator): https://www.ycombinator.com/companies/anto-biosciences
-- Tekedia Capital invests in Anto Biosciences to make the gut microbiome computable: https://app.dealroom.co/news/note/tekedia-capital-invests-in-anto-biosciences-to-make-the-gut-microbiome-computable
-- Bactolife raises $35m Series B to commercialize gut health binding proteins (AgFunderNews): https://agfundernew</description>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://kengowest.github.io/audio-brief-51c973/episodes/2026-07-16-en.mp3" length="5024016" type="audio/mpeg"/>
-      <guid isPermaLink="false">2026-07-16-en.mp3</guid>
-      <itunes:duration>00:25:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
