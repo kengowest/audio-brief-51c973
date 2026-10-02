@@ -10,6 +10,64 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
     <item>
+      <title>デイリーブリーフ 2026-10-03</title>
+      <description>裏テーマは「何が、どこに届くか」。毒素産生バクテロイデス・フラジリスとフソバクテリウムの連携が腸の筋層間神経を細胞死させ、菌が消えても腸の動きの不調が残る研究（Nat Microbiol 10/1、中国 上海交通大学 仁済医院）、菌が腸上皮細胞の中に打ちこんだ抗原を上皮細胞自身が提示することで組織に住みつく記憶T細胞が育つ研究（Nat Immunol 9/30、米 アラバマ大学バーミングハム校）、体内時計・脂肪食・寒冷がミトコンドリア輸送体SLC25A34に集約され脂肪細胞の脂質サイクリングを制御する研究（Science 10/1、デンマーク コペンハーゲン大学ほか）、高齢者の3か月有酸素運動で細胞外小胞のmiR-29が増えα-Klotho遺伝子の抑制を解除し軟骨細胞を若返らせる研究（Nat Aging 9/29、米 ハーバード大学／スポルディング）を紹介。市場では小林製薬のIBS再発向け初のスイッチOTC「ギュラック」（9/30発売）と、P&amp;GのThorne買収（38億ドル）やネスレの大衆向けサプリ売却などQ3のサプリ業界取引まとめ。AIはarXivの月2本投稿上限とウェブ文章のAI生成比率、お茶はオーストラリアの抹茶記録の伸び、Amazonはセラーセントラルのマルチチャネル管理機能。
+
+Sources:
+- Fusobacterium nucleatum enhances enterotoxigenic Bacteroides fragilis-mediated neuron loss and intestinal motility dysfunction (Nature Microbiology, 2026-10-01, PMID 42823533, DOI 10.1038/s41564-026-02497-y): https://pubmed.ncbi.nlm.nih.gov/42823533/
+- Barrier immune memory is programmed by intestinal epithelial cell presentation of cytosol-delivered bacterial antigens (Nature Immunology, 2026-09-30, PMID 42816586, DOI 10.1038/s41590-026-02656-7): https://pubmed.ncbi.nlm.nih.gov/42816586/
+- Mitochondrial carrier SLC25A34 links clock, diet, and temperature control of adipocyte lipid cycling (Science, 2026-10-01, PMID 42821689, DOI 10.1126/science.adz4797): https://pubmed.ncbi.nlm.nih.gov/42821689/
+- Exercise enhances aged chondrocyte health through microRNA-29-enriched extracellular vesicles (Nature Aging, 2026-09-29, PMID 42811122, DOI 10.1038/s43587-026-01225-9): https://pubmed.ncbi.nlm.nih.gov/42811122/
+- PubMed 高インパクト誌の新着スクリーニング（2026-09-29〜10-03、NCBI E-utilities）: https://pubmed.ncbi.nlm.nih.gov/
+- 小林製薬 ニュースリリース「過敏性腸症候群（IBS）の再発症状を改善するスイッチOTC医薬品 ギュラック」(2026-09-16): https://www.kobayashi.co.jp/newsrelease/2026/20260916_01/
+- PR TIMES「ギュラック（要指導医薬品）2026年9月30日（水）新発売」: https://prtimes.jp/main/html/rd/p/000000396.000086052.html
+- 日刊薬業「IBSの再発改善で初の要指導薬 小林製薬、30日から発売」: https://nk.jiho.jp/article/305268
+- NutraIngredients「Market Moves: Supplement industry deals of Q3 2026」(2026-10-02): https://www.nutraingredients.com/Article/2026/10/02/market-moves-supplement-industry-deals-of-q3-2026/
+- arXiv blog「Fair Moderation, Equitable Access, and AI: arXiv&#x27;s Updated Rate Limit Policy」(2026-10-01): https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/
+- Techmeme「ArXiv limits preprint submissions to two per month per submitter」(2026-10-02): https://www.techmeme.com/261002/p1
+- Times Higher Education「arXiv&#x27;s new preprint submission cap divides opinion」: https://www.timeshighereducation.com/news/arxivs-new-preprint-submission-cap-divides-opinion
+- The Neuron「Everything That Happened in AI Today (Thurs, October 1 2026)」（ウェブ文章のAI生成比率31.1%の出典、二次情報）: https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-october-1-2026/
+- Medianet「Matcha makes its move: Australians&#x27; growing appetite for coffee&#x27;s green rival」(MyFitnessPal, 2026-10): https://newshub.medianet.com.au/2026/10/matcha-makes-its-move-australians-growing-appetite-for-coffees-green-rival/174632
+- About Amazon「Sellers can now manage sales across Amazon, eBay, Shopify, TikTok, and Walmart from Seller Central」: https://www.aboutamazon.com/news/small-business/amazon-seller-central-multichannel-selling-tools
+- Marketplace Pulse「Amazon Opens Seller Central to Rival Marketplaces」(2026-09-24): https://www.marketplacepulse.com/articles/amazon-opens-seller-central-to-rival-marketplaces
+- Democracy Now!「Headlines for October 02, 2026」（第3空母打撃群の中東派遣、エチオピア・エリトリア断交、ブラジル大統領選）: https://www.democracynow.org/2026/10/2/headlines
+- NPR「The Ne</description>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://kengowest.github.io/audio-brief-51c973/episodes/2026-10-03.mp3" length="7363728" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-03.mp3</guid>
+      <itunes:duration>00:11:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Daily Brief 2026-10-03 (English)</title>
+      <description>裏テーマは「何が、どこに届くか」。毒素産生バクテロイデス・フラジリスとフソバクテリウムの連携が腸の筋層間神経を細胞死させ、菌が消えても腸の動きの不調が残る研究（Nat Microbiol 10/1、中国 上海交通大学 仁済医院）、菌が腸上皮細胞の中に打ちこんだ抗原を上皮細胞自身が提示することで組織に住みつく記憶T細胞が育つ研究（Nat Immunol 9/30、米 アラバマ大学バーミングハム校）、体内時計・脂肪食・寒冷がミトコンドリア輸送体SLC25A34に集約され脂肪細胞の脂質サイクリングを制御する研究（Science 10/1、デンマーク コペンハーゲン大学ほか）、高齢者の3か月有酸素運動で細胞外小胞のmiR-29が増えα-Klotho遺伝子の抑制を解除し軟骨細胞を若返らせる研究（Nat Aging 9/29、米 ハーバード大学／スポルディング）を紹介。市場では小林製薬のIBS再発向け初のスイッチOTC「ギュラック」（9/30発売）と、P&amp;GのThorne買収（38億ドル）やネスレの大衆向けサプリ売却などQ3のサプリ業界取引まとめ。AIはarXivの月2本投稿上限とウェブ文章のAI生成比率、お茶はオーストラリアの抹茶記録の伸び、Amazonはセラーセントラルのマルチチャネル管理機能。
+
+Sources:
+- Fusobacterium nucleatum enhances enterotoxigenic Bacteroides fragilis-mediated neuron loss and intestinal motility dysfunction (Nature Microbiology, 2026-10-01, PMID 42823533, DOI 10.1038/s41564-026-02497-y): https://pubmed.ncbi.nlm.nih.gov/42823533/
+- Barrier immune memory is programmed by intestinal epithelial cell presentation of cytosol-delivered bacterial antigens (Nature Immunology, 2026-09-30, PMID 42816586, DOI 10.1038/s41590-026-02656-7): https://pubmed.ncbi.nlm.nih.gov/42816586/
+- Mitochondrial carrier SLC25A34 links clock, diet, and temperature control of adipocyte lipid cycling (Science, 2026-10-01, PMID 42821689, DOI 10.1126/science.adz4797): https://pubmed.ncbi.nlm.nih.gov/42821689/
+- Exercise enhances aged chondrocyte health through microRNA-29-enriched extracellular vesicles (Nature Aging, 2026-09-29, PMID 42811122, DOI 10.1038/s43587-026-01225-9): https://pubmed.ncbi.nlm.nih.gov/42811122/
+- PubMed 高インパクト誌の新着スクリーニング（2026-09-29〜10-03、NCBI E-utilities）: https://pubmed.ncbi.nlm.nih.gov/
+- 小林製薬 ニュースリリース「過敏性腸症候群（IBS）の再発症状を改善するスイッチOTC医薬品 ギュラック」(2026-09-16): https://www.kobayashi.co.jp/newsrelease/2026/20260916_01/
+- PR TIMES「ギュラック（要指導医薬品）2026年9月30日（水）新発売」: https://prtimes.jp/main/html/rd/p/000000396.000086052.html
+- 日刊薬業「IBSの再発改善で初の要指導薬 小林製薬、30日から発売」: https://nk.jiho.jp/article/305268
+- NutraIngredients「Market Moves: Supplement industry deals of Q3 2026」(2026-10-02): https://www.nutraingredients.com/Article/2026/10/02/market-moves-supplement-industry-deals-of-q3-2026/
+- arXiv blog「Fair Moderation, Equitable Access, and AI: arXiv&#x27;s Updated Rate Limit Policy」(2026-10-01): https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/
+- Techmeme「ArXiv limits preprint submissions to two per month per submitter」(2026-10-02): https://www.techmeme.com/261002/p1
+- Times Higher Education「arXiv&#x27;s new preprint submission cap divides opinion」: https://www.timeshighereducation.com/news/arxivs-new-preprint-submission-cap-divides-opinion
+- The Neuron「Everything That Happened in AI Today (Thurs, October 1 2026)」（ウェブ文章のAI生成比率31.1%の出典、二次情報）: https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-october-1-2026/
+- Medianet「Matcha makes its move: Australians&#x27; growing appetite for coffee&#x27;s green rival」(MyFitnessPal, 2026-10): https://newshub.medianet.com.au/2026/10/matcha-makes-its-move-australians-growing-appetite-for-coffees-green-rival/174632
+- About Amazon「Sellers can now manage sales across Amazon, eBay, Shopify, TikTok, and Walmart from Seller Central」: https://www.aboutamazon.com/news/small-business/amazon-seller-central-multichannel-selling-tools
+- Marketplace Pulse「Amazon Opens Seller Central to Rival Marketplaces」(2026-09-24): https://www.marketplacepulse.com/articles/amazon-opens-seller-central-to-rival-marketplaces
+- Democracy Now!「Headlines for October 02, 2026」（第3空母打撃群の中東派遣、エチオピア・エリトリア断交、ブラジル大統領選）: https://www.democracynow.org/2026/10/2/headlines
+- NPR「The Ne</description>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://kengowest.github.io/audio-brief-51c973/episodes/2026-10-03-en.mp3" length="5109120" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-03-en.mp3</guid>
+      <itunes:duration>00:24:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>デイリーブリーフ 2026-10-02</title>
       <description>裏テーマは「何を入れるかだけでなく、いつ、どんな状況で入れるか」。抗生物質治療中の甘いものが腸内細菌の多様性低下と腸球菌の増殖を深める研究（Nature 9/30、米 MSK・NYU）、マイクロプラスチックが粒径で肝臓のクッパー細胞と代謝に異なる影響を与える研究（Nat Metab 9/29、独 ボン大学）、腸内細菌の膜小胞がPLCγ2陽性単球を介して心房細動を起こす研究（Nat Commun、中国 蚌埠医科大学・浙江大学）、腸の体内時計の総説（Gut 9/30、ベルギー ルーヴェン大学）を紹介。市場ではファイバーマキシング流行への専門家の注意と日本の食物せんいの日の企画、米ムーンウォーク・バイオサイエンシズの7,000万ドル（約110億円）調達、ほかにGoogleのGemini 4 Argon、Anthropicのロボット露出指標、抹茶原料高騰の1杯あたり換算、日米のプライムセール日程を扱った。
 
