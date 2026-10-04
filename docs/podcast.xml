@@ -10,6 +10,56 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
     <item>
+      <title>デイリーブリーフ 2026-10-05</title>
+      <description>裏テーマは「平均の下に隠れた内訳を見る」。腸内の真菌リゾープス・アリズスがキヌレン酸を作り、IQGAP1とMAPK経路を介して脂肪肝由来の肝細胞がんを促進する研究（Cell Metab 10/2、中国 香港中文大学）、交感神経のノルアドレナリンで毛包幹細胞の内在性レトロウイルスが目覚め、制御性T細胞の欠如と重なったときだけ自己免疫の脱毛が起きる「二段構え」の研究（Nature 9/30、中国 北京生命科学研究所）、8週間の筋トレによる筋たんぱく質の変化を男女別・筋繊維タイプ別に分け、2型繊維で増えるCSRP3が筋肥大に関わることを示した研究（Nat Commun、デンマーク コペンハーゲン大学／スウェーデン カロリンスカ研究所）、セマグルチドの腎保護の仕組みを生検の単一核解析で調べた52週・106人の試験（Nat Med 10/1、米 ワシントン大学・ミシガン大学ほか＋デンマーク ノボ・ノルディスク。主要評価項目は有意差なし、副次で血管抵抗低下・線維化抑制・糸球体内皮細胞の変化）を紹介。市場では米国のサプリ原料をめぐる医薬品先取りルールと Dietary Supplement Innovation Act（H.R.10336）、ドイツのアプリ個別化食事指導の16週ランダム化試験、日本のハウスウェルネスフーズによるGABA睡眠サプリ「ネルノダ 粒タイプ」の睡眠＋疲労感リニューアル（10/26発売）。AIはメタのMuse Sparkと数学者の未解決問題6論文、オープンエーアイとシノプシスの半導体設計AI提携。お茶はシンガポールの静岡・川根の茶農家と組んだ抹茶専門店、Amazonは米加の商品名75文字化とアイテム・ハイライト欄、年末セール申込期限。円換算は1ドル=157.67円（10/2基準）。
+
+Sources:
+- Fungus Rhizopus arrhizus promotes MASLD-associated hepatocellular carcinoma through generating kynurenic acid (Cell Metabolism, 2026-10-02, PMID 42826714, DOI 10.1016/j.cmet.2026.09.005): https://doi.org/10.1016/j.cmet.2026.09.005
+- A two-hit mechanism triggers autoimmune hair loss (Nature, 2026-09-30, PMID 42816609, DOI 10.1038/s41586-026-11098-y): https://doi.org/10.1038/s41586-026-11098-y
+- Sex- and fiber type-specific remodeling of the muscle proteome implicates CSRP3 in resistance training-induced hypertrophy (Nature Communications, 2026, PMID 42823422, DOI 10.1038/s41467-026-77275-9): https://doi.org/10.1038/s41467-026-77275-9
+- Effects of semaglutide on kidney disease in type 2 diabetes: a randomized placebo-controlled trial (Nature Medicine, 2026-10-01, PMID 42823485, NCT04865770): https://doi.org/10.1038/s41591-026-04674-2
+- PubMed 高インパクト誌の新着スクリーニング（2026-10-01〜10-05、NCBI E-utilities で抄録・所属・利益相反を確認）: https://pubmed.ncbi.nlm.nih.gov/
+- Drug preclusion: Consider the source（NPA opinion on the Dietary Supplement Innovation Act, NutraIngredients, 2026-10-02）: https://www.nutraingredients.com/Article/2026/10/02/npa-opinion-on-drug-preclusion-and-the-dietary-supplement-innovation-act/
+- Study: App-based personalized dietary coaching effective for weight loss (NutraIngredients, 2026-10-02。原著は Frontiers in Nutrition 2026-09-23): https://www.nutraingredients.com/Article/2026/10/02/study-app-based-personalized-dietary-coaching-effective-for-weight-loss/
+- Tiny Health Raises $33M Series B to advance microbiome intelligence（前回扱った話題の参照, NutraIngredients, 2026-10-01）: https://www.nutraingredients.com/Article/2026/10/01/tiny-health-raises-33m-series-b-to-advance-microbiome-intelligence/
+- 「ネルノダ 粒タイプ」がGABAの&quot;疲労感緩和&quot;の機能性を大きく訴求してリニューアル（ハウスウェルネスフーズ, 健康美容EXPOニュース, 2026-09-30）: https://news.e-expo.net/release/2026/09/260930_r01.html/
+- Solving Open Research Problems Together (Meta AI Research blog, 2026-10-02): https://research.meta.ai/blog/solving-open-research-problems-together
+- Meta&#x27;s Muse Spark Helped Mathematicians Solve Five Open Research Problems (AlphaSignal): https://alphasignal.ai/news/meta-s-muse-spark-helped-mathematicians-solve-five-open-research-problems
+- Synopsys and OpenAI Partner to Develop Specialized AI Model for Chip Design (AIwire/HPCwire, 2026-10-02): https://www.hpcwire.com/aiwire/2026/10/02/synopsys-and-openai-partner-to-develop-specialized-ai-model-for-chip-design/
+- OpenAI and Synopsys team up to build an AI model that designs chips like a seasoned engineer (The Decoder): https://the-decoder.com/openai-and-synopsys-team-up-to-build-an-ai-model-that-designs-chips-like-a-seasoned-engineer/
+- AI News. October 3, 2026 (Crypto Integrated, 二次情報): https://www.cryptointegrat.co</description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://kengowest.github.io/audio-brief-51c973/episodes/2026-10-05.mp3" length="8553168" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-05.mp3</guid>
+      <itunes:duration>00:13:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Daily Brief 2026-10-05 (English)</title>
+      <description>裏テーマは「平均の下に隠れた内訳を見る」。腸内の真菌リゾープス・アリズスがキヌレン酸を作り、IQGAP1とMAPK経路を介して脂肪肝由来の肝細胞がんを促進する研究（Cell Metab 10/2、中国 香港中文大学）、交感神経のノルアドレナリンで毛包幹細胞の内在性レトロウイルスが目覚め、制御性T細胞の欠如と重なったときだけ自己免疫の脱毛が起きる「二段構え」の研究（Nature 9/30、中国 北京生命科学研究所）、8週間の筋トレによる筋たんぱく質の変化を男女別・筋繊維タイプ別に分け、2型繊維で増えるCSRP3が筋肥大に関わることを示した研究（Nat Commun、デンマーク コペンハーゲン大学／スウェーデン カロリンスカ研究所）、セマグルチドの腎保護の仕組みを生検の単一核解析で調べた52週・106人の試験（Nat Med 10/1、米 ワシントン大学・ミシガン大学ほか＋デンマーク ノボ・ノルディスク。主要評価項目は有意差なし、副次で血管抵抗低下・線維化抑制・糸球体内皮細胞の変化）を紹介。市場では米国のサプリ原料をめぐる医薬品先取りルールと Dietary Supplement Innovation Act（H.R.10336）、ドイツのアプリ個別化食事指導の16週ランダム化試験、日本のハウスウェルネスフーズによるGABA睡眠サプリ「ネルノダ 粒タイプ」の睡眠＋疲労感リニューアル（10/26発売）。AIはメタのMuse Sparkと数学者の未解決問題6論文、オープンエーアイとシノプシスの半導体設計AI提携。お茶はシンガポールの静岡・川根の茶農家と組んだ抹茶専門店、Amazonは米加の商品名75文字化とアイテム・ハイライト欄、年末セール申込期限。円換算は1ドル=157.67円（10/2基準）。
+
+Sources:
+- Fungus Rhizopus arrhizus promotes MASLD-associated hepatocellular carcinoma through generating kynurenic acid (Cell Metabolism, 2026-10-02, PMID 42826714, DOI 10.1016/j.cmet.2026.09.005): https://doi.org/10.1016/j.cmet.2026.09.005
+- A two-hit mechanism triggers autoimmune hair loss (Nature, 2026-09-30, PMID 42816609, DOI 10.1038/s41586-026-11098-y): https://doi.org/10.1038/s41586-026-11098-y
+- Sex- and fiber type-specific remodeling of the muscle proteome implicates CSRP3 in resistance training-induced hypertrophy (Nature Communications, 2026, PMID 42823422, DOI 10.1038/s41467-026-77275-9): https://doi.org/10.1038/s41467-026-77275-9
+- Effects of semaglutide on kidney disease in type 2 diabetes: a randomized placebo-controlled trial (Nature Medicine, 2026-10-01, PMID 42823485, NCT04865770): https://doi.org/10.1038/s41591-026-04674-2
+- PubMed 高インパクト誌の新着スクリーニング（2026-10-01〜10-05、NCBI E-utilities で抄録・所属・利益相反を確認）: https://pubmed.ncbi.nlm.nih.gov/
+- Drug preclusion: Consider the source（NPA opinion on the Dietary Supplement Innovation Act, NutraIngredients, 2026-10-02）: https://www.nutraingredients.com/Article/2026/10/02/npa-opinion-on-drug-preclusion-and-the-dietary-supplement-innovation-act/
+- Study: App-based personalized dietary coaching effective for weight loss (NutraIngredients, 2026-10-02。原著は Frontiers in Nutrition 2026-09-23): https://www.nutraingredients.com/Article/2026/10/02/study-app-based-personalized-dietary-coaching-effective-for-weight-loss/
+- Tiny Health Raises $33M Series B to advance microbiome intelligence（前回扱った話題の参照, NutraIngredients, 2026-10-01）: https://www.nutraingredients.com/Article/2026/10/01/tiny-health-raises-33m-series-b-to-advance-microbiome-intelligence/
+- 「ネルノダ 粒タイプ」がGABAの&quot;疲労感緩和&quot;の機能性を大きく訴求してリニューアル（ハウスウェルネスフーズ, 健康美容EXPOニュース, 2026-09-30）: https://news.e-expo.net/release/2026/09/260930_r01.html/
+- Solving Open Research Problems Together (Meta AI Research blog, 2026-10-02): https://research.meta.ai/blog/solving-open-research-problems-together
+- Meta&#x27;s Muse Spark Helped Mathematicians Solve Five Open Research Problems (AlphaSignal): https://alphasignal.ai/news/meta-s-muse-spark-helped-mathematicians-solve-five-open-research-problems
+- Synopsys and OpenAI Partner to Develop Specialized AI Model for Chip Design (AIwire/HPCwire, 2026-10-02): https://www.hpcwire.com/aiwire/2026/10/02/synopsys-and-openai-partner-to-develop-specialized-ai-model-for-chip-design/
+- OpenAI and Synopsys team up to build an AI model that designs chips like a seasoned engineer (The Decoder): https://the-decoder.com/openai-and-synopsys-team-up-to-build-an-ai-model-that-designs-chips-like-a-seasoned-engineer/
+- AI News. October 3, 2026 (Crypto Integrated, 二次情報): https://www.cryptointegrat.co</description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://kengowest.github.io/audio-brief-51c973/episodes/2026-10-05-en.mp3" length="5802768" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-05-en.mp3</guid>
+      <itunes:duration>00:28:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>デイリーブリーフ 2026-10-04</title>
       <description>裏テーマは「主役だけでは決まらない。脇役と条件が結果を決める」。高血圧で増えるバソプレシンが、傷みかけた軟骨だけに現れる受容体AVPR1Aを介して変形性関節症を加速する研究（Science 10/1、韓国 全南大学校）、ダサチニブとケルセチンの間欠投与で線維化を伴う脂肪肝炎の線維化が改善した31人の第2相ランダム化試験（Nat Metab 10/1、オランダ アムステルダム大学医療センター）、セガテラ・コプリがアラビナンでバクテロイデス科に勝つには腸内細菌科（大腸菌の仲間）の存在が必要という研究（Nat Microbiol 10/2、ドイツ ヘルムホルツ感染研究センター）、母体肥満が卵子の特定遺伝子のDNAメチル化を変え子の代謝をメス優位に乱す研究（Nat Metab 10/2、中国 南京医科大学）を紹介。市場では米国のGLP-1併用サプリ（デトロイトのSmidgeのセット発売と、Plug and Playのアナリストによる「天然のGLP-1」表現への警告）、豪イミュロンのIBS向け医療機器PROIBSの米国進出（販売はスウェーデンのカルミノ）、日本のアサヒグループによる加熱殺菌ガセリ菌CP2305の単回摂取試験。AIは米タバスの対面会話AI Griffinと、ニコンの顕微鏡動画コンテストでのAI使用論争。お茶は神谷町オクトーバーフェストの抹茶×ビール、Amazonは出品者アシスタントの記憶機能とQuick・Claude連携。円換算は1ドル=157.67円（10/2基準）。
 
