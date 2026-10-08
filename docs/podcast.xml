@@ -10,6 +10,56 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
     <item>
+      <title>デイリーブリーフ 2026-10-09</title>
+      <description>裏テーマは「最初に手をつけるのは誰か」。腸内細菌バクテロイデス・ユニフォルミスが作る奇数鎖脂肪酸ペンタデカン酸（C15:0）がスタチンと同じHMG-CoA還元酵素を約300分の1の弱さで直接抑えマウスの動脈硬化を減らした研究（Nature 10/7、中国 中山大学 深セン）、腸の炎症で食品成分を分解する菌が減り乳製品・グルテンへの感作と肥満細胞を介した腹痛が起きる研究（Gastroenterology 10/7、加 マクマスター大学）、果糖代謝の最初の酵素ケトヘキソキナーゼを阻害すると体重不変のまま肝臓と肝臓外の代謝が改善した15人のクロスオーバー試験（Nat Metab 10/7、オランダ マーストリヒト大学。薬は米ファイザー開発）、ボリビアのチマネとタンザニアのハッザが1,231種の腸内細菌を共有し人類の移動と同時期に分岐していた研究（Nature 10/7、米 スタンフォード大学）を紹介。市場は日本の雪印メグミルクによるガセリ菌SP株（SBT2055）の企業向け原料チーム新設、米カリフォルニア州の「非超加工食品」認証シール法（AB 2244、店頭は早くて2029年半ば）、南アフリカ創業の医療AIヘルスリープの3,800万ドル（約60億円）調達。AIはバイオハブ・米エネルギー省・NIHの仮想細胞向けデータ構築18億ドル（約2,840億円）と、米アンソロピックのAI主導のクリスパー様酵素発見をめぐる議論（CNN 10/8）。お茶は明治エッセル・スーパーカップ抹茶味の販売終了（理由非公表）、AmazonはブラックフライデーとサイバーマンデーのDeal申込締切10/20（二次情報）とEU域外からの直送品への2ユーロ手数料（11/1から）。ヘッドラインはノーベル文学賞アン・カーソン氏、ハリケーン・イサイアス、クラマトルスク爆撃、ケニア初のエボラ、フーシ派のサウジ空港攻撃と米国防総省のイラン作戦準備報道。円換算は1ドル=157.87円（10/8基準、Trading Economics）、ユーロは1ユーロ=約177円で概算。
+
+Sources:
+- Nature: A gut microbial odd-chain fatty acid alleviates atherosclerosis in mice (2026-10-07, PMID 42844473): https://doi.org/10.1038/s41586-026-11142-x
+- Common Gut Bacterium Found to Reduce Cholesterol and Arterial Plaque in Mice（解説記事）: https://slguardian.org/common-gut-bacterium-found-to-reduce-cholesterol-and-arterial-plaque-in-mice/
+- Gastroenterology: Gut inflammation favors adverse food reactions by disrupting the microbial metabolism of food triggers (2026-10-07, PMID 42843428): https://doi.org/10.1053/j.gastro.2026.07.042
+- Nature Metabolism: Metabolic benefits of ketohexokinase inhibition in individuals with MASLD: a randomized placebo-controlled crossover trial (2026-10-07, PMID 42844400): https://doi.org/10.1038/s42255-026-01626-5
+- Nature: Prehistoric global migration of vanishing gut microbes with humans (2026-10-07, PMID 42844483): https://doi.org/10.1038/s41586-026-11106-1
+- NPR「Gut microbes followed migrating humans across continents, new study suggests」（2026-10-07）: https://www.npr.org/2026/10/07/nx-s1-5987874/ancient-gut-microbiome-migration-evolution-hadza-tsimane
+- NutraIngredients「Megmilk Snow Brand sets up new unit to drive probiotics and ingredient sales」（2026-10-07）: https://www.nutraingredients.com/Article/2026/10/07/japans-megmilk-snow-brand-sets-up-new-unit-to-drive-probiotic-ingredient-sales/
+- Green Queen「Newsom Signs Law to Create First-of-A-Kind Non-UPF Certified Label in California」: https://www.greenqueen.com.hk/california-non-ultra-processed-foods-certified-label-health-bill-gavin-newsom/
+- Food Safety News「New California law creates non-ultra-processed food seal」（2026-09）: https://www.foodsafetynews.com/2026/09/new-california-law-creates-non-ultra-processed-food-seal/
+- 健康産業速報「カリフォルニア州、『非超加工食品』の認証シール導入」（2026-10-05）: https://www.kenko-sokuho.co.jp/breaking-news/9592/
+- TechCrunch「Healthleap raises $38M for its AI that flags hospital patients who may need a closer look」（2026-10-07）: https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/
+- PR Newswire（Biohub）「International, cross-sector collaboration commits nearly $2 billion to build foundational data for AI models」（2026-10-07）: https://prnewswire.com/news-releases/international-cross-sector-collaboration-commits-nearly-2-billion-to-build-foundational-data-for-ai-models-to-predict-and-treat-disease-302901172.html
+- Anthropic「Claude discovers a novel enzyme system」: https://www.anthropic.com/news/claude-discovers-novel-enzyme-system
+- CNN「What to know about Anthropic&#x27;s &#x27;Claude-led&#x27; biological discovery — and why scient</description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://kengowest.github.io/audio-brief-51c973/episodes/2026-10-09.mp3" length="9067392" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-09.mp3</guid>
+      <itunes:duration>00:14:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Daily Brief 2026-10-09 (English)</title>
+      <description>裏テーマは「最初に手をつけるのは誰か」。腸内細菌バクテロイデス・ユニフォルミスが作る奇数鎖脂肪酸ペンタデカン酸（C15:0）がスタチンと同じHMG-CoA還元酵素を約300分の1の弱さで直接抑えマウスの動脈硬化を減らした研究（Nature 10/7、中国 中山大学 深セン）、腸の炎症で食品成分を分解する菌が減り乳製品・グルテンへの感作と肥満細胞を介した腹痛が起きる研究（Gastroenterology 10/7、加 マクマスター大学）、果糖代謝の最初の酵素ケトヘキソキナーゼを阻害すると体重不変のまま肝臓と肝臓外の代謝が改善した15人のクロスオーバー試験（Nat Metab 10/7、オランダ マーストリヒト大学。薬は米ファイザー開発）、ボリビアのチマネとタンザニアのハッザが1,231種の腸内細菌を共有し人類の移動と同時期に分岐していた研究（Nature 10/7、米 スタンフォード大学）を紹介。市場は日本の雪印メグミルクによるガセリ菌SP株（SBT2055）の企業向け原料チーム新設、米カリフォルニア州の「非超加工食品」認証シール法（AB 2244、店頭は早くて2029年半ば）、南アフリカ創業の医療AIヘルスリープの3,800万ドル（約60億円）調達。AIはバイオハブ・米エネルギー省・NIHの仮想細胞向けデータ構築18億ドル（約2,840億円）と、米アンソロピックのAI主導のクリスパー様酵素発見をめぐる議論（CNN 10/8）。お茶は明治エッセル・スーパーカップ抹茶味の販売終了（理由非公表）、AmazonはブラックフライデーとサイバーマンデーのDeal申込締切10/20（二次情報）とEU域外からの直送品への2ユーロ手数料（11/1から）。ヘッドラインはノーベル文学賞アン・カーソン氏、ハリケーン・イサイアス、クラマトルスク爆撃、ケニア初のエボラ、フーシ派のサウジ空港攻撃と米国防総省のイラン作戦準備報道。円換算は1ドル=157.87円（10/8基準、Trading Economics）、ユーロは1ユーロ=約177円で概算。
+
+Sources:
+- Nature: A gut microbial odd-chain fatty acid alleviates atherosclerosis in mice (2026-10-07, PMID 42844473): https://doi.org/10.1038/s41586-026-11142-x
+- Common Gut Bacterium Found to Reduce Cholesterol and Arterial Plaque in Mice（解説記事）: https://slguardian.org/common-gut-bacterium-found-to-reduce-cholesterol-and-arterial-plaque-in-mice/
+- Gastroenterology: Gut inflammation favors adverse food reactions by disrupting the microbial metabolism of food triggers (2026-10-07, PMID 42843428): https://doi.org/10.1053/j.gastro.2026.07.042
+- Nature Metabolism: Metabolic benefits of ketohexokinase inhibition in individuals with MASLD: a randomized placebo-controlled crossover trial (2026-10-07, PMID 42844400): https://doi.org/10.1038/s42255-026-01626-5
+- Nature: Prehistoric global migration of vanishing gut microbes with humans (2026-10-07, PMID 42844483): https://doi.org/10.1038/s41586-026-11106-1
+- NPR「Gut microbes followed migrating humans across continents, new study suggests」（2026-10-07）: https://www.npr.org/2026/10/07/nx-s1-5987874/ancient-gut-microbiome-migration-evolution-hadza-tsimane
+- NutraIngredients「Megmilk Snow Brand sets up new unit to drive probiotics and ingredient sales」（2026-10-07）: https://www.nutraingredients.com/Article/2026/10/07/japans-megmilk-snow-brand-sets-up-new-unit-to-drive-probiotic-ingredient-sales/
+- Green Queen「Newsom Signs Law to Create First-of-A-Kind Non-UPF Certified Label in California」: https://www.greenqueen.com.hk/california-non-ultra-processed-foods-certified-label-health-bill-gavin-newsom/
+- Food Safety News「New California law creates non-ultra-processed food seal」（2026-09）: https://www.foodsafetynews.com/2026/09/new-california-law-creates-non-ultra-processed-food-seal/
+- 健康産業速報「カリフォルニア州、『非超加工食品』の認証シール導入」（2026-10-05）: https://www.kenko-sokuho.co.jp/breaking-news/9592/
+- TechCrunch「Healthleap raises $38M for its AI that flags hospital patients who may need a closer look」（2026-10-07）: https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/
+- PR Newswire（Biohub）「International, cross-sector collaboration commits nearly $2 billion to build foundational data for AI models」（2026-10-07）: https://prnewswire.com/news-releases/international-cross-sector-collaboration-commits-nearly-2-billion-to-build-foundational-data-for-ai-models-to-predict-and-treat-disease-302901172.html
+- Anthropic「Claude discovers a novel enzyme system」: https://www.anthropic.com/news/claude-discovers-novel-enzyme-system
+- CNN「What to know about Anthropic&#x27;s &#x27;Claude-led&#x27; biological discovery — and why scient</description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://kengowest.github.io/audio-brief-51c973/episodes/2026-10-09-en.mp3" length="6233616" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-09-en.mp3</guid>
+      <itunes:duration>00:29:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>デイリーブリーフ 2026-10-08</title>
       <description>裏テーマは「ひとくくりにしない」。同じ飽和脂肪酸でもステアリン酸はパルミチン酸と違い胆汁酸の制御遺伝子FXR・SHPを3〜4倍に高め、体内合成と吸収のコレステロール比を22〜24%下げた閉経後女性17人のクロスオーバー試験の二次解析（AJCN 10/6、米 タフツ大学 USDA栄養老化研究センター）、約7万のバーコード系統で追ったバクテロイデス・シータイオタオミクロンが腸内で繊維分解の方向に進化し改良版が同居マウス間にうつる研究（Cell Host Microbe 10/5、米 スタンフォード大学）、ミトコンドリア膜脂質カルジオリピンの減少がERRγを介して筋肉の老化様の切り替えを起こし再発現で回復する研究（Nat Aging 9/29、デンマーク コペンハーゲン大学ほか。責任著者に創薬企業との関係）、脾臓への集束超音波が迷走神経を介して大腸炎マウスの腸と脳の炎症を抑え迷走神経切断で効果が消えた研究（Brain Behav Immun 10/6、台湾 国立陽明交通大学）を紹介。市場は米コカ・コーラのプレバイオティクス繊維6g入り定番炭酸の試験販売（10月末、NY・NJ・PA）、日本の栄養機能食品の表示改正（10/1、19成分）と消費者庁のGMP点検指針（業界紙ベース）、米FDA担当部署のグミサプリへの見解、スウェーデン ニコ・ヘルスのNY進出。AIは仏ミストラルAIのMistral Large 4（1兆パラメーター中520億稼働、10月末に重み公開予定）と米パラレル・システムズの無人電動貨車1億ドル調達。お茶は日本の大橋製茶の鹿児島市抹茶工場立地協定（2028年3月操業予定）、AmazonはReview Requests広告の米国オープンベータ（10月下旬）と11/2からの賠償責任保険義務化（報道ベース）。ヘッドラインはノーベル化学賞（カガン氏・硤合憲三氏）、FRB議事要旨、米イラン協議、熱帯低気圧イサイアス、マドゥロ氏の追加起訴報道。円換算は1ドル=158.08円（10/7基準、Trading Economics）。
 
