@@ -56,58 +56,6 @@ Sources:
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>デイリーブリーフ 2026-10-11</title>
-      <description>裏テーマは「物差しを変えると、見えるものが変わる」。腸内細菌の構成が実年齢より全身の炎症をよく説明し（炎症性サイトカインの97%で年齢を上回る）、バクテロイデス2型のエンテロタイプで最大37年早い炎症老化様の状態と将来の疾患リスク約1.2倍がみられた1,199人の研究（Nat Commun、デンマーク工科大学・コペンハーゲン大学）、2,609人の単一細胞解析でキラーT細胞のグランザイムK型とB型の比率が健康な老化と病的な老化を分けた研究（Immunity 10/9、米 ワシントン大学セントルイス・英 キングス・カレッジ・ロンドンほか。特許仮出願の開示あり）、呼気の揮発性成分で食事の質と腸内細菌の働きをのぞく20人のクロスオーバー試験（Gut Microbes 10/8、ベルギー ルーヴァン・カトリック大学）、ピーナッツを腸内細菌が発酵すると短鎖脂肪酸やインドール乳酸など免疫を落ち着かせる物質が生まれる研究（Gut Microbes 10/8、アイルランド ユニバーシティ・カレッジ・コーク。食品企業からの資金の開示あり）を紹介。市場は厚生労働省「日本人のための食事ガイド（仮称）」の食事パターン重視の方向性、ニュージーランド アナジェニックスのゴールドキウイ由来「第3世代プレバイオティクス」とGLP-1使用者向け試験、伊トレント大学セガータ教授が語る菌検査から個別化栄養への課題、インドネシアのハラール認証義務化（10/18、健康食品・化粧品も対象）。AIは米アレン人工知能研究所などの既存モデルをバイト単位に作り変える研究（Nature 10/7）と、インドの学生約1万7千人の授業中スマホ回収のランダム化試験（Science 10/8）。お茶は日本のアシードビバレッジプラスの自販機専用抹茶ラテ（10/6、静岡県産、185g・160円）、Amazonは画面上の商品を探せるアレクサ・プラス搭載の新タブレット（10/8発表、12プロ 499.99ドル、およそ7万9千円）。ヘッドラインはハリケーン・イサイアス上陸、米ロの軽油合意とゼレンスキー氏の反発、米国の国際刑事裁判所本体への制裁、食料品の消費税1%法案の閣議決定、プルデンシャル生命などへの業務停止命令。円換算は1ドル=158.25円（10/9基準）。
-
-Sources:
-- Gut microbiota composition outperforms chronological age in predicting systemic inflammation and incident disease risk (Nature Communications, 2026, PMID 42844264): https://doi.org/10.1038/s41467-026-77499-9
-- Single-cell analyses of global cohorts outline determinants of immune aging and link the ratio of GZMK+ to GZMB+ Tem cells to health trajectories (Immunity, 2026-10-09, PMID 42854692): https://doi.org/10.1016/j.immuni.2026.09.012
-- Distinction of meal quality and interaction with the gut microbiota by breath volatilome analysis in humans (Gut Microbes, 2026-10-08, PMID 42850732, NCT05949411): https://doi.org/10.1080/19490976.2026.2740921
-- Gut microbial metabolism of peanuts generates immunoregulatory metabolites (Gut Microbes, 2026-10-08, PMID 42845237): https://doi.org/10.1080/19490976.2026.2743944
-- PubMed 高インパクト誌の新着スクリーニング（2026-10-08〜10-11、NCBI E-utilities で抄録・所属・利益相反を確認）: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi
-- 健康産業速報「日本人の食事ガイド、『総合的な食事の観点』で検討を」（2026-10-05）: https://www.kenko-sokuho.co.jp/breaking-news/9593/
-- NutraIngredients「3rd-gen prebiotic? Whole fruit kiwi&#x27;s benefits lie beyond fiber」（2026-10-05）: https://www.nutraingredients.com/Article/2026/10/05/3rd-gen-prebiotic-whole-fruit-kiwi-extracts-benefits-lie-beyond-fiber/
-- NutraIngredients「From microbiome sequencing to precision nutrition: What&#x27;s the missing link?」（2026-10-06）: https://www.nutraingredients.com/Article/2026/10/06/from-microbiome-sequencing-to-precision-nutrition-intervention-whats-the-missing-link/
-- 健康産業速報「インドネシアでハラール認証義務化、食品・飲料等対象に」（2026-10-08）: https://www.kenko-sokuho.co.jp/breaking-news/9699/
-- Retrofitting language models to operate over bytes (Nature, 2026-10-07, PMID 42844478): https://doi.org/10.1038/s41586-026-11111-4
-- Phones impede learning: Evidence from a massive phone-free classroom experiment (Science, 2026-10-08, PMID 42848881): https://doi.org/10.1126/science.aef7249
-- EurekAlert!「Classroom phone bans improve learning and student engagement in India」: https://www.eurekalert.org/news-releases/1146437
-- アシードビバレッジプラス ニュースリリース「静岡県産『天空の抹茶』使用 抹茶ラテ 10月6日新発売」（2026-10-02）: https://www.aseed-hd.co.jp/_news/2026/20261002-1.pdf
-- About Amazon「New Amazon Alexa Tablets with Alexa+ built in: details, availability, and pricing」（2026-10-08）: https://www.aboutamazon.com/news/devices/new-amazon-alexa-tablets-alexa-plus
-- TechCrunch「Amazon unveils new Alexa tablets with Alexa+ and Google Play Store access」（2026-10-08）: https://techcrunch.com/2026/10/08/amazon-unveils-new-alexa-tablet</description>
-      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://kengowest.github.io/audio-brief-51c973/episodes/2026-10-11.mp3" length="9231120" type="audio/mpeg"/>
-      <guid isPermaLink="false">2026-10-11.mp3</guid>
-      <itunes:duration>00:14:56</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Daily Brief 2026-10-11 (English)</title>
-      <description>裏テーマは「物差しを変えると、見えるものが変わる」。腸内細菌の構成が実年齢より全身の炎症をよく説明し（炎症性サイトカインの97%で年齢を上回る）、バクテロイデス2型のエンテロタイプで最大37年早い炎症老化様の状態と将来の疾患リスク約1.2倍がみられた1,199人の研究（Nat Commun、デンマーク工科大学・コペンハーゲン大学）、2,609人の単一細胞解析でキラーT細胞のグランザイムK型とB型の比率が健康な老化と病的な老化を分けた研究（Immunity 10/9、米 ワシントン大学セントルイス・英 キングス・カレッジ・ロンドンほか。特許仮出願の開示あり）、呼気の揮発性成分で食事の質と腸内細菌の働きをのぞく20人のクロスオーバー試験（Gut Microbes 10/8、ベルギー ルーヴァン・カトリック大学）、ピーナッツを腸内細菌が発酵すると短鎖脂肪酸やインドール乳酸など免疫を落ち着かせる物質が生まれる研究（Gut Microbes 10/8、アイルランド ユニバーシティ・カレッジ・コーク。食品企業からの資金の開示あり）を紹介。市場は厚生労働省「日本人のための食事ガイド（仮称）」の食事パターン重視の方向性、ニュージーランド アナジェニックスのゴールドキウイ由来「第3世代プレバイオティクス」とGLP-1使用者向け試験、伊トレント大学セガータ教授が語る菌検査から個別化栄養への課題、インドネシアのハラール認証義務化（10/18、健康食品・化粧品も対象）。AIは米アレン人工知能研究所などの既存モデルをバイト単位に作り変える研究（Nature 10/7）と、インドの学生約1万7千人の授業中スマホ回収のランダム化試験（Science 10/8）。お茶は日本のアシードビバレッジプラスの自販機専用抹茶ラテ（10/6、静岡県産、185g・160円）、Amazonは画面上の商品を探せるアレクサ・プラス搭載の新タブレット（10/8発表、12プロ 499.99ドル、およそ7万9千円）。ヘッドラインはハリケーン・イサイアス上陸、米ロの軽油合意とゼレンスキー氏の反発、米国の国際刑事裁判所本体への制裁、食料品の消費税1%法案の閣議決定、プルデンシャル生命などへの業務停止命令。円換算は1ドル=158.25円（10/9基準）。
-
-Sources:
-- Gut microbiota composition outperforms chronological age in predicting systemic inflammation and incident disease risk (Nature Communications, 2026, PMID 42844264): https://doi.org/10.1038/s41467-026-77499-9
-- Single-cell analyses of global cohorts outline determinants of immune aging and link the ratio of GZMK+ to GZMB+ Tem cells to health trajectories (Immunity, 2026-10-09, PMID 42854692): https://doi.org/10.1016/j.immuni.2026.09.012
-- Distinction of meal quality and interaction with the gut microbiota by breath volatilome analysis in humans (Gut Microbes, 2026-10-08, PMID 42850732, NCT05949411): https://doi.org/10.1080/19490976.2026.2740921
-- Gut microbial metabolism of peanuts generates immunoregulatory metabolites (Gut Microbes, 2026-10-08, PMID 42845237): https://doi.org/10.1080/19490976.2026.2743944
-- PubMed 高インパクト誌の新着スクリーニング（2026-10-08〜10-11、NCBI E-utilities で抄録・所属・利益相反を確認）: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi
-- 健康産業速報「日本人の食事ガイド、『総合的な食事の観点』で検討を」（2026-10-05）: https://www.kenko-sokuho.co.jp/breaking-news/9593/
-- NutraIngredients「3rd-gen prebiotic? Whole fruit kiwi&#x27;s benefits lie beyond fiber」（2026-10-05）: https://www.nutraingredients.com/Article/2026/10/05/3rd-gen-prebiotic-whole-fruit-kiwi-extracts-benefits-lie-beyond-fiber/
-- NutraIngredients「From microbiome sequencing to precision nutrition: What&#x27;s the missing link?」（2026-10-06）: https://www.nutraingredients.com/Article/2026/10/06/from-microbiome-sequencing-to-precision-nutrition-intervention-whats-the-missing-link/
-- 健康産業速報「インドネシアでハラール認証義務化、食品・飲料等対象に」（2026-10-08）: https://www.kenko-sokuho.co.jp/breaking-news/9699/
-- Retrofitting language models to operate over bytes (Nature, 2026-10-07, PMID 42844478): https://doi.org/10.1038/s41586-026-11111-4
-- Phones impede learning: Evidence from a massive phone-free classroom experiment (Science, 2026-10-08, PMID 42848881): https://doi.org/10.1126/science.aef7249
-- EurekAlert!「Classroom phone bans improve learning and student engagement in India」: https://www.eurekalert.org/news-releases/1146437
-- アシードビバレッジプラス ニュースリリース「静岡県産『天空の抹茶』使用 抹茶ラテ 10月6日新発売」（2026-10-02）: https://www.aseed-hd.co.jp/_news/2026/20261002-1.pdf
-- About Amazon「New Amazon Alexa Tablets with Alexa+ built in: details, availability, and pricing」（2026-10-08）: https://www.aboutamazon.com/news/devices/new-amazon-alexa-tablets-alexa-plus
-- TechCrunch「Amazon unveils new Alexa tablets with Alexa+ and Google Play Store access」（2026-10-08）: https://techcrunch.com/2026/10/08/amazon-unveils-new-alexa-tablet</description>
-      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://kengowest.github.io/audio-brief-51c973/episodes/2026-10-11-en.mp3" length="6128208" type="audio/mpeg"/>
-      <guid isPermaLink="false">2026-10-11-en.mp3</guid>
-      <itunes:duration>00:30:36</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
       <title>デイリーブリーフ 特別編：ミトコンドリア 第1回 正体と成り立ち 2026-07-03</title>
       <description>【ミトコンドリア編 第1回・正体と成り立ち】細胞の「発電所」ミトコンドリアの正体を入り口から。二重膜のひだ(クリステ)に発電装置が並び、心臓では1日およそ30kgのエネルギー物質を作る。約20億年前に細菌が細胞に飲み込まれた細胞内共生が起源で、今も母から受け継ぐ独自DNAを持つ。発電だけでなく細胞死・免疫・代謝を束ねる「司令塔」で、健康長寿ブームを背景にNAD+やウロリチンA市場が拡大中。ただしヒトでの寿命延長効果は未確立、という定説とハイプの境目まで扱う。
 
